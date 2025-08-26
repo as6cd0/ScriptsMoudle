@@ -139,6 +139,16 @@ return {
         ["de"] = "Info",
         ["pt"] = "Informações"
     },
+    ["Language"] = {
+        ["en"] = "Language",
+        ["ar"] = "اللغة",
+        ["ru"] = "Язык",
+        ["tr"] = "Dil",
+        ["es"] = "Idioma",
+        ["fr"] = "Langue",
+        ["de"] = "Sprache",
+        ["pt"] = "Idioma"
+    },
     ["Set Language"] = {
         ["en"] = "Set Language",
         ["ar"] = "تعيين اللغة",
@@ -1189,7 +1199,7 @@ return {
         ["de"] = "Leere Bio",
         ["pt"] = "Biografia Vazia"
     },
-    ["Players Count"] = {
+    ["Players Count: "] = {
         ["en"] = "Players Count: ",
         ["ar"] = "عدد الاعبين: ",
         ["ru"] = "Количество игроков: ",

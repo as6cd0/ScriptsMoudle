@@ -89,6 +89,36 @@ return {
         ["de"] = "Töten Stoppen",
         ["pt"] = "Parar de Matar"
     },
+    ["Faster Kill Click Tool"] = {
+        ["en"] = "Faster Kill Click Tool",
+        ["ar"] = "أداة القتل السريع بالضغط",
+        ["ru"] = "Инструмент быстрого убийства",
+        ["tr"] = "Hızlı Öldürme Tıklama Aracı",
+        ["es"] = "Herramienta de Muerte Rápida con Clic",
+        ["fr"] = "Outil de meurtre rapide par clic",
+        ["de"] = "Schnell-Kill Klick-Werkzeug",
+        ["pt"] = "Ferramenta de Matar Rápido com Clique"
+    },
+    ["Fast kill"] = {
+        ["en"] = "Fast kill",
+        ["ar"] = "قتل سريع",
+        ["ru"] = "Быстрое убийство",
+        ["tr"] = "Hızlı öldürme",
+        ["es"] = "Muerte rápida",
+        ["fr"] = "Meurtre rapide",
+        ["de"] = "Schnelltöten",
+        ["pt"] = "Matar rápido"
+    },
+    ["Select Kill Type"] = {
+        ["en"] = "Select Kill Type",
+        ["ar"] = "اختر نوع القتل",
+        ["ru"] = "Выберите тип убийства",
+        ["tr"] = "Öldürme Türünü Seç",
+        ["es"] = "Seleccionar Tipo de Muerte",
+        ["fr"] = "Sélectionner le type de meurtre",
+        ["de"] = "Tötungsart auswählen",
+        ["pt"] = "Selecionar Tipo de Morte"
+    },
     ["Catch player"] = {
         ["en"] = "Catch player",
         ["ar"] = "امسك الاعب",

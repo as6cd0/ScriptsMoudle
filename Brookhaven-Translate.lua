@@ -9,6 +9,56 @@ return {
         ["de"] = "Spieler Geschwindigkeit",
         ["pt"] = "Velocidade do Jogador"
     },
+    ["Pickup the tool to show all type kill"] = {
+        ["en"] = "Pickup the tool to show all type kill",
+        ["ar"] = "امسك الأداة لعرض جميع أنواع القتل",
+        ["ru"] = "Возьми инструмент, чтобы показать все виды убийств",
+        ["tr"] = "Tüm öldürme türlerini göstermek için aracı al",
+        ["es"] = "Recoge la herramienta para mostrar todos los tipos de kill",
+        ["fr"] = "Prenez l'outil pour afficher tous les types de kill",
+        ["de"] = "Nimm das Werkzeug, um alle Kill-Arten anzuzeigen",
+        ["pt"] = "Pegue a ferramenta para mostrar todos os tipos de kill"
+    },
+    ["Boat"] = {
+        ["en"] = "Boat",
+        ["ar"] = "قارب",
+        ["ru"] = "Лодка",
+        ["tr"] = "Tekne",
+        ["es"] = "Barco",
+        ["fr"] = "Bateau",
+        ["de"] = "Boot",
+        ["pt"] = "Barco"
+    },
+    ["Ship"] = {
+        ["en"] = "Ship",
+        ["ar"] = "سفينة",
+        ["ru"] = "Корабль",
+        ["tr"] = "Gemi",
+        ["es"] = "Nave",
+        ["fr"] = "Navire",
+        ["de"] = "Schiff",
+        ["pt"] = "Navio"
+    },
+    ["Ball"] = {
+        ["en"] = "Ball",
+        ["ar"] = "كرة",
+        ["ru"] = "Мяч",
+        ["tr"] = "Top",
+        ["es"] = "Pelota",
+        ["fr"] = "Balle",
+        ["de"] = "Ball",
+        ["pt"] = "Bola"
+    },
+    ["Bus"] = {
+        ["en"] = "Bus",
+        ["ar"] = "حافلة",
+        ["ru"] = "Автобус",
+        ["tr"] = "Otobüs",
+        ["es"] = "Autobús",
+        ["fr"] = "Bus",
+        ["de"] = "Bus",
+        ["pt"] = "Ônibus"
+    },
     ["Features"] = {
         ["en"] = "Features",
         ["ar"] = "المميزات",

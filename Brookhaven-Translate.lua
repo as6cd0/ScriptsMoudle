@@ -19,6 +19,26 @@ return {
         ["de"] = "Nimm das Werkzeug, um alle Kill-Arten anzuzeigen",
         ["pt"] = "Pegue a ferramenta para mostrar todos os tipos de kill"
     },
+    ["Fast kill"] = {
+        ["en"] = "Fast kill",
+        ["ar"] = "قتل سريع",
+        ["ru"] = "Быстрое убийство",
+        ["tr"] = "Hızlı öldürme",
+        ["es"] = "Muerte rápida",
+        ["fr"] = "Mort rapide",
+        ["de"] = "Schneller Kill",
+        ["pt"] = "Morte rápida"
+    },
+    ["Kill"] = {
+        ["en"] = "Kill",
+        ["ar"] = "قتل",
+        ["ru"] = "Убить",
+        ["tr"] = "Öldür",
+        ["es"] = "Matar",
+        ["fr"] = "Tuer",
+        ["de"] = "Töten",
+        ["pt"] = "Matar"
+    },
     ["Boat"] = {
         ["en"] = "Boat",
         ["ar"] = "قارب",

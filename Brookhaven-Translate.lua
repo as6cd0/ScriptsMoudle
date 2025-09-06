@@ -9,6 +9,16 @@ return {
         ["de"] = "Spieler Geschwindigkeit",
         ["pt"] = "Velocidade do Jogador"
     },
+    ["Swim"] = {
+        ["en"] = "Swim",
+        ["ar"] = "السباحة",
+        ["ru"] = "Плавание",
+        ["tr"] = "Yüzme",
+        ["es"] = "Nadar",
+        ["fr"] = "Nager",
+        ["de"] = "Schwimmen",
+        ["pt"] = "Nadar"
+    },
     ["Pickup the tool to show all type kill"] = {
         ["en"] = "Pickup the tool to show all type kill",
         ["ar"] = "امسك الأداة لعرض جميع أنواع القتل",

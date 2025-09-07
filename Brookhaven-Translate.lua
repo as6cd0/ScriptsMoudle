@@ -79,6 +79,16 @@ return {
         ["de"] = "Emote Liste",
         ["pt"] = "Lista de Emotes"
     },
+    ["Failed to play emote:"] = {
+    ["en"] = "Failed to play emote:",
+    ["ar"] = "فشل في تشغيل الرقصه:",
+    ["ru"] = "Не удалось воспроизвести эмоцию:",
+    ["tr"] = "İfade oynatılamadı:",
+    ["es"] = "Error al reproducir emoticono:",
+    ["fr"] = "Échec de la lecture de l'émoticône:",
+    ["de"] = "Fehler beim Abspielen des Emotes:",
+    ["pt"] = "Falha ao reproduzir emote:"
+},
     ["Play Selected Emote"] = {
         ["en"] = "Play Selected Emote",
         ["ar"] = "تشغيل الرقصة المحدده",

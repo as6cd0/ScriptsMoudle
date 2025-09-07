@@ -9,6 +9,196 @@ return {
         ["de"] = "Spieler Geschwindigkeit",
         ["pt"] = "Velocidade do Jogador"
     },
+        ["Emotes"] = {
+        ["en"] = "Emotes",
+        ["ar"] = "الرقصات",
+        ["ru"] = "Эмоции",
+        ["tr"] = "İfadeler",
+        ["es"] = "Emoticonos",
+        ["fr"] = "Émoticônes",
+        ["de"] = "Emotes",
+        ["pt"] = "Emotes"
+    },
+    ["Custom Emote ID"] = {
+        ["en"] = "Custom Emote ID",
+        ["ar"] = "معرف الرقصة المخصص",
+        ["ru"] = "Пользовательский ID эмоции",
+        ["tr"] = "Özel İfade ID",
+        ["es"] = "ID de Emoticono Personalizado",
+        ["fr"] = "ID d'Émoticône Personnalisé",
+        ["de"] = "Benutzerdefinierte Emote ID",
+        ["pt"] = "ID de Emote Personalizado"
+    },
+    ["Play Custom Emote"] = {
+        ["en"] = "Play Custom Emote",
+        ["ar"] = "تشغيل الرقصة المخصص",
+        ["ru"] = "Воспроизвести пользовательскую эмоцию",
+        ["tr"] = "Özel İfadeyi Oynat",
+        ["es"] = "Reproducir Emoticono Personalizado",
+        ["fr"] = "Jouer l'Émoticône Personnalisé",
+        ["de"] = "Benutzerdefiniertes Emote abspielen",
+        ["pt"] = "Reproduzir Emote Personalizado"
+    },
+    ["Error"] = {
+        ["en"] = "Error",
+        ["ar"] = "خطأ",
+        ["ru"] = "Ошибка",
+        ["tr"] = "Hata",
+        ["es"] = "Error",
+        ["fr"] = "Erreur",
+        ["de"] = "Fehler",
+        ["pt"] = "Erro"
+    },
+    ["Invalid Emote ID"] = {
+        ["en"] = "Invalid Emote ID",
+        ["ar"] = "معرف الإيموجي غير صالح",
+        ["ru"] = "Неверный ID эмоции",
+        ["tr"] = "Geçersiz İfade ID",
+        ["es"] = "ID de Emoticono Inválido",
+        ["fr"] = "ID d'Émoticône Invalide",
+        ["de"] = "Ungültige Emote ID",
+        ["pt"] = "ID de Emote Inválido"
+    },
+    ["Emotes List"] = {
+        ["en"] = "Emotes List",
+        ["ar"] = "قائمة الرقصات",
+        ["ru"] = "Список эмоций",
+        ["tr"] = "İfadeler Listesi",
+        ["es"] = "Lista de Emoticonos",
+        ["fr"] = "Liste des Émoticônes",
+        ["de"] = "Emotes Liste",
+        ["pt"] = "Lista de Emotes"
+    },
+    ["Emote List"] = {
+        ["en"] = "Emote List",
+        ["ar"] = "قائمة الرقص",
+        ["ru"] = "Список эмоций",
+        ["tr"] = "İfade Listesi",
+        ["es"] = "Lista de Emoticonos",
+        ["fr"] = "Liste des Émoticônes",
+        ["de"] = "Emote Liste",
+        ["pt"] = "Lista de Emotes"
+    },
+    ["Play Selected Emote"] = {
+        ["en"] = "Play Selected Emote",
+        ["ar"] = "تشغيل الرقصة المحدده",
+        ["ru"] = "Воспроизвести выбранную эмоцию",
+        ["tr"] = "Seçili İfadeyi Oynat",
+        ["es"] = "Reproducir Emoticono Seleccionado",
+        ["fr"] = "Jouer l'Émoticône Sélectionné",
+        ["de"] = "Ausgewähltes Emote abspielen",
+        ["pt"] = "Reproduzir Emote Selecionado"
+    },
+    ["No emote selected"] = {
+        ["en"] = "No emote selected",
+        ["ar"] = "لم تتم اختيار رقصة",
+        ["ru"] = "Пресет не выбран",
+        ["tr"] = "Ön ayar seçilmedi",
+        ["es"] = "Ningún preset seleccionado",
+        ["fr"] = "Aucun préréglage sélectionné",
+        ["de"] = "Kein Preset ausgewählt",
+        ["pt"] = "Nenhum preset selecionado"
+    },
+    ["Selected emote has no id"] = {
+        ["en"] = "Selected emote has no id",
+        ["ar"] = "الرقصة المختارة لا تحتوي علي معرف",
+        ["ru"] = "Выбранный пресет не имеет ID",
+        ["tr"] = "Seçili ön ayarın ID'si yok",
+        ["es"] = "El preset seleccionado no tiene ID",
+        ["fr"] = "Le préréglage sélectionné n'a pas d'ID",
+        ["de"] = "Ausgewähltes Preset hat keine ID",
+        ["pt"] = "O preset selecionado não tem ID"
+    },
+    ["Emotes List Edit"] = {
+        ["en"] = "Emotes List Edit",
+        ["ar"] = "تعديل قائمة الرقصات",
+        ["ru"] = "Редактирование списка эмоций",
+        ["tr"] = "İfadeler Listesi Düzenle",
+        ["es"] = "Editar Lista de Emoticonos",
+        ["fr"] = "Modifier la Liste des Émoticônes",
+        ["de"] = "Emotes Liste Bearbeiten",
+        ["pt"] = "Editar Lista de Emotes"
+    },
+    ["Add Emote ID"] = {
+        ["en"] = "Add Emote ID",
+        ["ar"] = "إضافة رقصه",
+        ["ru"] = "Добавить ID эмоции",
+        ["tr"] = "İfade ID Ekle",
+        ["es"] = "Agregar ID de Emoticono",
+        ["fr"] = "Ajouter un ID d'Émoticône",
+        ["de"] = "Emote ID hinzufügen",
+        ["pt"] = "Adicionar ID de Emote"
+    },
+    ["Invalid ID"] = {
+        ["en"] = "Invalid ID",
+        ["ar"] = "معرف غير صالح",
+        ["ru"] = "Неверный ID",
+        ["tr"] = "Geçersiz ID",
+        ["es"] = "ID Inválido",
+        ["fr"] = "ID Invalide",
+        ["de"] = "Ungültige ID",
+        ["pt"] = "ID Inválido"
+    },
+    ["Added"] = {
+        ["en"] = "Added",
+        ["ar"] = "تمت الإضافة",
+        ["ru"] = "Добавлено",
+        ["tr"] = "Eklendi",
+        ["es"] = "Agregado",
+        ["fr"] = "Ajouté",
+        ["de"] = "Hinzugefügt",
+        ["pt"] = "Adicionado"
+    },
+    ["Remove Selected Emote"] = {
+        ["en"] = "Remove Selected Emote",
+        ["ar"] = "إزالة الرقصة المحدده",
+        ["ru"] = "Удалить выбранную эмоцию",
+        ["tr"] = "Seçili İfadeyi Kaldır",
+        ["es"] = "Eliminar Emoticono Seleccionado",
+        ["fr"] = "Supprimer l'Émoticône Sélectionné",
+        ["de"] = "Ausgewähltes Emote entfernen",
+        ["pt"] = "Remover Emote Selecionado"
+    },
+    ["Selected not in list"] = {
+        ["en"] = "Selected not in list",
+        ["ar"] = "المحدد غير موجود في الإعدادات المسبقة",
+        ["ru"] = "Выбранное отсутствует в пресетах",
+        ["tr"] = "Seçili ön ayarlarda değil",
+        ["es"] = "Seleccionado no está en presets",
+        ["fr"] = "Sélectionné non présent dans les préréglages",
+        ["de"] = "Ausgewählt nicht in Presets",
+        ["pt"] = "Selecionado não está nos presets"
+    },
+    ["Removed"] = {
+        ["en"] = "Removed",
+        ["ar"] = "تمت الإزالة",
+        ["ru"] = "Удалено",
+        ["tr"] = "Kaldırıldı",
+        ["es"] = "Eliminado",
+        ["fr"] = "Supprimé",
+        ["de"] = "Entfernt",
+        ["pt"] = "Removido"
+    },
+    ["Refresh List"] = {
+        ["en"] = "Refresh List",
+        ["ar"] = "تحديث القائمة",
+        ["ru"] = "Обновить список",
+        ["tr"] = "Listeyi Yenile",
+        ["es"] = "Actualizar Lista",
+        ["fr"] = "Actualiser la Liste",
+        ["de"] = "Liste aktualisieren",
+        ["pt"] = "Atualizar Lista"
+    },
+    ["Refreshed"] = {
+        ["en"] = "Refreshed",
+        ["ar"] = "تم التحديث",
+        ["ru"] = "Обновлено",
+        ["tr"] = "Yenilendi",
+        ["es"] = "Actualizado",
+        ["fr"] = "Actualisé",
+        ["de"] = "Aktualisiert",
+        ["pt"] = "Atualizado"
+    },
     ["Swim"] = {
         ["en"] = "Swim",
         ["ar"] = "السباحة",

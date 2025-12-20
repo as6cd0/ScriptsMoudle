@@ -9,7 +9,7 @@ return {
         ["de"] = "Spieler Geschwindigkeit",
         ["pt"] = "Velocidade do Jogador"
     },
-        ["Emotes"] = {
+    ["Emotes"] = {
         ["en"] = "Emotes",
         ["ar"] = "الرقصات",
         ["ru"] = "Эмоции",
@@ -22,7 +22,7 @@ return {
     ["Custom Emote ID"] = {
         ["en"] = "Custom Emote ID",
         ["ar"] = "معرف الرقصة المخصص",
-        ["ru"] = "Пользовательский ID эмоции",
+        ["ru"] = "Кастомизированный ID эмоции",
         ["tr"] = "Özel İfade ID",
         ["es"] = "ID de Emoticono Personalizado",
         ["fr"] = "ID d'Émoticône Personnalisé",
@@ -32,7 +32,7 @@ return {
     ["Play Custom Emote"] = {
         ["en"] = "Play Custom Emote",
         ["ar"] = "تشغيل الرقصة المخصص",
-        ["ru"] = "Воспроизвести пользовательскую эмоцию",
+        ["ru"] = "Воспроизвести свою эмоцию",
         ["tr"] = "Özel İfadeyi Oynat",
         ["es"] = "Reproducir Emoticono Personalizado",
         ["fr"] = "Jouer l'Émoticône Personnalisé",
@@ -80,15 +80,15 @@ return {
         ["pt"] = "Lista de Emotes"
     },
     ["Failed to play emote:"] = {
-    ["en"] = "Failed to play emote:",
-    ["ar"] = "فشل في تشغيل الرقصه:",
-    ["ru"] = "Не удалось воспроизвести эмоцию:",
-    ["tr"] = "İfade oynatılamadı:",
-    ["es"] = "Error al reproducir emoticono:",
-    ["fr"] = "Échec de la lecture de l'émoticône:",
-    ["de"] = "Fehler beim Abspielen des Emotes:",
-    ["pt"] = "Falha ao reproduzir emote:"
-},
+        ["en"] = "Failed to play emote:",
+        ["ar"] = "فشل في تشغيل الرقصه:",
+        ["ru"] = "Не удалось воспроизвести эмоцию:",
+        ["tr"] = "İfade oynatılamadı:",
+        ["es"] = "Error al reproducir emoticono:",
+        ["fr"] = "Échec de la lecture de l'émoticône:",
+        ["de"] = "Fehler beim Abspielen des Emotes:",
+        ["pt"] = "Falha ao reproduzir emote:"
+    },
     ["Play Selected Emote"] = {
         ["en"] = "Play Selected Emote",
         ["ar"] = "تشغيل الرقصة المحدده",
@@ -102,27 +102,27 @@ return {
     ["No emote selected"] = {
         ["en"] = "No emote selected",
         ["ar"] = "لم تتم اختيار رقصة",
-        ["ru"] = "Пресет не выбран",
-        ["tr"] = "Ön ayar seçilmedi",
-        ["es"] = "Ningún preset seleccionado",
-        ["fr"] = "Aucun préréglage sélectionné",
-        ["de"] = "Kein Preset ausgewählt",
-        ["pt"] = "Nenhum preset selecionado"
+        ["ru"] = "Эмоция не выбрана",
+        ["tr"] = "İfade seçilmedi",
+        ["es"] = "Ningún emoticono seleccionado",
+        ["fr"] = "Aucun émoticône sélectionné",
+        ["de"] = "Kein Emote ausgewählt",
+        ["pt"] = "Nenhum emote selecionado"
     },
     ["Selected emote has no id"] = {
         ["en"] = "Selected emote has no id",
         ["ar"] = "الرقصة المختارة لا تحتوي علي معرف",
-        ["ru"] = "Выбранный пресет не имеет ID",
-        ["tr"] = "Seçili ön ayarın ID'si yok",
-        ["es"] = "El preset seleccionado no tiene ID",
-        ["fr"] = "Le préréglage sélectionné n'a pas d'ID",
-        ["de"] = "Ausgewähltes Preset hat keine ID",
-        ["pt"] = "O preset selecionado não tem ID"
+        ["ru"] = "Выбранная эмоция не имеет ID",
+        ["tr"] = "Seçili ifadenin ID'si yok",
+        ["es"] = "El emoticono seleccionado no tiene ID",
+        ["fr"] = "L'émoticône sélectionné n'a pas d'ID",
+        ["de"] = "Ausgewähltes Emote hat keine ID",
+        ["pt"] = "O emote selecionado não tem ID"
     },
     ["Emotes List Edit"] = {
         ["en"] = "Emotes List Edit",
         ["ar"] = "تعديل قائمة الرقصات",
-        ["ru"] = "Редактирование списка эмоций",
+        ["ru"] = "Редактор списка эмоций",
         ["tr"] = "İfadeler Listesi Düzenle",
         ["es"] = "Editar Lista de Emoticonos",
         ["fr"] = "Modifier la Liste des Émoticônes",
@@ -171,13 +171,13 @@ return {
     },
     ["Selected not in list"] = {
         ["en"] = "Selected not in list",
-        ["ar"] = "المحدد غير موجود في الإعدادات المسبقة",
-        ["ru"] = "Выбранное отсутствует в пресетах",
-        ["tr"] = "Seçili ön ayarlarda değil",
-        ["es"] = "Seleccionado no está en presets",
-        ["fr"] = "Sélectionné non présent dans les préréglages",
-        ["de"] = "Ausgewählt nicht in Presets",
-        ["pt"] = "Selecionado não está nos presets"
+        ["ar"] = "المحدد غير موجود في القائمة",
+        ["ru"] = "Выбранное отсутствует в списке",
+        ["tr"] = "Seçili listede değil",
+        ["es"] = "Seleccionado no está en la lista",
+        ["fr"] = "Sélectionné non présent dans la liste",
+        ["de"] = "Ausgewählt nicht in der Liste",
+        ["pt"] = "Selecionado não está na lista"
     },
     ["Removed"] = {
         ["en"] = "Removed",
@@ -212,8 +212,8 @@ return {
     ["Swim"] = {
         ["en"] = "Swim",
         ["ar"] = "السباحة",
-        ["ru"] = "Плавание",
-        ["tr"] = "Yüzme",
+        ["ru"] = "Плавать",
+        ["tr"] = "Yüzmek",
         ["es"] = "Nadar",
         ["fr"] = "Nager",
         ["de"] = "Schwimmen",
@@ -222,27 +222,27 @@ return {
     ["Pickup the tool to show all type kill"] = {
         ["en"] = "Pickup the tool to show all type kill",
         ["ar"] = "امسك الأداة لعرض جميع أنواع القتل",
-        ["ru"] = "Возьми инструмент, чтобы показать все виды убийств",
+        ["ru"] = "Возьми инструмент для показа всех видов киллов",
         ["tr"] = "Tüm öldürme türlerini göstermek için aracı al",
-        ["es"] = "Recoge la herramienta para mostrar todos los tipos de kill",
-        ["fr"] = "Prenez l'outil pour afficher tous les types de kill",
+        ["es"] = "Recoge la herramienta para mostrar todos los tipos de muerte",
+        ["fr"] = "Prenez l'outil pour afficher tous les types de meurtre",
         ["de"] = "Nimm das Werkzeug, um alle Kill-Arten anzuzeigen",
-        ["pt"] = "Pegue a ferramenta para mostrar todos os tipos de kill"
+        ["pt"] = "Pegue a ferramenta para mostrar todos os tipos de morte"
     },
     ["Fast kill"] = {
         ["en"] = "Fast kill",
         ["ar"] = "قتل سريع",
-        ["ru"] = "Быстрое убийство",
+        ["ru"] = "Быстрый килл",
         ["tr"] = "Hızlı öldürme",
         ["es"] = "Muerte rápida",
-        ["fr"] = "Mort rapide",
+        ["fr"] = "Meurtre rapide",
         ["de"] = "Schneller Kill",
         ["pt"] = "Morte rápida"
     },
     ["Kill"] = {
         ["en"] = "Kill",
         ["ar"] = "قتل",
-        ["ru"] = "Убить",
+        ["ru"] = "Килл",
         ["tr"] = "Öldür",
         ["es"] = "Matar",
         ["fr"] = "Tuer",
@@ -292,7 +292,7 @@ return {
     ["Features"] = {
         ["en"] = "Features",
         ["ar"] = "المميزات",
-        ["ru"] = "Характеристики",
+        ["ru"] = "Функции",
         ["tr"] = "Özellikler",
         ["es"] = "Características",
         ["fr"] = "Fonctionnalités",
@@ -312,7 +312,7 @@ return {
     ["Spectate Player"] = {
         ["en"] = "Spectate Player",
         ["ar"] = "مراقبة الاعب",
-        ["ru"] = "Наблюдающий игрок",
+        ["ru"] = "Наблюдать за игроком",
         ["tr"] = "Oyuncuyu İzle",
         ["es"] = "Observar Jugador",
         ["fr"] = "Regarder le Joueur",
@@ -322,17 +322,17 @@ return {
     ["Kill System"] = {
         ["en"] = "Kill System",
         ["ar"] = "نظام القتل",
-        ["ru"] = "Система убийств",
+        ["ru"] = "Килл система",  -- تم التصحيح: بدلاً من "Убить систему"
         ["tr"] = "Öldürme Sistemi",
         ["es"] = "Sistema de Asesinato",
-        ["fr"] = "Système de Mort",
+        ["fr"] = "Système de Meurtre",
         ["de"] = "Kill System",
         ["pt"] = "Sistema de Morte"
     },
     ["Bring System"] = {
         ["en"] = "Bring System",
         ["ar"] = "نظام السحب",
-        ["ru"] = "Система вывода средств",
+        ["ru"] = "Телепорт система",  -- تم التصحيح: بدلاً من "Система вывода"
         ["tr"] = "Getirme Sistemi",
         ["es"] = "Sistema de Traer",
         ["fr"] = "Système d'Amener",
@@ -342,7 +342,7 @@ return {
     ["Auto Features"] = {
         ["en"] = "Auto Features",
         ["ar"] = "المميزات التلقائيه",
-        ["ru"] = "Автоматические функции",
+        ["ru"] = "Авто функции",
         ["tr"] = "Otomatik Özellikler",
         ["es"] = "Características Automáticas",
         ["fr"] = "Fonctionnalités Automatiques",
@@ -352,17 +352,17 @@ return {
     ["Stop Kill For All Type"] = {
         ["en"] = "Stop Kill For All Type",
         ["ar"] = "توقف القتل من جميع الانواع",
-        ["ru"] = "Прекратите убийства всех видов",
+        ["ru"] = "Стоп киллов всех видов",
         ["tr"] = "Tüm Türler İçin Öldürmeyi Durdur",
         ["es"] = "Detener Asesinato Para Todos Los Tipos",
-        ["fr"] = "Arrêter les Morts pour Tous les Types",
+        ["fr"] = "Arrêter les Meurtres pour Tous les Types",
         ["de"] = "Stoppe Kill für alle Typen",
         ["pt"] = "Parar Morte para Todos os Tipos"
     },
     ["Stop Killing"] = {
         ["en"] = "Stop Killing",
         ["ar"] = "توقف القتل",
-        ["ru"] = "Убийства прекратились",
+        ["ru"] = "Остановить киллы",
         ["tr"] = "Öldürmeyi Durdur",
         ["es"] = "Detener Asesinatos",
         ["fr"] = "Arrêter de Tuer",
@@ -372,7 +372,7 @@ return {
     ["Faster Kill Click Tool"] = {
         ["en"] = "Faster Kill Click Tool",
         ["ar"] = "أداة القتل السريع بالضغط",
-        ["ru"] = "Инструмент быстрого убийства",
+        ["ru"] = "Инструмент быстрого килла",
         ["tr"] = "Hızlı Öldürme Tıklama Aracı",
         ["es"] = "Herramienta de Muerte Rápida con Clic",
         ["fr"] = "Outil de meurtre rapide par clic",
@@ -382,7 +382,7 @@ return {
     ["Fast kill"] = {
         ["en"] = "Fast kill",
         ["ar"] = "قتل سريع",
-        ["ru"] = "Быстрое убийство",
+        ["ru"] = "Быстрый килл",
         ["tr"] = "Hızlı öldürme",
         ["es"] = "Muerte rápida",
         ["fr"] = "Meurtre rapide",
@@ -392,7 +392,7 @@ return {
     ["Select Kill Type"] = {
         ["en"] = "Select Kill Type",
         ["ar"] = "اختر نوع القتل",
-        ["ru"] = "Выберите тип убийства",
+        ["ru"] = "Выберите тип килла",
         ["tr"] = "Öldürme Türünü Seç",
         ["es"] = "Seleccionar Tipo de Muerte",
         ["fr"] = "Sélectionner le type de meurtre",
@@ -412,7 +412,7 @@ return {
     ["Catch And Kill Player"] = {
         ["en"] = "Catch And Kill Player",
         ["ar"] = "امسك الاعب و اقتله",
-        ["ru"] = "Поймайте и убейте игрока",
+        ["ru"] = "Поймать и убить игрока",
         ["tr"] = "Oyuncuyu Yakala ve Öldür",
         ["es"] = "Atrapar y Matar Jugador",
         ["fr"] = "Attraper et Tuer le Joueur",
@@ -422,7 +422,7 @@ return {
     ["Disable Catch And Kill"] = {
         ["en"] = "Disable Catch And Kill",
         ["ar"] = "تعطيل المسك و القتل",
-        ["ru"] = "Отключить мускул и убить",
+        ["ru"] = "Отключить ловлю и убийство",  -- تم التصحيح: بدلاً من "Отключить мускулы и убить"
         ["tr"] = "Yakala ve Öldür'ü Devre Dışı Bırak",
         ["es"] = "Desactivar Atrapar y Matar",
         ["fr"] = "Désactiver Attraper et Tuer",
@@ -432,7 +432,7 @@ return {
     ["More Features"] = {
         ["en"] = "More Features",
         ["ar"] = "مميزات اضافيه",
-        ["ru"] = "Дополнительные возможности",
+        ["ru"] = "Больше функций",
         ["tr"] = "Daha Fazla Özellik",
         ["es"] = "Más Características",
         ["fr"] = "Plus de Fonctionnalités",
@@ -462,7 +462,7 @@ return {
     ["Set Language"] = {
         ["en"] = "Set Language",
         ["ar"] = "تعيين اللغة",
-        ["ru"] = "Выбрать язык",
+        ["ru"] = "Установить язык",
         ["tr"] = "Dili Ayarla",
         ["es"] = "Establecer Idioma",
         ["fr"] = "Définir la Langue",
@@ -492,7 +492,7 @@ return {
     ["Kill"] = {
         ["en"] = "Kill",
         ["ar"] = "القتل",
-        ["ru"] = "Убить",
+        ["ru"] = "Килл",
         ["tr"] = "Öldür",
         ["es"] = "Matar",
         ["fr"] = "Tuer",
@@ -502,10 +502,10 @@ return {
     ["Auto Kill"] = {
         ["en"] = "Auto Kill",
         ["ar"] = "القتل التلقائي",
-        ["ru"] = "Авто убийство",
+        ["ru"] = "Авто килл",
         ["tr"] = "Otomatik Öldür",
         ["es"] = "Asesinato Automático",
-        ["fr"] = "Mort Automatique",
+        ["fr"] = "Meurtre Automatique",
         ["de"] = "Automatisch Töten",
         ["pt"] = "Matar Automaticamente"
     },
@@ -522,7 +522,7 @@ return {
     ["Bring Player"] = {
         ["en"] = "Bring Player",
         ["ar"] = "سحب الاعب",
-        ["ru"] = "Притянуть игрока",
+        ["ru"] = "Телепортировать игрока",
         ["tr"] = "Oyuncuyu Getir",
         ["es"] = "Traer Jugador",
         ["fr"] = "Amener le Joueur",
@@ -532,7 +532,7 @@ return {
     ["Auto Kill Selected Player"] = {
         ["en"] = "Auto Kill Selected Player",
         ["ar"] = "قتل الاعب المختار تلقائي",
-        ["ru"] = "Авто убийство выбранного игрока",
+        ["ru"] = "Авто килл выбранного игрока",
         ["tr"] = "Seçilen Oyuncuyu Otomatik Öldür",
         ["es"] = "Matar Automáticamente al Jugador Seleccionado",
         ["fr"] = "Tuer Automatiquement le Joueur Sélectionné",
@@ -622,7 +622,7 @@ return {
     ["Mod"] = {
         ["en"] = "Mod",
         ["ar"] = "تعديل",
-        ["ru"] = "Моды",
+        ["ru"] = "Мод",
         ["tr"] = "Mod",
         ["es"] = "Mod",
         ["fr"] = "Mod",
@@ -642,7 +642,7 @@ return {
     ["Protect"] = {
         ["en"] = "Protect",
         ["ar"] = "الحماية",
-        ["ru"] = "Защитить",
+        ["ru"] = "Защита",
         ["tr"] = "Koruma",
         ["es"] = "Proteger",
         ["fr"] = "Protéger",
@@ -682,7 +682,7 @@ return {
     ["Noclip"] = {
         ["en"] = "Noclip",
         ["ar"] = "العبور عبر الجدران",
-        ["ru"] = "Прохождение сквозь стены",
+        ["ru"] = "Ноклип",
         ["tr"] = "Duvar Geçme",
         ["es"] = "Atravesar Paredes",
         ["fr"] = "Traverser les Murs",
@@ -702,7 +702,7 @@ return {
     ["Anti Sit"] = {
         ["en"] = "Anti Sit",
         ["ar"] = "منع الجلوس",
-        ["ru"] = "Анти-посадка",
+        ["ru"] = "Анти-сидение",
         ["tr"] = "Oturmayı Engelle",
         ["es"] = "Anti Sentarse",
         ["fr"] = "Anti Asseoir",
@@ -712,8 +712,8 @@ return {
     ["ESP"] = {
         ["en"] = "ESP",
         ["ar"] = "كشف الأماكن",
-        ["ru"] = "Обнаружение игроков",
-        ["tr"] = "Konum Göster",
+        ["ru"] = "ЕСП",
+        ["tr"] = "ESP",
         ["es"] = "ESP",
         ["fr"] = "ESP",
         ["de"] = "ESP",
@@ -732,7 +732,7 @@ return {
     ["Flashback"] = {
         ["en"] = "Flashback",
         ["ar"] = "العودة للوراء",
-        ["ru"] = "Возврат назад",
+        ["ru"] = "Флешбэк",
         ["tr"] = "Geri Dönüş",
         ["es"] = "Retroceso",
         ["fr"] = "Retour en Arrière",
@@ -742,7 +742,7 @@ return {
     ["Sit"] = {
         ["en"] = "Sit",
         ["ar"] = "جلوس",
-        ["ru"] = "Сесть",
+        ["ru"] = "Сидеть",
         ["tr"] = "Otur",
         ["es"] = "Sentarse",
         ["fr"] = "S'asseoir",
@@ -752,7 +752,7 @@ return {
     ["Fly"] = {
         ["en"] = "Fly",
         ["ar"] = "طيران",
-        ["ru"] = "Полет",
+        ["ru"] = "Летать",
         ["tr"] = "Uç",
         ["es"] = "Volar",
         ["fr"] = "Voler",
@@ -792,7 +792,7 @@ return {
     ["Telegram Channel"] = {
         ["en"] = "Telegram Channel",
         ["ar"] = "قناة تيليجرام",
-        ["ru"] = "Канал Telegram",
+        ["ru"] = "Канал в Telegram",
         ["tr"] = "Telegram Kanalı",
         ["es"] = "Canal de Telegram",
         ["fr"] = "Chaîne Telegram",
@@ -802,12 +802,12 @@ return {
     ["link copied"] = {
         ["en"] = "link copied",
         ["ar"] = "تم نسخ الرابط",
-        ["ru"] = "ссылка скопирована",
-        ["tr"] = "bağlantı kopyalandı",
-        ["es"] = "enlace copiado",
-        ["fr"] = "lien copié",
+        ["ru"] = "Ссылка скопирована",
+        ["tr"] = "Bağlantı kopyalandı",
+        ["es"] = "Enlace copiado",
+        ["fr"] = "Lien copié",
         ["de"] = "Link kopiert",
-        ["pt"] = "link copiado"
+        ["pt"] = "Link copiado"
     },
     ["The link has been copied successfully."] = {
         ["en"] = "The link has been copied successfully.",
@@ -822,7 +822,7 @@ return {
     ["YouTube Channel"] = {
         ["en"] = "YouTube Channel",
         ["ar"] = "قناة يوتيوب",
-        ["ru"] = "Канал YouTube",
+        ["ru"] = "Канал на YouTube",
         ["tr"] = "YouTube Kanalı",
         ["es"] = "Canal de YouTube",
         ["fr"] = "Chaîne YouTube",
@@ -872,7 +872,7 @@ return {
     ["Bang Speed"] = {
         ["en"] = "Bang Speed",
         ["ar"] = "سرعة Bang",
-        ["ru"] = "Скоростной Bang",
+        ["ru"] = "Скорость Bang",
         ["tr"] = "Bang Hızı",
         ["es"] = "Velocidad Bang",
         ["fr"] = "Vitesse Bang",
@@ -915,19 +915,19 @@ return {
         ["ru"] = "Авто ручное убийство",
         ["tr"] = "Otomatik Manuel Öldürme",
         ["es"] = "Asesinato Manual Automático",
-        ["fr"] = "Mort Manuel Automatique",
+        ["fr"] = "Meurtre Manuel Automatique",
         ["de"] = "Automatisches Manuelles Töten",
         ["pt"] = "Matar Manual Automaticamente"
     },
     ["player is sitting!"] = {
         ["en"] = "player is sitting!",
         ["ar"] = "اللاعب جالس!",
-        ["ru"] = "игрок сидит!",
-        ["tr"] = "oyuncu oturuyor!",
-        ["es"] = "¡el jugador está sentado!",
-        ["fr"] = "le joueur est assis !",
+        ["ru"] = "Игрок сидит!",
+        ["tr"] = "Oyuncu oturuyor!",
+        ["es"] = "¡El jugador está sentado!",
+        ["fr"] = "Le joueur est assis !",
         ["de"] = "Spieler sitzt!",
-        ["pt"] = "jogador está sentado!"
+        ["pt"] = "Jogador está sentado!"
     },
     ["The player is sitting on something."] = {
         ["en"] = "The player is sitting on something.",
@@ -942,27 +942,27 @@ return {
     ["Kill Setting"] = {
         ["en"] = "Kill Setting",
         ["ar"] = "إعدادات القتل",
-        ["ru"] = "Настройки убийства",
+        ["ru"] = "Настройки килла",
         ["tr"] = "Öldürme Ayarları",
         ["es"] = "Configuración de Asesinato",
-        ["fr"] = "Paramètres de Mort",
+        ["fr"] = "Paramètres de Meurtre",
         ["de"] = "Kill Einstellungen",
         ["pt"] = "Configurações de Morte"
     },
     ["Kill Type"] = {
         ["en"] = "Kill Type",
         ["ar"] = "نوع القتل",
-        ["ru"] = "Тип убийства",
+        ["ru"] = "Тип килла",
         ["tr"] = "Öldürme Türü",
         ["es"] = "Tipo de Asesinato",
-        ["fr"] = "Type de Mort",
+        ["fr"] = "Type de Meurtre",
         ["de"] = "Kill Typ",
         ["pt"] = "Tipo de Morte"
     },
     ["Fling"] = {
         ["en"] = "Fling",
         ["ar"] = "فلينق",
-        ["ru"] = "Fling",
+        ["ru"] = "Флинг",
         ["tr"] = "Fırlatma",
         ["es"] = "Lanzar",
         ["fr"] = "Lancer",
@@ -972,7 +972,7 @@ return {
     ["Fling Doors"] = {
         ["en"] = "Fling Doors",
         ["ar"] = "فلينق الابواب",
-        ["ru"] = "Fling Doors",
+        ["ru"] = "Флинг дверей",
         ["tr"] = "Kapıları Fırlat",
         ["es"] = "Lanzar Puertas",
         ["fr"] = "Lancer les Portes",
@@ -982,7 +982,7 @@ return {
     ["No Clip"] = {
         ["en"] = "No Clip",
         ["ar"] = "اختراق الجدران",
-        ["ru"] = "No Clip",
+        ["ru"] = "Ноклип",
         ["tr"] = "Duvar Geçme",
         ["es"] = "Sin Clip",
         ["fr"] = "Pas de Clip",
@@ -995,7 +995,7 @@ return {
         ["ru"] = "Скорость по умолчанию",
         ["tr"] = "Varsayılan Hız",
         ["es"] = "Velocidad Predeterminada",
-        ["fr"] = "Vitesse par Défaut",
+        ["fr"] = "Vitesse par Défault",
         ["de"] = "Standard Geschwindigkeit",
         ["pt"] = "Velocidade Padrão"
     },
@@ -1032,7 +1032,7 @@ return {
     ["Delay Before Tool Delete (sec)"] = {
         ["en"] = "Delay Before Tool Delete (sec)",
         ["ar"] = "التأخير قبل حذف الأداة (ثانية)",
-        ["ru"] = "Задержка перед удалением инструмента (сек)",
+        ["ru"] = "Задержка перед удалением инструмента (сек.)",
         ["tr"] = "Araç Silinmeden Önce Gecikme (sn)",
         ["es"] = "Retraso Antes de Eliminar Herramienta (seg)",
         ["fr"] = "Délai Avant la Suppression de l'Outil (sec)",
@@ -1042,7 +1042,7 @@ return {
     ["Delay Before Teleport Back (sec)"] = {
         ["en"] = "Delay Before Teleport Back (sec)",
         ["ar"] = "التأخير قبل العودة (ثانية)",
-        ["ru"] = "Задержка перед телепортацией назад (сек)",
+        ["ru"] = "Задержка перед телепортацией назад (сек.)",
         ["tr"] = "Geri Işınlanmadan Önce Gecikme (sn)",
         ["es"] = "Retraso Antes de Teletransportarse de Vuelta (seg)",
         ["fr"] = "Délai Avant le Téléport Retour (sec)",
@@ -1052,17 +1052,17 @@ return {
     ["For Auto Kill"] = {
         ["en"] = "For Auto Kill",
         ["ar"] = "للقتل التلقائي",
-        ["ru"] = "Для авто убийства",
+        ["ru"] = "Для авто килла",
         ["tr"] = "Otomatik Öldürme İçin",
         ["es"] = "Para Asesinato Automático",
-        ["fr"] = "Pour la Mort Automatique",
+        ["fr"] = "Pour le Meurtre Automatique",
         ["de"] = "Für Automatisches Töten",
         ["pt"] = "Para Matar Automaticamente"
     },
     ["Distance For Target Player"] = {
         ["en"] = "Distance For Target Player",
         ["ar"] = "المسافة لاستهداف اللاعب",
-        ["ru"] = "Расстояние до цели",
+        ["ru"] = "Дистанция до цели",
         ["tr"] = "Hedef Oyuncu İçin Mesafe",
         ["es"] = "Distancia para el Jugador Objetivo",
         ["fr"] = "Distance pour le Joueur Cible",
@@ -1072,7 +1072,7 @@ return {
     ["Wait For Kill Next Player"] = {
         ["en"] = "Wait For Kill Next Player",
         ["ar"] = "الانتظار لقتل اللاعب التالي",
-        ["ru"] = "Ждать убийства следующего игрока",
+        ["ru"] = "Ждать килла следующего игрока",
         ["tr"] = "Sonraki Oyuncuyu Öldürmek İçin Bekle",
         ["es"] = "Esperar para Matar al Siguiente Jugador",
         ["fr"] = "Attendre pour Tuer le Joueur Suivant",
@@ -1102,7 +1102,7 @@ return {
     ["Destroy Gui"] = {
         ["en"] = "Destroy Gui",
         ["ar"] = "تدمير الواجهة",
-        ["ru"] = "Уничтожить интерфейс",
+        ["ru"] = "Уничтожить GUI",
         ["tr"] = "Arayüzü Yok Et",
         ["es"] = "Destruir Interfaz",
         ["fr"] = "Détruire l'Interface",
@@ -1112,7 +1112,7 @@ return {
     ["Trolls"] = {
         ["en"] = "Trolls",
         ["ar"] = "الترول",
-        ["ru"] = "Тролли",
+        ["ru"] = "Троллинг",
         ["tr"] = "Troller",
         ["es"] = "Trolls",
         ["fr"] = "Trolls",
@@ -1122,7 +1122,7 @@ return {
     ["Troll Player"] = {
         ["en"] = "Troll Player",
         ["ar"] = "مضايقة اللاعب",
-        ["ru"] = "Затроллить игрока",
+        ["ru"] = "Троллить игрока",
         ["tr"] = "Oyuncuyu Trolle",
         ["es"] = "Trollear Jugador",
         ["fr"] = "Troller le Joueur",
@@ -1152,7 +1152,7 @@ return {
     ["Fling Player"] = {
         ["en"] = "Fling Player",
         ["ar"] = "رمي اللاعب",
-        ["ru"] = "Швырнуть игрока",
+        ["ru"] = "Флингнуть игрока",
         ["tr"] = "Oyuncuyu Fırlat",
         ["es"] = "Lanzar Jugador",
         ["fr"] = "Lancer le Joueur",
@@ -1182,7 +1182,7 @@ return {
     ["Spin Player"] = {
         ["en"] = "Spin Player",
         ["ar"] = "تدوير اللاعب",
-        ["ru"] = "Вращать игрока",
+        ["ru"] = "Крутить игрока",
         ["tr"] = "Oyuncuyu Döndür",
         ["es"] = "Girar Jugador",
         ["fr"] = "Faire Tourner le Joueur",
@@ -1192,7 +1192,7 @@ return {
     ["Target Players"] = {
         ["en"] = "Target Players",
         ["ar"] = "استهداف اللاعبين",
-        ["ru"] = "Целевые игроки",
+        ["ru"] = "Целевые игроки",  -- تم التصحيح: بدلاً من "Сфокусироваться на игрока"
         ["tr"] = "Hedef Oyuncular",
         ["es"] = "Jugadores Objetivo",
         ["fr"] = "Joueurs Cibles",
@@ -1232,7 +1232,7 @@ return {
     ["Copy Selected Player Username"] = {
         ["en"] = "Copy Selected Player Username",
         ["ar"] = "نسخ اسم المستخدم المحدد",
-        ["ru"] = "Копировать имя пользователя",
+        ["ru"] = "Копировать имя игрока",
         ["tr"] = "Seçilen Oyuncu Kullanıcı Adını Kopyala",
         ["es"] = "Copiar Nombre de Usuario del Jugador Seleccionado",
         ["fr"] = "Copier le Nom d'Utilisateur du Joueur Sélectionné",
@@ -1322,7 +1322,7 @@ return {
     ["Rejoin Server"] = {
         ["en"] = "Rejoin Server",
         ["ar"] = "إعادة الدخول للسيرفر",
-        ["ru"] = "Переподключиться к серверу",
+        ["ru"] = "Вернуться на сервер",
         ["tr"] = "Sunucuya Yeniden Katıl",
         ["es"] = "Reunirse al Servidor",
         ["fr"] = "Rejoindre le Serveur",
@@ -1772,7 +1772,7 @@ return {
     ["Animations Idle"] = {
         ["en"] = "Idle Animations",
         ["ar"] = "حركات الوقوف",
-        ["ru"] = "Анимации ожидания",
+        ["ru"] = "Анимации стоя",
         ["tr"] = "Bekleme Animasyonları",
         ["es"] = "Animaciones de Espera",
         ["fr"] = "Animations d'Attente",
@@ -1782,7 +1782,7 @@ return {
     ["Select Idle Animation"] = {
         ["en"] = "Select Idle Animation",
         ["ar"] = "اختر حركة الوقوف",
-        ["ru"] = "Выбрать анимацию ожидания",
+        ["ru"] = "Выбрать анимацию стоя",
         ["tr"] = "Bekleme Animasyonu Seç",
         ["es"] = "Seleccionar Animación de Espera",
         ["fr"] = "Sélectionner une Animation d'Attente",
@@ -1792,7 +1792,7 @@ return {
     ["Apply Idle"] = {
         ["en"] = "Apply Idle Animation",
         ["ar"] = "تطبيق حركة الوقوف",
-        ["ru"] = "Применить анимацию ожидания",
+        ["ru"] = "Применить анимацию стоя",
         ["tr"] = "Bekleme Animasyonunu Uygula",
         ["es"] = "Aplicar Animación de Espera",
         ["fr"] = "Appliquer l'Animation d'Attente",
@@ -1852,7 +1852,7 @@ return {
     ["Fly Car"] = {
         ["en"] = "Fly Car",
         ["ar"] = "طيران السيارة",
-        ["ru"] = "Полет на машине",
+        ["ru"] = "Летающая машина",
         ["tr"] = "Uçan Araba",
         ["es"] = "Coche Volador",
         ["fr"] = "Voiture Volante",
@@ -1892,7 +1892,7 @@ return {
     ["UnBan From All House"] = {
         ["en"] = "UnBan From All House",
         ["ar"] = "الغاء الحظر من جميع البيوت",
-        ["ru"] = "Разбанить из всех домов",
+        ["ru"] = "Разбанить всех из дома",  -- تم الحفاظ على العامية كما طلب المترجم الروسي
         ["tr"] = "Tüm Evlerden Ban Kaldır",
         ["es"] = "Desbanear de Todas las Casas",
         ["fr"] = "Débannir de Toutes les Maisons",
@@ -1962,7 +1962,7 @@ return {
     ["Auto Change Shirts"] = {
         ["en"] = "Auto Change Shirts",
         ["ar"] = "تغيير القمصان تلقائيًا",
-        ["ru"] = "Авто смена рубашек",
+        ["ru"] = "Авто смена кофты",
         ["tr"] = "Otomatik Gömlek Değiştir",
         ["es"] = "Cambiar Camisas Automáticamente",
         ["fr"] = "Changer les Chemises Automatiquement",
@@ -1972,7 +1972,7 @@ return {
     ["Auto Change Pants"] = {
         ["en"] = "Auto Change Pants",
         ["ar"] = "تغيير البناطيل تلقائيًا",
-        ["ru"] = "Авто смена брюк",
+        ["ru"] = "Авто смена штанов",
         ["tr"] = "Otomatik Pantolon Değiştir",
         ["es"] = "Cambiar Pantalones Automáticamente",
         ["fr"] = "Changer les Pantalons Automatiquement",

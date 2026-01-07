@@ -9,6 +9,16 @@ return {
         de = "Information",
         pt = "Informações"
     },
+    ["Features"] = {
+        en = "Features",
+        ar = "الميزات",
+        ru = "Функции",
+        tr = "Özellikler",
+        es = "Funciones",
+        fr = "Fonctionnalités",
+        de = "Funktionen",
+        pt = "Recursos"
+    },
     ["Language"] = {
         en = "Language",
         ar = "اللغة",

@@ -251,13 +251,13 @@ return {
     },
     ["ESP Ball"] = {
         en = "ESP Ball",
-        ar = "إظهار الكرة",
-        ru = "ESP Мяча",
-        tr = "Top ESP",
-        es = "ESP de Pelota",
-        fr = "ESP Balle",
-        de = "Ball ESP",
-        pt = "ESP da Bola"
+        ar = "كشف الكرة",
+        ru = "Обнаружение мяча",
+        tr = "Top Tespiti",
+        es = "Detección de Pelota",
+        fr = "Détection de la Balle",
+        de = "Ball-Erkennung",
+        pt = "Detecção da Bola"
     },
     ["Follow Ball"] = {
         en = "Follow Ball",
@@ -301,7 +301,7 @@ return {
     },
     ["ESP"] = {
         en = "ESP",
-        ar = "إظهار اللاعبين",
+        ar = "كشف اللاعبين",
         ru = "ESP",
         tr = "ESP",
         es = "ESP",

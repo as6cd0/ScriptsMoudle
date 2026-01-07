@@ -322,7 +322,7 @@ return {
     ["Kill System"] = {
         ["en"] = "Kill System",
         ["ar"] = "نظام القتل",
-        ["ru"] = "Килл система",  -- تم التصحيح: بدلاً من "Убить систему"
+        ["ru"] = "Килл система",
         ["tr"] = "Öldürme Sistemi",
         ["es"] = "Sistema de Asesinato",
         ["fr"] = "Système de Meurtre",
@@ -332,7 +332,7 @@ return {
     ["Bring System"] = {
         ["en"] = "Bring System",
         ["ar"] = "نظام السحب",
-        ["ru"] = "Телепорт система",  -- تم التصحيح: بدلاً من "Система вывода"
+        ["ru"] = "Телепорт система",
         ["tr"] = "Getirme Sistemi",
         ["es"] = "Sistema de Traer",
         ["fr"] = "Système d'Amener",
@@ -1192,7 +1192,7 @@ return {
     ["Target Players"] = {
         ["en"] = "Target Players",
         ["ar"] = "استهداف اللاعبين",
-        ["ru"] = "Целевые игроки",  -- تم التصحيح: بدلاً من "Сфокусироваться на игрока"
+        ["ru"] = "Целевые игроки",
         ["tr"] = "Hedef Oyuncular",
         ["es"] = "Jugadores Objetivo",
         ["fr"] = "Joueurs Cibles",
@@ -1892,7 +1892,7 @@ return {
     ["UnBan From All House"] = {
         ["en"] = "UnBan From All House",
         ["ar"] = "الغاء الحظر من جميع البيوت",
-        ["ru"] = "Разбанить всех из дома",  -- تم الحفاظ على العامية كما طلب المترجم الروسي
+        ["ru"] = "Разбанить всех из дома",
         ["tr"] = "Tüm Evlerden Ban Kaldır",
         ["es"] = "Desbanear de Todas las Casas",
         ["fr"] = "Débannir de Toutes les Maisons",

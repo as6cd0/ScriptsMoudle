@@ -19,6 +19,56 @@ return {
         de = "Funktionen",
         pt = "Recursos"
     },
+    ["studs"] = {
+        en = "studs",
+        ar = "وحدات",
+        ru = "единицы",
+        tr = "birim",
+        es = "unidades",
+        fr = "unités",
+        de = "Einheiten",
+        pt = "unidades"
+    },
+    ["speed"] = {
+        en = "speed",
+        ar = "السرعة",
+        ru = "скорость",
+        tr = "hız",
+        es = "velocidad",
+        fr = "vitesse",
+        de = "Geschwindigkeit",
+        pt = "velocidade"
+    },
+    ["power"] = {
+        en = "power",
+        ar = "القوة",
+        ru = "сила",
+        tr = "güç",
+        es = "potencia",
+        fr = "puissance",
+        de = "Kraft",
+        pt = "força"
+    },
+    ["fov"] = {
+        en = "fov",
+        ar = "زاوية الرؤية",
+        ru = "поле зрения",
+        tr = "görüş açısı",
+        es = "campo de visión",
+        fr = "champ de vision",
+        de = "Sichtfeld",
+        pt = "campo de visão"
+    },
+    ["distanc"] = {
+        en = "distance",
+        ar = "المسافة",
+        ru = "дистанция",
+        tr = "mesafe",
+        es = "distancia",
+        fr = "distance",
+        de = "Distanz",
+        pt = "distância"
+    },
     ["Language"] = {
         en = "Language",
         ar = "اللغة",

@@ -1,13 +1,13 @@
 return {
     ["Set Language"] = {
-        ["en"] = "Set Language",
-        ["ar"] = "تعيين اللغة",
-        ["ru"] = "Установить язык",
-        ["tr"] = "Dili Ayarla",
-        ["es"] = "Establecer Idioma",
-        ["fr"] = "Définir la Langue",
-        ["de"] = "Sprache Einstellen",
-        ["pt"] = "Definir Idioma"
+        en = "Set Language",
+        ar = "تعيين اللغة",
+        ru = "Установить язык",
+        tr = "Dili Ayarla",
+        es = "Establecer Idioma",
+        fr = "Définir la Langue",
+        de = "Sprache Einstellen",
+        pt = "Definir Idioma"
     },
     ["Info"] = {
         en = "Info",

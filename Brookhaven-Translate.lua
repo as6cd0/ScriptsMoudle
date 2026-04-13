@@ -1351,13 +1351,13 @@ return {
     },
     ["Delete All Items"] = {
         ["en"] = "Delete All Items",
-        ["ar"] = "حذف جميع الادوات",
+        ["ar"] = "امسح كل الحاجات",
         ["ru"] = "Удалить все предметы",
-        ["tr"] = "Tüm Eşyaları Sil",
-        ["es"] = "Eliminar Todos los Objetos",
-        ["fr"] = "Supprimer Tous les Objets",
-        ["de"] = "Alle Gegenstände Löschen",
-        ["pt"] = "Excluir Todos os Itens"
+        ["tr"] = "Tüm eşyaları sil",
+        ["es"] = "Eliminar todos los objetos",
+        ["fr"] = "Supprimer tous les objets",
+        ["de"] = "Alle Gegenstände löschen",
+        ["pt"] = "Deletar todos os itens"
     },
     ["Get All Tools"] = {
         ["en"] = "Get All Tools",
@@ -1439,8 +1439,8 @@ return {
         ["de"] = "Haus Holen",
         ["pt"] = "Pegar Casa"
     },
-    ["Teleport To House"] = {
-        ["en"] = "Teleport To House",
+    ["Teleport to House"] = {
+        ["en"] = "Teleport to House",
         ["ar"] = "التنقل إلى المنزل",
         ["ru"] = "Телепортироваться в дом",
         ["tr"] = "Eve Işınlan",
@@ -2720,34 +2720,224 @@ return {
         ["pt"] = "Aplicando partes do corpo..."
     },
     ["Car Mods"] = {
-        en = "Car Mods",
-        ar = "تعديلات العربيات",
-        ru = "Моды на машины",
-        tr = "Araba Modları",
-        es = "Mods de coches",
-        fr = "Mods de voiture",
-        de = "Auto Mods",
-        pt = "Mods de carro"
+        ["en"] = "Car Mods",
+        ["ar"] = "تعديلات العربيات",
+        ["ru"] = "Моды на машины",
+        ["tr"] = "Araba Modları",
+        ["es"] = "Mods de coches",
+        ["fr"] = "Mods de voiture",
+        ["de"] = "Auto Mods",
+        ["pt"] = "Mods de carro"
     },
     ["Delay Before Tool Delete"] = {
-        en = "Delay Before Tool Delete",
-        ar = "تأخير قبل حذف الأداة",
-        ru = "Задержка перед удалением инструмента",
-        tr = "Araç silinmeden önce gecikme",
-        es = "Retraso antes de eliminar la herramienta",
-        fr = "Délai avant suppression de l'outil",
-        de = "Verzögerung vor dem Löschen des Tools",
-        pt = "Atraso antes de deletar a ferramenta"
+        ["en"] = "Delay Before Tool Delete",
+        ["ar"] = "تأخير قبل حذف الأداة",
+        ["ru"] = "Задержка перед удалением инструмента",
+        ["tr"] = "Araç silinmeden önce gecikme",
+        ["es"] = "Retraso antes de eliminar la herramienta",
+        ["fr"] = "Délai avant suppression de l'outil",
+        ["de"] = "Verzögerung vor dem Löschen des Tools",
+        ["pt"] = "Atraso antes de deletar a ferramenta"
     },
     ["Delay Before Teleport Back"] = {
-        en = "Delay Before Teleport Back",
-        ar = "تأخير قبل الرجوع للمكان",
-        ru = "Задержка перед возвратом назад",
-        tr = "Geri ışınlanmadan önce gecikme",
-        es = "Retraso antes de volver",
-        fr = "Délai avant de revenir",
-        de = "Verzögerung vor dem Zurückteleportieren",
-        pt = "Atraso antes de voltar"
+        ["en"] = "Delay Before Teleport Back",
+        ["ar"] = "تأخير قبل الرجوع للمكان",
+        ["ru"] = "Задержка перед возвратом назад",
+        ["tr"] = "Geri ışınlanmadan önce gecikme",
+        ["es"] = "Retraso antes de volver",
+        ["fr"] = "Délai avant de revenir",
+        ["de"] = "Verzögerung vor dem Zurückteleportieren",
+        ["pt"] = "Atraso antes de voltar"
+    },
+    ["Get Sofa"] = {
+        ["en"] = "Get Sofa",
+        ["ar"] = "هات كنبة",
+        ["ru"] = "Взять диван",
+        ["tr"] = "Kanepe al",
+        ["es"] = "Obtener sofá",
+        ["fr"] = "Prendre canapé",
+        ["de"] = "Sofa holen",
+        ["pt"] = "Pegar sofá"
+    },
+    ["Get Crystal"] = {
+        ["en"] = "Get Crystal",
+        ["ar"] = "هات كريستالة",
+        ["ru"] = "Взять кристалл",
+        ["tr"] = "Kristal al",
+        ["es"] = "Obtener cristal",
+        ["fr"] = "Prendre cristal",
+        ["de"] = "Kristall holen",
+        ["pt"] = "Pegar cristal"
+    },
+    ["Get Crystals"] = {
+        ["en"] = "Get Crystals",
+        ["ar"] = "هات كريستالات",
+        ["ru"] = "Взять кристаллы",
+        ["tr"] = "Kristaller al",
+        ["es"] = "Obtener cristales",
+        ["fr"] = "Prendre cristaux",
+        ["de"] = "Kristalle holen",
+        ["pt"] = "Pegar cristais"
+    },
+    ["Get Agency Book"] = {
+        ["en"] = "Get Agency Book",
+        ["ar"] = "هات كتاب الوكالة",
+        ["ru"] = "Взять книгу агентства",
+        ["tr"] = "Ajans kitabı al",
+        ["es"] = "Obtener libro de agencia",
+        ["fr"] = "Prendre livre d'agence",
+        ["de"] = "Agenturbuch holen",
+        ["pt"] = "Pegar livro da agência"
+    },
+    ["Get Bank Key Card White"] = {
+        ["en"] = "Get Bank Key Card White",
+        ["ar"] = "هات كارت البنك الأبيض",
+        ["ru"] = "Взять белую карту банка",
+        ["tr"] = "Beyaz banka kartı al",
+        ["es"] = "Obtener tarjeta bancaria blanca",
+        ["fr"] = "Prendre carte bancaire blanche",
+        ["de"] = "Weiße Bankkarte holen",
+        ["pt"] = "Pegar cartão bancário branco"
+    },
+    ["Get Black Old Key"] = {
+        ["en"] = "Get Black Old Key",
+        ["ar"] = "هات المفتاح الأسود القديم",
+        ["ru"] = "Взять старый чёрный ключ",
+        ["tr"] = "Eski siyah anahtar al",
+        ["es"] = "Obtener llave negra vieja",
+        ["fr"] = "Prendre vieille clé noire",
+        ["de"] = "Alten schwarzen Schlüssel holen",
+        ["pt"] = "Pegar chave preta antiga"
+    },
+    ["Get Duffle Bag Gold"] = {
+        ["en"] = "Get Duffle Bag Gold",
+        ["ar"] = "هات شنطة دهب",
+        ["ru"] = "Взять золотую сумку",
+        ["tr"] = "Altın çanta al",
+        ["es"] = "Obtener bolsa dorada",
+        ["fr"] = "Prendre sac en or",
+        ["de"] = "Goldene Tasche holen",
+        ["pt"] = "Pegar bolsa de ouro"
+    },
+    ["Get Duffle Bag Diamonds"] = {
+        ["en"] = "Get Duffle Bag Diamonds",
+        ["ar"] = "هات شنطة ألماظ",
+        ["ru"] = "Взять сумку с алмазами",
+        ["tr"] = "Elmas çanta al",
+        ["es"] = "Obtener bolsa de diamantes",
+        ["fr"] = "Prendre sac de diamants",
+        ["de"] = "Diamanttasche holen",
+        ["pt"] = "Pegar bolsa de diamantes"
+    },
+    ["Get Duffle Bag Bitcoin"] = {
+        ["en"] = "Get Duffle Bag Bitcoin",
+        ["ar"] = "هات شنطة بيتكوين",
+        ["ru"] = "Взять сумку с биткоинами",
+        ["tr"] = "Bitcoin çantası al",
+        ["es"] = "Obtener bolsa de bitcoin",
+        ["fr"] = "Prendre sac bitcoin",
+        ["de"] = "Bitcoin-Tasche holen",
+        ["pt"] = "Pegar bolsa de bitcoin"
+    },
+    ["Get Egg Launcher"] = {
+        ["en"] = "Get Egg Launcher",
+        ["ar"] = "هات قاذف البيض",
+        ["ru"] = "Взять пускатель яиц",
+        ["tr"] = "Yumurta fırlatıcı al",
+        ["es"] = "Obtener lanzador de huevos",
+        ["fr"] = "Prendre lanceur d'œufs",
+        ["de"] = "Eierwerfer holen",
+        ["pt"] = "Pegar lançador de ovos"
+    },
+    ["Get Cannon"] = {
+        ["en"] = "Get Cannon",
+        ["ar"] = "هات مدفع",
+        ["ru"] = "Взять пушку",
+        ["tr"] = "Top al",
+        ["es"] = "Obtener cañón",
+        ["fr"] = "Prendre canon",
+        ["de"] = "Kanone holen",
+        ["pt"] = "Pegar canhão"
+    },
+    ["Get Glider"] = {
+        ["en"] = "Get Glider",
+        ["ar"] = "هات جناح طيران",
+        ["ru"] = "Взять глайдер",
+        ["tr"] = "Planör al",
+        ["es"] = "Obtener planeador",
+        ["fr"] = "Prendre planeur",
+        ["de"] = "Gleiter holen",
+        ["pt"] = "Pegar planador"
+    },
+    ["Get Water Balloon"] = {
+        ["en"] = "Get Water Balloon",
+        ["ar"] = "هات بلونة مية",
+        ["ru"] = "Взять водяной шарик",
+        ["tr"] = "Su balonu al",
+        ["es"] = "Obtener globo de agua",
+        ["fr"] = "Prendre ballon d'eau",
+        ["de"] = "Wasserballon holen",
+        ["pt"] = "Pegar balão de água"
+    },
+    ["Get Uranium Rod"] = {
+        ["en"] = "Get Uranium Rod",
+        ["ar"] = "هات قضيب يورانيوم",
+        ["ru"] = "Взять урановый стержень",
+        ["tr"] = "Uranyum çubuğu al",
+        ["es"] = "Obtener barra de uranio",
+        ["fr"] = "Prendre barre d'uranium",
+        ["de"] = "Uranstab holen",
+        ["pt"] = "Pegar barra de urânio"
+    },
+    ["Get Chainsaw"] = {
+        ["en"] = "Get Chainsaw",
+        ["ar"] = "هات منشار كهربا",
+        ["ru"] = "Взять бензопилу",
+        ["tr"] = "Testere al",
+        ["es"] = "Obtener motosierra",
+        ["fr"] = "Prendre tronçonneuse",
+        ["de"] = "Kettensäge holen",
+        ["pt"] = "Pegar motosserra"
+    },
+    ["Get Present"] = {
+        ["en"] = "Get Present",
+        ["ar"] = "هات هدية",
+        ["ru"] = "Взять подарок",
+        ["tr"] = "Hediye al",
+        ["es"] = "Obtener regalo",
+        ["fr"] = "Prendre cadeau",
+        ["de"] = "Geschenk holen",
+        ["pt"] = "Pegar presente"
+    },
+    ["Equipping %d/%d"] = {
+        en = "Equipping %d/%d",
+        ar = "بيتم اللبس %d/%d",
+        ru = "Надеваем %d/%d",
+        tr = "%d/%d ekip ediliyor",
+        es = "Equipando %d/%d",
+        fr = "Équipement %d/%d",
+        de = "Ausrüsten %d/%d",
+        pt = "Equipando %d/%d"
+    },
+    ["Done ✅ (%d/%d equipped)"] = {
+        en = "Done ✅ (%d/%d equipped)",
+        ar = "خلصت ✅ (%d/%d اتلبس)",
+        ru = "Готово ✅ (%d/%d надето)",
+        tr = "Bitti ✅ (%d/%d takıldı)",
+        es = "Hecho ✅ (%d/%d equipado)",
+        fr = "Terminé ✅ (%d/%d équipé)",
+        de = "Fertig ✅ (%d/%d ausgerüstet)",
+        pt = "Concluído ✅ (%d/%d equipado)"
+    },
+    ["Graper Tool"] = {
+        en = "Graper Tool",
+        ar = "أداة السحب",
+        ru = "Инструмент захвата",
+        tr = "Tutma aracı",
+        es = "Herramienta de agarre",
+        fr = "Outil de saisie",
+        de = "Greifwerkzeug",
+        pt = "Ferramenta de agarrar"
     },
     ["Auto Login"] = {
         ["en"] = "Auto Login",

@@ -1731,7 +1731,7 @@ return {
     },
     ["Animations Run"] = {
         ["en"] = "Animations Run",
-        ["ar"] = "تشغيل الحركات",
+        ["ar"] = "حركات الجري",
         ["ru"] = "Анимации (бег)",
         ["tr"] = "Animasyonlar (Koşu)",
         ["es"] = "Animaciones (Correr)",
@@ -2258,6 +2258,466 @@ return {
         ["fr"] = "Clé enregistrée invalide",
         ["de"] = "Gespeicherter Schlüssel ungültig",
         ["pt"] = "Chave salva inválida"
+    },
+    ["Auto Changer Speed"] = {
+        ["en"] = "Auto Changer Speed",
+        ["ar"] = "تغيير السرعة تلقائي",
+        ["ru"] = "Авто смена скорости",
+        ["tr"] = "Otomatik Hız Değiştir",
+        ["es"] = "Cambio Automático de Velocidad",
+        ["fr"] = "Changement Auto de Vitesse",
+        ["de"] = "Automatische Geschwindigkeitsänderung",
+        ["pt"] = "Mudança Automática de Velocidade"
+    },
+    ["CFrame"] = {
+        ["en"] = "CFrame",
+        ["ar"] = "الإحداثيات",
+        ["ru"] = "Координаты",
+        ["tr"] = "CFrame",
+        ["es"] = "CFrame",
+        ["fr"] = "CFrame",
+        ["de"] = "CFrame",
+        ["pt"] = "CFrame"
+    },
+    ["Copy My CFrame"] = {
+        ["en"] = "Copy My CFrame",
+        ["ar"] = "انسخ موقعي",
+        ["ru"] = "Скопировать мою позицию",
+        ["tr"] = "Konumumu Kopyala",
+        ["es"] = "Copiar mi posición",
+        ["fr"] = "Copier ma position",
+        ["de"] = "Meine Position kopieren",
+        ["pt"] = "Copiar minha posição"
+    },
+    ["TP"] = {
+        ["en"] = "Teleport",
+        ["ar"] = "انتقال",
+        ["ru"] = "ТП",
+        ["tr"] = "Işınlan",
+        ["es"] = "Teletransportar",
+        ["fr"] = "Téléporter",
+        ["de"] = "Teleportieren",
+        ["pt"] = "Teleportar"
+    },
+    ["Tool Grip Editor"] = {
+        ["en"] = "Tool Grip Editor",
+        ["ar"] = "تعديل مسك الأداة",
+        ["ru"] = "Редактор хвата инструмента",
+        ["tr"] = "Araç Tutuş Düzenleyici",
+        ["es"] = "Editor de Agarre de Herramienta",
+        ["fr"] = "Éditeur de Prise d'Outil",
+        ["de"] = "Werkzeug Griff Editor",
+        ["pt"] = "Editor de Pegada da Ferramenta"
+    },
+    ["X Position"] = {
+        ["en"] = "X Position",
+        ["ar"] = "المحور X",
+        ["ru"] = "Позиция X",
+        ["tr"] = "X Konumu",
+        ["es"] = "Posición X",
+        ["fr"] = "Position X",
+        ["de"] = "X Position",
+        ["pt"] = "Posição X"
+    },
+    ["Y Position"] = {
+        ["en"] = "Y Position",
+        ["ar"] = "المحور Y",
+        ["ru"] = "Позиция Y",
+        ["tr"] = "Y Konumu",
+        ["es"] = "Posición Y",
+        ["fr"] = "Position Y",
+        ["de"] = "Y Position",
+        ["pt"] = "Posição Y"
+    },
+    ["Z Position"] = {
+        ["en"] = "Z Position",
+        ["ar"] = "المحور Z",
+        ["ru"] = "Позиция Z",
+        ["tr"] = "Z Konumu",
+        ["es"] = "Posición Z",
+        ["fr"] = "Position Z",
+        ["de"] = "Z Position",
+        ["pt"] = "Posição Z"
+    },
+    ["Roll"] = {
+        ["en"] = "Roll",
+        ["ar"] = "لف X",
+        ["ru"] = "Ролл",
+        ["tr"] = "Roll",
+        ["es"] = "Rotación X",
+        ["fr"] = "Rotation X",
+        ["de"] = "Roll",
+        ["pt"] = "Rotação X"
+    },
+    ["Pitch"] = {
+        ["en"] = "Pitch",
+        ["ar"] = "لف Y",
+        ["ru"] = "Питч",
+        ["tr"] = "Pitch",
+        ["es"] = "Rotación Y",
+        ["fr"] = "Rotation Y",
+        ["de"] = "Pitch",
+        ["pt"] = "Rotação Y"
+    },
+    ["Yaw"] = {
+        ["en"] = "Yaw",
+        ["ar"] = "لف Z",
+        ["ru"] = "Яв",
+        ["tr"] = "Yaw",
+        ["es"] = "Rotación Z",
+        ["fr"] = "Rotation Z",
+        ["de"] = "Yaw",
+        ["pt"] = "Rotação Z"
+    },
+    ["Anti Fall Down"] = {
+        ["en"] = "Anti Fall Down",
+        ["ar"] = "منع الوقوع",
+        ["ru"] = "Анти падение",
+        ["tr"] = "Düşmeyi Engelle",
+        ["es"] = "Anti Caída",
+        ["fr"] = "Anti Chute",
+        ["de"] = "Sturz verhindern",
+        ["pt"] = "Anti Queda"
+    },
+    ["Anti AFK"] = {
+        ["en"] = "Anti AFK",
+        ["ar"] = "مانع AFK",
+        ["ru"] = "Анти афк",
+        ["tr"] = "AFK Engelle",
+        ["es"] = "Anti AFK",
+        ["fr"] = "Anti AFK",
+        ["de"] = "AFK verhindern",
+        ["pt"] = "Anti AFK"
+    },
+    ["Anti Lag"] = {
+        ["en"] = "Anti Lag",
+        ["ar"] = "تقليل اللاج",
+        ["ru"] = "Анти лаг",
+        ["tr"] = "Lag Azalt",
+        ["es"] = "Anti Lag",
+        ["fr"] = "Anti Lag",
+        ["de"] = "Lag reduzieren",
+        ["pt"] = "Anti Lag"
+    },
+    ["Anti Void"] = {
+        ["en"] = "Anti Void",
+        ["ar"] = "حماية من السقوط",
+        ["ru"] = "Анти пустота",
+        ["tr"] = "Void Koruma",
+        ["es"] = "Anti Vacío",
+        ["fr"] = "Anti Vide",
+        ["de"] = "Void Schutz",
+        ["pt"] = "Anti Void"
+    },
+    ["Anti Crash"] = {
+        ["en"] = "Anti Crash",
+        ["ar"] = "منع الكراش",
+        ["ru"] = "Анти краш",
+        ["tr"] = "Çökme Engelle",
+        ["es"] = "Anti Crash",
+        ["fr"] = "Anti Crash",
+        ["de"] = "Crash verhindern",
+        ["pt"] = "Anti Crash"
+    },
+    ["Protection From Exploiters"] = {
+        ["en"] = "Protection From Exploiters",
+        ["ar"] = "حماية من الهكر",
+        ["ru"] = "Защита от читеров",
+        ["tr"] = "Exploit Koruması",
+        ["es"] = "Protección contra exploiters",
+        ["fr"] = "Protection contre exploiters",
+        ["de"] = "Schutz vor Exploitern",
+        ["pt"] = "Proteção contra exploiters"
+    },
+    ["Anti Fling"] = {
+        ["en"] = "Anti Fling",
+        ["ar"] = "منع الفلينق",
+        ["ru"] = "Анти флинг",
+        ["tr"] = "Fling Engelle",
+        ["es"] = "Anti Fling",
+        ["fr"] = "Anti Fling",
+        ["de"] = "Fling verhindern",
+        ["pt"] = "Anti Fling"
+    },
+    ["Anti Cars Fling"] = {
+        ["en"] = "Anti Cars Fling",
+        ["ar"] = "منع فلينق السيارات",
+        ["ru"] = "Анти флинг машин",
+        ["tr"] = "Araba Fling Engelle",
+        ["es"] = "Anti Fling Autos",
+        ["fr"] = "Anti Fling Voitures",
+        ["de"] = "Auto Fling verhindern",
+        ["pt"] = "Anti Fling Carros"
+    },
+    ["Anti Canoe Fling"] = {
+        ["en"] = "Anti Canoe Fling",
+        ["ar"] = "منع فلينق القوارب",
+        ["ru"] = "Анти флинг лодок",
+        ["tr"] = "Kano Fling Engelle",
+        ["es"] = "Anti Fling Canoas",
+        ["fr"] = "Anti Fling Canoës",
+        ["de"] = "Kanu Fling verhindern",
+        ["pt"] = "Anti Fling Canoas"
+    },
+    ["Anti Jets Fling"] = {
+        ["en"] = "Anti Jets Fling",
+        ["ar"] = "منع فلينق الطيارات",
+        ["ru"] = "Анти флинг джетов",
+        ["tr"] = "Jet Fling Engelle",
+        ["es"] = "Anti Fling Jets",
+        ["fr"] = "Anti Fling Jets",
+        ["de"] = "Jet Fling verhindern",
+        ["pt"] = "Anti Fling Jets"
+    },
+    ["Anti Helecopters Fling"] = {
+        ["en"] = "Anti Helicopters Fling",
+        ["ar"] = "منع فلينق الهليكوبتر",
+        ["ru"] = "Анти флинг вертолётов",
+        ["tr"] = "Helikopter Fling Engelle",
+        ["es"] = "Anti Fling Helicópteros",
+        ["fr"] = "Anti Fling Hélicoptères",
+        ["de"] = "Helikopter Fling verhindern",
+        ["pt"] = "Anti Fling Helicópteros"
+    },
+    ["Anti Ball Fling"] = {
+        ["en"] = "Anti Ball Fling",
+        ["ar"] = "منع فلينق الكورة",
+        ["ru"] = "Анти флинг мяча",
+        ["tr"] = "Top Fling Engelle",
+        ["es"] = "Anti Fling Pelota",
+        ["fr"] = "Anti Fling Balle",
+        ["de"] = "Ball Fling verhindern",
+        ["pt"] = "Anti Fling Bola"
+    },
+    ["Anti Doors Fling"] = {
+        ["en"] = "Anti Doors Fling",
+        ["ar"] = "منع فلينق الأبواب",
+        ["ru"] = "Анти флинг дверей",
+        ["tr"] = "Kapı Fling Engelle",
+        ["es"] = "Anti Fling Puertas",
+        ["fr"] = "Anti Fling Portes",
+        ["de"] = "Tür Fling verhindern",
+        ["pt"] = "Anti Fling Portas"
+    },
+    ["Anti Bang"] = {
+        ["en"] = "Anti Bang",
+        ["ar"] = "منع البانق",
+        ["ru"] = "Анти бэнг",
+        ["tr"] = "Bang Engelle",
+        ["es"] = "Anti Bang",
+        ["fr"] = "Anti Bang",
+        ["de"] = "Bang verhindern",
+        ["pt"] = "Anti Bang"
+    },
+    ["Rainbow Hair"] = {
+        ["en"] = "Rainbow Hair",
+        ["ar"] = "شعر ملون",
+        ["ru"] = "Радужные волосы",
+        ["tr"] = "Gökkuşağı Saç",
+        ["es"] = "Cabello Arcoíris",
+        ["fr"] = "Cheveux Arc-en-ciel",
+        ["de"] = "Regenbogen Haare",
+        ["pt"] = "Cabelo Arco-íris"
+    },
+    ["Jerk Off"] = {
+        ["en"] = "Jerk Off",
+        ["ar"] = "حركات +18",
+        ["ru"] = "Др*чить",
+        ["tr"] = "18+ Hareket",
+        ["es"] = "Movimiento +18",
+        ["fr"] = "Mouvement +18",
+        ["de"] = "+18 Bewegung",
+        ["pt"] = "Movimento +18"
+    },
+    ["Play Random Audios"] = {
+        ["en"] = "Play Random Audios",
+        ["ar"] = "تشغيل أصوات عشوائية",
+        ["ru"] = "Случайные звуки",
+        ["tr"] = "Rastgele Sesler",
+        ["es"] = "Audios Aleatorios",
+        ["fr"] = "Audios Aléatoires",
+        ["de"] = "Zufällige Sounds",
+        ["pt"] = "Áudios Aleatórios"
+    },
+    ["Teleport to Safe"] = {
+        ["en"] = "Teleport to Safe",
+        ["ar"] = "انتقال لمكان آمن",
+        ["ru"] = "ТП в безопасное место",
+        ["tr"] = "Güvenli Yere Işınlan",
+        ["es"] = "Teletransportar a zona segura",
+        ["fr"] = "Téléportation vers zone sûre",
+        ["de"] = "Zum sicheren Ort teleportieren",
+        ["pt"] = "Teleportar para local seguro"
+    },
+    ["Select House"] = {
+        ["en"] = "Select House",
+        ["ar"] = "اختار بيت",
+        ["ru"] = "Выбери дом",
+        ["tr"] = "Ev Seç",
+        ["es"] = "Seleccionar Casa",
+        ["fr"] = "Sélectionner Maison",
+        ["de"] = "Haus auswählen",
+        ["pt"] = "Selecionar Casa"
+    },
+    ["Destroy Car"] = {
+        ["en"] = "Destroy Car",
+        ["ar"] = "تدمير السيارة",
+        ["ru"] = "Снести тачку",
+        ["tr"] = "Arabayı Yok Et",
+        ["es"] = "Destruir Coche",
+        ["fr"] = "Détruire Voiture",
+        ["de"] = "Auto zerstören",
+        ["pt"] = "Destruir Carro"
+    },
+    ["Players Cars"] = {
+        ["en"] = "Players Cars",
+        ["ar"] = "سيارات اللاعبين",
+        ["ru"] = "Тачки игроков",
+        ["tr"] = "Oyuncu Arabaları",
+        ["es"] = "Autos de Jugadores",
+        ["fr"] = "Voitures des Joueurs",
+        ["de"] = "Spieler Autos",
+        ["pt"] = "Carros dos Jogadores"
+    },
+    ["Destroy Current Car"] = {
+        ["en"] = "Destroy Current Car",
+        ["ar"] = "تدمير سيارتك",
+        ["ru"] = "Снести свою тачку",
+        ["tr"] = "Mevcut Arabayı Yok Et",
+        ["es"] = "Destruir coche actual",
+        ["fr"] = "Détruire voiture actuelle",
+        ["de"] = "Aktuelles Auto zerstören",
+        ["pt"] = "Destruir carro atual"
+    },
+    ["Teleport Now"] = {
+        ["en"] = "Teleport Now",
+        ["ar"] = "انتقل الآن",
+        ["ru"] = "ТП сейчас",
+        ["tr"] = "Şimdi Işınlan",
+        ["es"] = "Teletransportar ahora",
+        ["fr"] = "Téléporter maintenant",
+        ["de"] = "Jetzt teleportieren",
+        ["pt"] = "Teleportar agora"
+    },
+    ["Power"] = {
+        ["en"] = "Power",
+        ["ar"] = "القوة",
+        ["ru"] = "Сила",
+        ["tr"] = "Güç",
+        ["es"] = "Potencia",
+        ["fr"] = "Puissance",
+        ["de"] = "Kraft",
+        ["pt"] = "Força"
+    },
+    ["sec"] = {
+        ["en"] = "sec",
+        ["ar"] = "ثانية",
+        ["ru"] = "сек",
+        ["tr"] = "sn",
+        ["es"] = "seg",
+        ["fr"] = "sec",
+        ["de"] = "sek",
+        ["pt"] = "seg"
+    },
+    ["distance"] = {
+        ["en"] = "distance",
+        ["ar"] = "المسافة",
+        ["ru"] = "дистанция",
+        ["tr"] = "mesafe",
+        ["es"] = "distancia",
+        ["fr"] = "distance",
+        ["de"] = "Distanz",
+        ["pt"] = "distância"
+    },
+    ["FE Invisibility"] = {
+        ["en"] = "FE Invisibility",
+        ["ar"] = "اختفاء كامل",
+        ["ru"] = "Невидимость",
+        ["tr"] = "Görünmezlik",
+        ["es"] = "Invisibilidad",
+        ["fr"] = "Invisibilité",
+        ["de"] = "Unsichtbarkeit",
+        ["pt"] = "Invisibilidade"
+    },
+    ["For PC Press C"] = {
+        ["en"] = "For PC Press C",
+        ["ar"] = "للكمبيوتر اضغط C",
+        ["ru"] = "На ПК нажми C",
+        ["tr"] = "PC için C'ye bas",
+        ["es"] = "Para PC presiona C",
+        ["fr"] = "Sur PC appuyez sur C",
+        ["de"] = "Für PC drücke C",
+        ["pt"] = "Para PC pressione C"
+    },
+    ["Copy Avatar"] = {
+        ["en"] = "Copy Avatar",
+        ["ar"] = "نسخ السكن",
+        ["ru"] = "Копировать скин",
+        ["tr"] = "Avatarı Kopyala",
+        ["es"] = "Copiar Avatar",
+        ["fr"] = "Copier l'avatar",
+        ["de"] = "Avatar kopieren",
+        ["pt"] = "Copiar Avatar"
+    },
+    ["Do reset character avatar before copy (better)"] = {
+        ["en"] = "Reset your avatar before copying (better)",
+        ["ar"] = "يفضل تعمل ريسيت للشخصية قبل النسخ (أفضل)",
+        ["ru"] = "Лучше ресетни перса перед копированием",
+        ["tr"] = "Kopyalamadan önce karakteri sıfırlamak daha iyi",
+        ["es"] = "Es mejor reiniciar tu avatar antes de copiar",
+        ["fr"] = "Il est préférable de réinitialiser votre avatar avant de copier",
+        ["de"] = "Es ist besser, deinen Avatar vor dem Kopieren zurückzusetzen",
+        ["pt"] = "É melhor resetar o avatar antes de copiar"
+    },
+    ["Error"] = {
+        ["en"] = "Error",
+        ["ar"] = "خطأ",
+        ["ru"] = "Ошибка",
+        ["tr"] = "Hata",
+        ["es"] = "Error",
+        ["fr"] = "Erreur",
+        ["de"] = "Fehler",
+        ["pt"] = "Erro"
+    },
+    ["Please select a player first!"] = {
+        ["en"] = "Please select a player first!",
+        ["ar"] = "اختار لاعب الأول",
+        ["ru"] = "Сначала выбери игрока, брат",
+        ["tr"] = "Önce bir oyuncu seç",
+        ["es"] = "Primero selecciona un jugador",
+        ["fr"] = "Veuillez d'abord sélectionner un joueur",
+        ["de"] = "Wähle zuerst einen Spieler",
+        ["pt"] = "Selecione um jogador primeiro"
+    },
+    ["Player not found or no character!"] = {
+        ["en"] = "Player not found or no character!",
+        ["ar"] = "اللاعب مش موجود أو مفيش شخصية",
+        ["ru"] = "Игрок не найден или нет персонажа",
+        ["tr"] = "Oyuncu bulunamadı veya karakter yok",
+        ["es"] = "Jugador no encontrado o sin personaje",
+        ["fr"] = "Joueur introuvable ou pas de personnage",
+        ["de"] = "Spieler nicht gefunden oder kein Charakter",
+        ["pt"] = "Jogador não encontrado ou sem personagem"
+    },
+    ["Starting..."] = {
+        ["en"] = "Starting...",
+        ["ar"] = "جاري التشغيل...",
+        ["ru"] = "Запускается...",
+        ["tr"] = "Başlatılıyor...",
+        ["es"] = "Iniciando...",
+        ["fr"] = "Démarrage...",
+        ["de"] = "Wird gestartet...",
+        ["pt"] = "Iniciando..."
+    },
+    ["Applying body parts..."] = {
+        ["en"] = "Applying body parts...",
+        ["ar"] = "بيتم تطبيق أجزاء الجسم...",
+        ["ru"] = "Применяем части тела...",
+        ["tr"] = "Vücut parçaları uygulanıyor...",
+        ["es"] = "Aplicando partes del cuerpo...",
+        ["fr"] = "Application des parties du corps...",
+        ["de"] = "Körperteile werden angewendet...",
+        ["pt"] = "Aplicando partes do corpo..."
     },
     ["Auto Login"] = {
         ["en"] = "Auto Login",

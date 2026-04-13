@@ -422,7 +422,7 @@ return {
     ["Disable Catch And Kill"] = {
         ["en"] = "Disable Catch And Kill",
         ["ar"] = "تعطيل المسك و القتل",
-        ["ru"] = "Отключить ловлю и убийство",  -- تم التصحيح: بدلاً من "Отключить мускулы и убить"
+        ["ru"] = "Отключить ловлю и убийство", -- تم التصحيح: بدلاً من "Отключить мускулы и убить"
         ["tr"] = "Yakala ve Öldür'ü Devre Dışı Bırak",
         ["es"] = "Desactivar Atrapar y Matar",
         ["fr"] = "Désactiver Attraper et Tuer",
@@ -2108,5 +2108,165 @@ return {
         ["fr"] = "Cela prendra quelques secondes pour charger",
         ["de"] = "Dies dauert einige Sekunden zum Laden",
         ["pt"] = "Isso levará alguns segundos para carregar"
+    },
+    ["Key"] = {
+        ["en"] = "Key",
+        ["ar"] = "المفتاح",
+        ["ru"] = "Ключ",
+        ["tr"] = "Anahtar",
+        ["es"] = "Clave",
+        ["fr"] = "Clé",
+        ["de"] = "Schlüssel",
+        ["pt"] = "Chave"
+    },
+    ["Status"] = {
+        ["en"] = "Status",
+        ["ar"] = "الحالة",
+        ["ru"] = "Статус",
+        ["tr"] = "Durum",
+        ["es"] = "Estado",
+        ["fr"] = "Statut",
+        ["de"] = "Status",
+        ["pt"] = "Status"
+    },
+    ["Waiting..."] = {
+        ["en"] = "Waiting...",
+        ["ar"] = "جاري الانتظار...",
+        ["ru"] = "Ждём...",
+        ["tr"] = "Bekleniyor...",
+        ["es"] = "Esperando...",
+        ["fr"] = "En attente...",
+        ["de"] = "Warten...",
+        ["pt"] = "Aguardando..."
+    },
+    ["Enter Key"] = {
+        ["en"] = "Enter Key",
+        ["ar"] = "ادخل المفتاح",
+        ["ru"] = "Введи ключ",
+        ["tr"] = "Anahtarı Gir",
+        ["es"] = "Ingresar Clave",
+        ["fr"] = "Entrer la Clé",
+        ["de"] = "Schlüssel Eingeben",
+        ["pt"] = "Digite a Chave"
+    },
+    ["Get Key"] = {
+        ["en"] = "Get Key",
+        ["ar"] = "احصل على المفتاح",
+        ["ru"] = "Взять ключ",
+        ["tr"] = "Anahtarı Al",
+        ["es"] = "Obtener Clave",
+        ["fr"] = "Obtenir la Clé",
+        ["de"] = "Schlüssel Holen",
+        ["pt"] = "Obter Chave"
+    },
+    ["Copied"] = {
+        ["en"] = "Copied",
+        ["ar"] = "تم النسخ",
+        ["ru"] = "Скопировано",
+        ["tr"] = "Kopyalandı",
+        ["es"] = "Copiado",
+        ["fr"] = "Copié",
+        ["de"] = "Kopiert",
+        ["pt"] = "Copiado"
+    },
+    ["Key link copied"] = {
+        ["en"] = "Key link copied",
+        ["ar"] = "تم نسخ رابط المفتاح",
+        ["ru"] = "Ссылка на ключ скопирована",
+        ["tr"] = "Anahtar linki kopyalandı",
+        ["es"] = "Enlace de clave copiado",
+        ["fr"] = "Lien de clé copié",
+        ["de"] = "Key-Link kopiert",
+        ["pt"] = "Link da chave copiado"
+    },
+    ["Verify Key"] = {
+        ["en"] = "Verify Key",
+        ["ar"] = "تحقق من المفتاح",
+        ["ru"] = "Проверить ключ",
+        ["tr"] = "Anahtarı Doğrula",
+        ["es"] = "Verificar Clave",
+        ["fr"] = "Vérifier la Clé",
+        ["de"] = "Schlüssel Prüfen",
+        ["pt"] = "Verificar Chave"
+    },
+    ["Enter key first"] = {
+        ["en"] = "Enter key first",
+        ["ar"] = "ادخل المفتاح اولاً",
+        ["ru"] = "Сначала введи ключ",
+        ["tr"] = "Önce anahtarı gir",
+        ["es"] = "Primero ingresa la clave",
+        ["fr"] = "Entrez la clé d'abord",
+        ["de"] = "Zuerst Schlüssel eingeben",
+        ["pt"] = "Digite a chave primeiro"
+    },
+    ["Checking..."] = {
+        ["en"] = "Checking...",
+        ["ar"] = "جاري التحقق...",
+        ["ru"] = "Проверяем...",
+        ["tr"] = "Kontrol ediliyor...",
+        ["es"] = "Verificando...",
+        ["fr"] = "Vérification...",
+        ["de"] = "Überprüfen...",
+        ["pt"] = "Verificando..."
+    },
+    ["Request Failed"] = {
+        ["en"] = "Request Failed",
+        ["ar"] = "فشل الاتصال",
+        ["ru"] = "Запрос не прошёл",
+        ["tr"] = "İstek başarısız",
+        ["es"] = "Solicitud fallida",
+        ["fr"] = "Échec de la requête",
+        ["de"] = "Anfrage fehlgeschlagen",
+        ["pt"] = "Falha na solicitação"
+    },
+    ["Invalid Key"] = {
+        ["en"] = "Invalid Key",
+        ["ar"] = "مفتاح غير صالح",
+        ["ru"] = "Ключ левый",
+        ["tr"] = "Geçersiz Anahtar",
+        ["es"] = "Clave inválida",
+        ["fr"] = "Clé invalide",
+        ["de"] = "Ungültiger Schlüssel",
+        ["pt"] = "Chave inválida"
+    },
+    ["Success"] = {
+        ["en"] = "Success",
+        ["ar"] = "نجاح",
+        ["ru"] = "Готово",
+        ["tr"] = "Başarılı",
+        ["es"] = "Éxito",
+        ["fr"] = "Succès",
+        ["de"] = "Erfolg",
+        ["pt"] = "Sucesso"
+    },
+    ["Premium Activated"] = {
+        ["en"] = "Premium Activated",
+        ["ar"] = "تم تفعيل البريميوم",
+        ["ru"] = "Премиум включён",
+        ["tr"] = "Premium Aktif",
+        ["es"] = "Premium Activado",
+        ["fr"] = "Premium Activé",
+        ["de"] = "Premium Aktiviert",
+        ["pt"] = "Premium Ativado"
+    },
+    ["Saved Key Invalid"] = {
+        ["en"] = "Saved Key Invalid",
+        ["ar"] = "المفتاح المحفوظ غير صالح",
+        ["ru"] = "Сохранённый ключ не работает",
+        ["tr"] = "Kayıtlı anahtar geçersiz",
+        ["es"] = "Clave guardada inválida",
+        ["fr"] = "Clé enregistrée invalide",
+        ["de"] = "Gespeicherter Schlüssel ungültig",
+        ["pt"] = "Chave salva inválida"
+    },
+    ["Auto Login"] = {
+        ["en"] = "Auto Login",
+        ["ar"] = "تسجيل تلقائي",
+        ["ru"] = "Авто вход",
+        ["tr"] = "Otomatik Giriş",
+        ["es"] = "Inicio automático",
+        ["fr"] = "Connexion automatique",
+        ["de"] = "Automatischer Login",
+        ["pt"] = "Login automático"
     }
 }

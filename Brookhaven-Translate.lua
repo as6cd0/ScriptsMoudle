@@ -2719,6 +2719,36 @@ return {
         ["de"] = "Körperteile werden angewendet...",
         ["pt"] = "Aplicando partes do corpo..."
     },
+    ["Car Mods"] = {
+        en = "Car Mods",
+        ar = "تعديلات العربيات",
+        ru = "Моды на машины",
+        tr = "Araba Modları",
+        es = "Mods de coches",
+        fr = "Mods de voiture",
+        de = "Auto Mods",
+        pt = "Mods de carro"
+    },
+    ["Delay Before Tool Delete"] = {
+        en = "Delay Before Tool Delete",
+        ar = "تأخير قبل حذف الأداة",
+        ru = "Задержка перед удалением инструмента",
+        tr = "Araç silinmeden önce gecikme",
+        es = "Retraso antes de eliminar la herramienta",
+        fr = "Délai avant suppression de l'outil",
+        de = "Verzögerung vor dem Löschen des Tools",
+        pt = "Atraso antes de deletar a ferramenta"
+    },
+    ["Delay Before Teleport Back"] = {
+        en = "Delay Before Teleport Back",
+        ar = "تأخير قبل الرجوع للمكان",
+        ru = "Задержка перед возвратом назад",
+        tr = "Geri ışınlanmadan önce gecikme",
+        es = "Retraso antes de volver",
+        fr = "Délai avant de revenir",
+        de = "Verzögerung vor dem Zurückteleportieren",
+        pt = "Atraso antes de voltar"
+    },
     ["Auto Login"] = {
         ["en"] = "Auto Login",
         ["ar"] = "تسجيل تلقائي",

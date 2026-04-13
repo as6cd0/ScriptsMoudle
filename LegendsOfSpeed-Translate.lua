@@ -749,6 +749,296 @@ return {
         de = "Edelsteine",
         pt = "Gemas"
     },
+    ["Pets"] = {
+        en = "Pets",
+        ar = "الحيوانات",
+        ru = "Питомцы",
+        tr = "Evcil hayvanlar",
+        es = "Mascotas",
+        fr = "Animaux",
+        de = "Haustiere",
+        pt = "Pets"
+    },
+    ["Warning"] = {
+        en = "Warning",
+        ar = "تحذير",
+        ru = "Предупреждение",
+        tr = "Uyarı",
+        es = "Advertencia",
+        fr = "Avertissement",
+        de = "Warnung",
+        pt = "Aviso"
+    },
+    ["Safety Options"] = {
+        en = "Safety Options",
+        ar = "إعدادات الأمان",
+        ru = "Параметры безопасности",
+        tr = "Güvenlik seçenekleri",
+        es = "Opciones de seguridad",
+        fr = "Options de sécurité",
+        de = "Sicherheitsoptionen",
+        pt = "Opções de segurança"
+    },
+    ["Duplicate Interval"] = {
+        en = "Duplicate Interval",
+        ar = "مدة التكرار",
+        ru = "Интервал дублирования",
+        tr = "Kopyalama aralığı",
+        es = "Intervalo de duplicación",
+        fr = "Intervalle de duplication",
+        de = "Duplizierungsintervall",
+        pt = "Intervalo de duplicação"
+    },
+    ["Pets Duplication"] = {
+        en = "Pets Duplication",
+        ar = "نسخ الحيوانات",
+        ru = "Дублирование питомцев",
+        tr = "Evcil hayvan kopyalama",
+        es = "Duplicación de mascotas",
+        fr = "Duplication des animaux",
+        de = "Haustier-Duplizierung",
+        pt = "Duplicação de pets"
+    },
+    ["Pet"] = {
+        en = "Pet",
+        ar = "حيوان",
+        ru = "Питомец",
+        tr = "Evcil hayvan",
+        es = "Mascota",
+        fr = "Animal",
+        de = "Haustier",
+        pt = "Pet"
+    },
+    ["Duplicate Pet"] = {
+        en = "Duplicate Pet",
+        ar = "نسخ الحيوان",
+        ru = "Дублировать питомца",
+        tr = "Evcil hayvanı kopyala",
+        es = "Duplicar mascota",
+        fr = "Dupliquer l’animal",
+        de = "Haustier duplizieren",
+        pt = "Duplicar pet"
+    },
+    ["Spam Duplicate Pet"] = {
+        en = "Spam Duplicate Pet",
+        ar = "تكرار نسخ الحيوان",
+        ru = "Спам дублирования питомца",
+        tr = "Sürekli kopyala",
+        es = "Spam duplicar mascota",
+        fr = "Spam duplication animal",
+        de = "Spam Duplizieren Haustier",
+        pt = "Spam duplicar pet"
+    },
+    ["Your inventory is full."] = {
+        en = "Your inventory is full.",
+        ar = "المخزن ممتلئ",
+        ru = "Инвентарь заполнен",
+        tr = "Envanter dolu",
+        es = "Tu inventario está lleno",
+        fr = "Votre inventaire est plein",
+        de = "Dein Inventar ist voll",
+        pt = "Seu inventário está cheio"
+    },
+    ["You have to choose a pet first."] = {
+        en = "You have to choose a pet first.",
+        ar = "لازم تختار حيوان الأول",
+        ru = "Сначала выбери питомца",
+        tr = "Önce bir evcil hayvan seç",
+        es = "Debes elegir una mascota primero",
+        fr = "Vous devez choisir un animal d'abord",
+        de = "Du musst zuerst ein Haustier auswählen",
+        pt = "Você precisa escolher um pet primeiro"
+    },
+    ["Trails Duplication"] = {
+        en = "Trails Duplication",
+        ar = "نسخ الآثار",
+        ru = "Дублирование следов",
+        tr = "İz kopyalama",
+        es = "Duplicación de estelas",
+        fr = "Duplication des traînées",
+        de = "Spur-Duplizierung",
+        pt = "Duplicação de trilhas"
+    },
+    ["Trail"] = {
+        en = "Trail",
+        ar = "أثر",
+        ru = "След",
+        tr = "İz",
+        es = "Estela",
+        fr = "Traînée",
+        de = "Spur",
+        pt = "Trilha"
+    },
+    ["Duplicate Trail"] = {
+        en = "Duplicate Trail",
+        ar = "نسخ الأثر",
+        ru = "Дублировать след",
+        tr = "İzi kopyala",
+        es = "Duplicar estela",
+        fr = "Dupliquer la traînée",
+        de = "Spur duplizieren",
+        pt = "Duplicar trilha"
+    },
+    ["Spam Duplicate Trail"] = {
+        en = "Spam Duplicate Trail",
+        ar = "تكرار نسخ الأثر",
+        ru = "Спам дублирования следа",
+        tr = "Sürekli iz kopyala",
+        es = "Spam duplicar estela",
+        fr = "Spam duplication traînée",
+        de = "Spam Spur duplizieren",
+        pt = "Spam duplicar trilha"
+    },
+    ["You have to choose a trail first."] = {
+        en = "You have to choose a trail first.",
+        ar = "لازم تختار أثر الأول",
+        ru = "Сначала выбери след",
+        tr = "Önce bir iz seç",
+        es = "Debes elegir una estela primero",
+        fr = "Vous devez choisir une traînée d'abord",
+        de = "Du musst zuerst eine Spur auswählen",
+        pt = "Você precisa escolher uma trilha primeiro"
+    },
+    ["Pet Management"] = {
+        en = "Pet Management",
+        ar = "إدارة الحيوانات",
+        ru = "Управление питомцами",
+        tr = "Evcil hayvan yönetimi",
+        es = "Gestión de mascotas",
+        fr = "Gestion des animaux",
+        de = "Haustierverwaltung",
+        pt = "Gerenciamento de pets"
+    },
+    ["Rarity"] = {
+        en = "Rarity",
+        ar = "الندرة",
+        ru = "Редкость",
+        tr = "Nadirlik",
+        es = "Rareza",
+        fr = "Rareté",
+        de = "Seltenheit",
+        pt = "Raridade"
+    },
+    ["Delete Selected Pet Rarities"] = {
+        en = "Delete Selected Pet Rarities",
+        ar = "حذف الحيوانات المختارة",
+        ru = "Удалить выбранные редкости питомцев",
+        tr = "Seçilen nadirlikleri sil",
+        es = "Eliminar rarezas seleccionadas",
+        fr = "Supprimer les raretés sélectionnées",
+        de = "Ausgewählte Seltenheiten löschen",
+        pt = "Excluir raridades selecionadas"
+    },
+    ["Only Keep Selected Pet Rarities"] = {
+        en = "Only Keep Selected Pet Rarities",
+        ar = "الاحتفاظ بالمختار فقط",
+        ru = "Оставить только выбранные",
+        tr = "Sadece seçilenleri tut",
+        es = "Mantener solo seleccionados",
+        fr = "Garder seulement sélectionnés",
+        de = "Nur ausgewählte behalten",
+        pt = "Manter apenas selecionados"
+    },
+    ["Delete All Pets"] = {
+        en = "Delete All Pets",
+        ar = "حذف كل الحيوانات",
+        ru = "Удалить всех питомцев",
+        tr = "Tümünü sil",
+        es = "Eliminar todas las mascotas",
+        fr = "Supprimer tous les animaux",
+        de = "Alle Haustiere löschen",
+        pt = "Excluir todos os pets"
+    },
+    ["Trail Management"] = {
+        en = "Trail Management",
+        ar = "إدارة الآثار",
+        ru = "Управление следами",
+        tr = "İz yönetimi",
+        es = "Gestión de estelas",
+        fr = "Gestion des traînées",
+        de = "Spurverwaltung",
+        pt = "Gerenciamento de trilhas"
+    },
+    ["Delete Selected Trail Rarities"] = {
+        en = "Delete Selected Trail Rarities",
+        ar = "حذف الآثار المختارة",
+        ru = "Удалить выбранные редкости следов",
+        tr = "Seçilen izleri sil",
+        es = "Eliminar estelas seleccionadas",
+        fr = "Supprimer les traînées sélectionnées",
+        de = "Ausgewählte Spuren löschen",
+        pt = "Excluir trilhas selecionadas"
+    },
+    ["Only Keep Selected Trail Rarities"] = {
+        en = "Only Keep Selected Trail Rarities",
+        ar = "الاحتفاظ بالآثار المختارة فقط",
+        ru = "Оставить только выбранные следы",
+        tr = "Sadece seçilen izleri tut",
+        es = "Mantener solo estelas seleccionadas",
+        fr = "Garder seulement les traînées sélectionnées",
+        de = "Nur ausgewählte Spuren behalten",
+        pt = "Manter apenas trilhas selecionadas"
+    },
+    ["Delete All Trails"] = {
+        en = "Delete All Trails",
+        ar = "حذف كل الآثار",
+        ru = "Удалить все следы",
+        tr = "Tüm izleri sil",
+        es = "Eliminar todas las estelas",
+        fr = "Supprimer toutes les traînées",
+        de = "Alle Spuren löschen",
+        pt = "Excluir todas as trilhas"
+    },
+    ["Evolutions"] = {
+        en = "Evolutions",
+        ar = "التطوير",
+        ru = "Эволюции",
+        tr = "Gelişim",
+        es = "Evoluciones",
+        fr = "Évolutions",
+        de = "Entwicklungen",
+        pt = "Evoluções"
+    },
+    ["Auto Evolve Pets"] = {
+        en = "Auto Evolve Pets",
+        ar = "تطوير الحيوانات تلقائي",
+        ru = "Авто эволюция питомцев",
+        tr = "Otomatik geliştirme",
+        es = "Evolucionar mascotas automáticamente",
+        fr = "Évolution automatique des animaux",
+        de = "Automatische Entwicklung",
+        pt = "Evoluir pets automaticamente"
+    },
+    ["Auto Evolve Trails"] = {
+        en = "Auto Evolve Trails",
+        ar = "تطوير الآثار تلقائي",
+        ru = "Авто эволюция следов",
+        tr = "Otomatik iz geliştirme",
+        es = "Evolucionar estelas automáticamente",
+        fr = "Évolution automatique des traînées",
+        de = "Automatische Spurentwicklung",
+        pt = "Evoluir trilhas automaticamente"
+    },
+    ["Anti Idle"] = {
+        en = "Anti Idle",
+        ar = "منع الخمول",
+        ru = "Анти-афк",
+        tr = "Boşta kalmayı engelle",
+        es = "Anti inactividad",
+        fr = "Anti inactivité",
+        de = "Anti-Leerlauf",
+        pt = "Anti inatividade"
+    },
+    ["Anti Ragdoll"] = {
+        en = "Anti Ragdoll",
+        ar = "منع السقوط",
+        ru = "Анти-рагдолл",
+        tr = "Ragdoll engelle",
+        es = "Anti ragdoll",
+        fr = "Anti ragdoll",
+        de = "Anti-Ragdoll",
+        pt = "Anti ragdoll"
+    },
     ["Collect Speed Gems"] = {
         en = "Collect Speed Gems",
         ar = "سرعة جمع الجواهر",

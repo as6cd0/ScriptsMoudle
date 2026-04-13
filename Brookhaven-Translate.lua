@@ -2949,6 +2949,16 @@ return {
         ["de"] = "Fangtyp",
         ["pt"] = "Tipo de captura"
     },
+    ["Invisibility works on all players"] = {
+        ["en"] = "Invisibility works on all players",
+        ["ar"] = "الاختفاء بيشتغل على كل اللاعبين",
+        ["ru"] = "Невидимость работает на всех игроков",
+        ["tr"] = "Görünmezlik tüm oyuncularda çalışır",
+        ["es"] = "La invisibilidad funciona en todos los jugadores",
+        ["fr"] = "L'invisibilité fonctionne sur tous les joueurs",
+        ["de"] = "Unsichtbarkeit funktioniert bei allen Spielern",
+        ["pt"] = "A invisibilidade funciona em todos os jogadores"
+    },
     ["Auto Login"] = {
         ["en"] = "Auto Login",
         ["ar"] = "تسجيل تلقائي",

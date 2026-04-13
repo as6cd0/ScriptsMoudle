@@ -2059,15 +2059,15 @@ return {
         ["de"] = "Sound Stoppen",
         ["pt"] = "Parar Som"
     },
-    ["This not full a version of v1.5 you will get bugs (i think)"] = {
-        ["en"] = "This not full a version of v1.5 you will get bugs (i think)",
-        ["ar"] = "ده مش النسخة الكاملة من تحديث v1.5 هتقابلك مشاكل في السكربت (اعتقد)",
-        ["ru"] = "Это не полная версия обновления v1.5, у вас могут возникнуть проблемы со скриптом (я думаю)",
-        ["tr"] = "Bu v1.5 sürümünün tamamı değil, hatalarla karşılaşacaksınız (sanırım)",
-        ["es"] = "Esta no es la versión completa de v1.5, obtendrás errores (creo)",
-        ["fr"] = "Ce n'est pas la version complète de v1.5, vous rencontrerez des bugs (je pense)",
-        ["de"] = "Dies ist nicht die vollständige Version von v1.5, Sie werden Fehler erhalten (denke ich)",
-        ["pt"] = "Esta não é a versão completa do v1.5, você terá bugs (acho)"
+    ["This not full a version of v1.55 you will get bugs (i think)"] = {
+        ["en"] = "This not full a version of v1.55 you will get bugs (i think)",
+        ["ar"] = "ده مش النسخة الكاملة من تحديث v1.55 هتقابلك مشاكل في السكربت (اعتقد)",
+        ["ru"] = "Это не полная версия обновления v1.55, у вас могут возникнуть проблемы со скриптом (я думаю)",
+        ["tr"] = "Bu v1.55 sürümünün tamamı değil, hatalarla karşılaşacaksınız (sanırım)",
+        ["es"] = "Esta no es la versión completa de v1.55, obtendrás errores (creo)",
+        ["fr"] = "Ce n'est pas la version complète de v1.55, vous rencontrerez des bugs (je pense)",
+        ["de"] = "Dies ist nicht die vollständige Version von v1.55, Sie werden Fehler erhalten (denke ich)",
+        ["pt"] = "Esta não é a versão completa do v1.55, você terá bugs (acho)"
     },
     ["Multi Audio"] = {
         ["en"] = "Multi Audio",

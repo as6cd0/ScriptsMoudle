@@ -1,4 +1,4 @@
-local Translations = {
+return {
     ["Info"] = {
         en = "Info",
         ar = "معلومات",

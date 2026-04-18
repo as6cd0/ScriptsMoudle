@@ -2,11 +2,11 @@ return {
     ["Info"] = {
         en = "Info",
         ar = "معلومات",
-        ru = "Инфо",
+        ru = "Информация",
         tr = "Bilgi",
         es = "Información",
-        fr = "Infos",
-        de = "Informationen",
+        fr = "Informations",
+        de = "Information",
         pt = "Informações"
     },
     ["Language"] = {
@@ -21,13 +21,13 @@ return {
     },
     ["Set Language"] = {
         en = "Set Language",
-        ar = "تعيين اللغة",
+        ar = "تغيير اللغة",
         ru = "Установить язык",
-        tr = "Dili ayarla",
-        es = "Establecer idioma",
-        fr = "Définir la langue",
+        tr = "Dili Ayarla",
+        es = "Establecer Idioma",
+        fr = "Définir la Langue",
         de = "Sprache festlegen",
-        pt = "Definir idioma"
+        pt = "Definir Idioma"
     },
     ["SP Hub Channels"] = {
         en = "SP Hub Channels",
@@ -37,61 +37,61 @@ return {
         es = "Canales de SP Hub",
         fr = "Chaînes SP Hub",
         de = "SP Hub Kanäle",
-        pt = "Canais SP Hub"
+        pt = "Canais do SP Hub"
     },
     ["Telegram Channel"] = {
         en = "Telegram Channel",
         ar = "قناة تيليجرام",
-        ru = "Канал Telegram",
+        ru = "Телеграм Канал",
         tr = "Telegram Kanalı",
         es = "Canal de Telegram",
-        fr = "Canal Telegram",
-        de = "Telegram-Kanal",
+        fr = "Chaîne Telegram",
+        de = "Telegram Kanal",
         pt = "Canal do Telegram"
     },
     ["YouTube Channel"] = {
         en = "YouTube Channel",
         ar = "قناة يوتيوب",
-        ru = "Канал YouTube",
+        ru = "Ютуб Канал",
         tr = "YouTube Kanalı",
         es = "Canal de YouTube",
         fr = "Chaîne YouTube",
-        de = "YouTube-Kanal",
+        de = "YouTube Kanal",
         pt = "Canal do YouTube"
     },
     ["Discord Server"] = {
         en = "Discord Server",
         ar = "سيرفر ديسكورد",
-        ru = "Сервер Discord",
+        ru = "Дискорд Сервер",
         tr = "Discord Sunucusu",
         es = "Servidor de Discord",
         fr = "Serveur Discord",
-        de = "Discord-Server",
+        de = "Discord Server",
         pt = "Servidor do Discord"
     },
     ["link copied"] = {
         en = "link copied",
-        ar = "تم نسخ الرابط",
-        ru = "ссылка скопирована",
-        tr = "bağlantı kopyalandı",
-        es = "enlace copiado",
-        fr = "lien copié",
+        ar = "تم نسخ اللينك",
+        ru = "Ссылка скопирована",
+        tr = "Bağlantı kopyalandı",
+        es = "Enlace copiado",
+        fr = "Lien copié",
         de = "Link kopiert",
-        pt = "link copiado"
+        pt = "Link copiado"
     },
     ["The link has been copied successfully."] = {
         en = "The link has been copied successfully.",
-        ar = "تم نسخ الرابط بنجاح.",
+        ar = "اللينك اتنسخ كويس يا معلم.",
         ru = "Ссылка успешно скопирована.",
         tr = "Bağlantı başarıyla kopyalandı.",
-        es = "El enlace se copió correctamente.",
+        es = "El enlace se ha copiado correctamente.",
         fr = "Le lien a été copié avec succès.",
         de = "Der Link wurde erfolgreich kopiert.",
         pt = "O link foi copiado com sucesso."
     },
     ["Key"] = {
         en = "Key",
-        ar = "المفتاح",
+        ar = "الكود",
         ru = "Ключ",
         tr = "Anahtar",
         es = "Clave",
@@ -111,7 +111,7 @@ return {
     },
     ["Waiting..."] = {
         en = "Waiting...",
-        ar = "جارٍ الانتظار...",
+        ar = "استنى شوية...",
         ru = "Ожидание...",
         tr = "Bekleniyor...",
         es = "Esperando...",
@@ -121,7 +121,7 @@ return {
     },
     ["Enter Key"] = {
         en = "Enter Key",
-        ar = "أدخل المفتاح",
+        ar = "حط الكود",
         ru = "Введите ключ",
         tr = "Anahtarı gir",
         es = "Ingresa la clave",
@@ -131,7 +131,7 @@ return {
     },
     ["Get Key"] = {
         en = "Get Key",
-        ar = "الحصول على المفتاح",
+        ar = "اجيب الكود",
         ru = "Получить ключ",
         tr = "Anahtar al",
         es = "Obtener clave",
@@ -141,7 +141,7 @@ return {
     },
     ["Copied"] = {
         en = "Copied",
-        ar = "تم النسخ",
+        ar = "اتنسخ",
         ru = "Скопировано",
         tr = "Kopyalandı",
         es = "Copiado",
@@ -151,7 +151,7 @@ return {
     },
     ["Key link copied"] = {
         en = "Key link copied",
-        ar = "تم نسخ رابط المفتاح",
+        ar = "لينك الكود اتنسخ",
         ru = "Ссылка на ключ скопирована",
         tr = "Anahtar bağlantısı kopyalandı",
         es = "Enlace de clave copiado",
@@ -161,7 +161,7 @@ return {
     },
     ["Request Failed"] = {
         en = "Request Failed",
-        ar = "فشل الطلب",
+        ar = "حصل مشكلة في الاتصال",
         ru = "Запрос не удался",
         tr = "İstek başarısız",
         es = "Solicitud fallida",
@@ -171,7 +171,7 @@ return {
     },
     ["Verify Key"] = {
         en = "Verify Key",
-        ar = "التحقق من المفتاح",
+        ar = "تأكيد الكود",
         ru = "Проверить ключ",
         tr = "Anahtarı doğrula",
         es = "Verificar clave",
@@ -181,17 +181,17 @@ return {
     },
     ["Enter key first"] = {
         en = "Enter key first",
-        ar = "أدخل المفتاح أولًا",
+        ar = "حط الكود الأول يا حج.",
         ru = "Сначала введите ключ",
         tr = "Önce anahtarı gir",
         es = "Ingresa la clave primero",
-        fr = "Entrez d’abord la clé",
+        fr = "Entrez d'abord la clé",
         de = "Erst den Schlüssel eingeben",
         pt = "Insira a chave primeiro"
     },
     ["Checking..."] = {
         en = "Checking...",
-        ar = "جارٍ التحقق...",
+        ar = "بشيك شوية...",
         ru = "Проверка...",
         tr = "Kontrol ediliyor...",
         es = "Verificando...",
@@ -201,7 +201,7 @@ return {
     },
     ["✅ Key Valid"] = {
         en = "✅ Key Valid",
-        ar = "✅ المفتاح صحيح",
+        ar = "✅ الكود شغال كويس",
         ru = "✅ Ключ действителен",
         tr = "✅ Anahtar geçerli",
         es = "✅ Clave válida",
@@ -211,7 +211,7 @@ return {
     },
     ["Success"] = {
         en = "Success",
-        ar = "نجاح",
+        ar = "تمام يا معلم",
         ru = "Успех",
         tr = "Başarılı",
         es = "Éxito",
@@ -221,7 +221,7 @@ return {
     },
     ["Premium Activated"] = {
         en = "Premium Activated",
-        ar = "تم تفعيل البريميوم",
+        ar = "البريميوم اتفعل يا حبيبي",
         ru = "Премиум активирован",
         tr = "Premium etkinleştirildi",
         es = "Premium activado",
@@ -231,7 +231,7 @@ return {
     },
     ["❌ Invalid Key"] = {
         en = "❌ Invalid Key",
-        ar = "❌ مفتاح غير صالح",
+        ar = "❌ الكود ده مش شغال",
         ru = "❌ Неверный ключ",
         tr = "❌ Geçersiz anahtar",
         es = "❌ Clave inválida",
@@ -241,7 +241,7 @@ return {
     },
     ["✅ Auto Login"] = {
         en = "✅ Auto Login",
-        ar = "✅ تسجيل دخول تلقائي",
+        ar = "✅ دخل لوحدك",
         ru = "✅ Автовход",
         tr = "✅ Otomatik giriş",
         es = "✅ Inicio automático",
@@ -251,7 +251,7 @@ return {
     },
     ["Saved Key Invalid"] = {
         en = "Saved Key Invalid",
-        ar = "المفتاح المحفوظ غير صالح",
+        ar = "الكود اللي محفوظ ده باطل",
         ru = "Сохранённый ключ недействителен",
         tr = "Kayıtlı anahtar geçersiz",
         es = "La clave guardada no es válida",
@@ -261,7 +261,7 @@ return {
     },
     ["In Game"] = {
         en = "In Game",
-        ar = "داخل اللعبة",
+        ar = "جوه اللعبة",
         ru = "В игре",
         tr = "Oyun içinde",
         es = "En juego",
@@ -291,7 +291,7 @@ return {
     },
     ["Loading..."] = {
         en = "Loading...",
-        ar = "جارٍ التحميل...",
+        ar = "بينتحمل شوية...",
         ru = "Загрузка...",
         tr = "Yükleniyor...",
         es = "Cargando...",
@@ -301,11 +301,11 @@ return {
     },
     ["There is no game, you are in the lobby"] = {
         en = "There is no game, you are in the lobby",
-        ar = "لا توجد لعبة، أنت في اللوبي",
+        ar = "مفيش لعبة دلوقتي، إنت في اللوبي.",
         ru = "Игры нет, вы в лобби",
         tr = "Oyun yok, lobidesin",
         es = "No hay partida, estás en el lobby",
-        fr = "Il n’y a pas de partie, vous êtes dans le lobby",
+        fr = "Il n'y a pas de partie, vous êtes dans le lobby",
         de = "Es gibt kein Spiel, du bist in der Lobby",
         pt = "Não há jogo, você está no lobby"
     },
@@ -341,7 +341,7 @@ return {
     },
     ["Auto Farm"] = {
         en = "Auto Farm",
-        ar = "الفارم التلقائي",
+        ar = "فارم لوحدك",
         ru = "Автофарм",
         tr = "Otomatik farm",
         es = "Farm automático",
@@ -351,7 +351,7 @@ return {
     },
     ["Kill Aura"] = {
         en = "Kill Aura",
-        ar = "هالة القتل",
+        ar = "ذبح الأعداء",
         ru = "Аура убийства",
         tr = "Öldürme aurası",
         es = "Aura de kill",
@@ -361,11 +361,11 @@ return {
     },
     ["Aura Radius"] = {
         en = "Aura Radius",
-        ar = "نطاق الهالة",
+        ar = "مدى الذبح",
         ru = "Радиус ауры",
         tr = "Aura yarıçapı",
         es = "Radio del aura",
-        fr = "Rayon de l’aura",
+        fr = "Rayon de l'aura",
         de = "Aurenradius",
         pt = "Raio da aura"
     },
@@ -381,17 +381,17 @@ return {
     },
     ["Show Aura Radius"] = {
         en = "Show Aura Radius",
-        ar = "إظهار نطاق الهالة",
+        ar = "وريني مدى الذبح",
         ru = "Показать радиус ауры",
         tr = "Aura yarıçapını göster",
         es = "Mostrar radio del aura",
-        fr = "Afficher le rayon de l’aura",
+        fr = "Afficher le rayon de l'aura",
         de = "Aurenradius anzeigen",
         pt = "Mostrar raio da aura"
     },
     ["ESP Enemies"] = {
         en = "ESP Enemies",
-        ar = "إظهار الأعداء",
+        ar = "كشف الأعداء",
         ru = "ESP врагов",
         tr = "Düşman ESP",
         es = "ESP enemigos",
@@ -411,13 +411,33 @@ return {
     },
     ["Infinite Dash"] = {
         en = "Infinite Dash",
-        ar = "اندفاع لا نهائي",
+        ar = "داش بلا حدود",
         ru = "Бесконечный рывок",
         tr = "Sonsuz dash",
         es = "Dash infinito",
         fr = "Dash infini",
         de = "Unendlicher Dash",
         pt = "Dash infinito"
+    },
+    ["Player Speed"] = {
+        en = "Player Speed",
+        ar = "سرعة اللاعب",
+        ru = "Скорость игрока",
+        tr = "Oyuncu Hızı",
+        es = "Velocidad del Jugador",
+        fr = "Vitesse du Joueur",
+        de = "Spieler Geschwindigkeit",
+        pt = "Velocidade do Jogador"
+    },
+    ["Speed Value"] = {
+        en = "Speed Value",
+        ar = "مقدار السرعة",
+        ru = "Значение скорости",
+        tr = "Hız Değeri",
+        es = "Valor de Velocidad",
+        fr = "Valeur de Vitesse",
+        de = "Geschwindigkeitswert",
+        pt = "Valor da Velocidade"
     },
     ["Walk/Fly Speed"] = {
         en = "Walk/Fly Speed",
@@ -441,13 +461,23 @@ return {
     },
     ["Fly"] = {
         en = "Fly",
-        ar = "الطيران",
-        ru = "Полет",
-        tr = "Uçuş",
+        ar = "طيران",
+        ru = "Полёт",
+        tr = "Uçma",
         es = "Volar",
-        fr = "Vol",
+        fr = "Voler",
         de = "Fliegen",
         pt = "Voar"
+    },
+    ["Fly Speed"] = {
+        en = "Fly Speed",
+        ar = "سرعة الطيران",
+        ru = "Скорость полёта",
+        tr = "Uçuş Hızı",
+        es = "Velocidad de Vuelo",
+        fr = "Vitesse de Vol",
+        de = "Fluggeschwindigkeit",
+        pt = "Velocidade de Voo"
     },
     ["Fishing"] = {
         en = "Fishing",
@@ -461,7 +491,7 @@ return {
     },
     ["Auto Fish"] = {
         en = "Auto Fish",
-        ar = "الصيد التلقائي",
+        ar = "صيد لوحدك",
         ru = "Авто-рыбалка",
         tr = "Oto balık",
         es = "Pesca automática",
@@ -471,7 +501,7 @@ return {
     },
     ["Enable it and fishing normally, it will work when you catch the fish"] = {
         en = "Enable it and fishing normally, it will work when you catch the fish",
-        ar = "فعِّله واصطد بشكل عادي، وسيعمل عند التقاط السمكة.",
+        ar = "فعّله واصطد زي العادة، وهيشغل لما تمسك السمكة.",
         ru = "Включите его и рыбачьте как обычно — сработает, когда поймаете рыбу.",
         tr = "Açın ve normal şekilde balık tutun, balığı yakaladığınızda çalışır.",
         es = "Actívalo y pesca normalmente; funcionará cuando pesques el pez.",
@@ -511,7 +541,7 @@ return {
     },
     ["Select Items"] = {
         en = "Select Items",
-        ar = "اختر العناصر",
+        ar = "اختار الحاجات",
         ru = "Выберите предметы",
         tr = "Öğeleri seç",
         es = "Selecciona objetos",
@@ -521,7 +551,7 @@ return {
     },
     ["Auto Sell"] = {
         en = "Auto Sell",
-        ar = "البيع التلقائي",
+        ar = "بيع لوحدك",
         ru = "Автопродажа",
         tr = "Oto satış",
         es = "Venta automática",
@@ -531,7 +561,7 @@ return {
     },
     ["Sell Selected All"] = {
         en = "Sell Selected All",
-        ar = "بيع الكل المحدد",
+        ar = "بيع اللي انت محدده كله",
         ru = "Продать всё выбранное",
         tr = "Seçilenlerin hepsini sat",
         es = "Vender todo lo seleccionado",
@@ -541,7 +571,7 @@ return {
     },
     ["Inventory"] = {
         en = "Inventory",
-        ar = "المخزون",
+        ar = "الجراب/الحقيبة",
         ru = "Инвентарь",
         tr = "Envanter",
         es = "Inventario",
@@ -561,7 +591,7 @@ return {
     },
     ["Upgrade All Swords"] = {
         en = "Upgrade All Swords",
-        ar = "ترقية جميع السيوف",
+        ar = "رقي كل السيوف",
         ru = "Улучшить все мечи",
         tr = "Tüm kılıçları yükselt",
         es = "Mejorar todas las espadas",
@@ -571,7 +601,7 @@ return {
     },
     ["Upgrades all swords from tier 1 to 9 (may lag)"] = {
         en = "Upgrades all swords from tier 1 to 9 (may lag)",
-        ar = "يرقّي جميع السيوف من المستوى 1 إلى 9 (قد يسبب لاج).",
+        ar = "يرقي كل السيوف من 1 لحد 9 (ممكن يعلق شوية).",
         ru = "Улучшает все мечи с 1 по 9 уровень (может лагать).",
         tr = "Tüm kılıçları 1. seviyeden 9. seviyeye yükseltir (lag yapabilir).",
         es = "Mejora todas las espadas del nivel 1 al 9 (puede causar lag).",
@@ -591,7 +621,7 @@ return {
     },
     ["Upgrade All Armors"] = {
         en = "Upgrade All Armors",
-        ar = "ترقية جميع الدروع",
+        ar = "رقي كل الدروع",
         ru = "Улучшить всю броню",
         tr = "Tüm zırhları yükselt",
         es = "Mejorar todas las armaduras",
@@ -601,7 +631,7 @@ return {
     },
     ["Upgrades all armors from tier 1 to 9 (may lag)"] = {
         en = "Upgrades all armors from tier 1 to 9 (may lag)",
-        ar = "يرقّي جميع الدروع من المستوى 1 إلى 9 (قد يسبب لاج).",
+        ar = "يرقي كل الدروع من 1 لحد 9 (ممكن يعلق شوية).",
         ru = "Улучшает всю броню с 1 по 9 уровень (может лагать).",
         tr = "Tüm zırhları 1. seviyeden 9. seviyeye yükseltir (lag yapabilir).",
         es = "Mejora todas las armaduras del nivel 1 al 9 (puede causar lag).",
@@ -631,7 +661,7 @@ return {
     },
     ["No Chests"] = {
         en = "No Chests",
-        ar = "لا توجد صناديق",
+        ar = "مفيش صناديق",
         ru = "Нет сундуков",
         tr = "Sandık yok",
         es = "No hay cofres",
@@ -641,7 +671,7 @@ return {
     },
     ["No Chests (Dungeon / Lobby)"] = {
         en = "No Chests (Dungeon / Lobby)",
-        ar = "لا توجد صناديق (الدنجن / اللوبي)",
+        ar = "مفيش صناديق (في الدنجن / اللوبي)",
         ru = "Нет сундуков (подземелье / лобби)",
         tr = "Sandık yok (Zindan / Lobi)",
         es = "No hay cofres (Mazmorra / Lobby)",
@@ -651,7 +681,7 @@ return {
     },
     ["Select Chest"] = {
         en = "Select Chest",
-        ar = "اختر الصندوق",
+        ar = "اختار الصندوق",
         ru = "Выберите сундук",
         tr = "Sandık seç",
         es = "Selecciona cofre",
@@ -661,17 +691,17 @@ return {
     },
     ["Open chest menu in inventory first"] = {
         en = "Open chest menu in inventory first",
-        ar = "افتح قائمة الصناديق في المخزون أولًا",
+        ar = "افتح قائمة الصناديق في الجراب الأول يا حج.",
         ru = "Сначала откройте меню сундуков в инвентаре",
         tr = "Önce envanterde sandık menüsünü aç",
         es = "Abre primero el menú de cofres en el inventario",
-        fr = "Ouvrez d’abord le menu des coffres dans l’inventaire",
+        fr = "Ouvrez d'abord le menu des coffres dans l'inventaire",
         de = "Öffne zuerst das Truhenmenü im Inventar",
         pt = "Abra primeiro o menu de baús no inventário"
     },
     ["Chest Amount"] = {
         en = "Chest Amount",
-        ar = "عدد الصناديق",
+        ar = "كم صندوق",
         ru = "Количество сундуков",
         tr = "Sandık miktarı",
         es = "Cantidad de cofres",
@@ -681,7 +711,7 @@ return {
     },
     ["Open Chests"] = {
         en = "Open Chests",
-        ar = "فتح الصناديق",
+        ar = "افتح الصناديق",
         ru = "Открыть сундуки",
         tr = "Sandıkları aç",
         es = "Abrir cofres",
@@ -691,7 +721,7 @@ return {
     },
     ["Opens the selected chest x times"] = {
         en = "Opens the selected chest x times",
-        ar = "يفتح الصندوق المحدد x مرات",
+        ar = "يفتح الصندوق اللي محدده x مرة.",
         ru = "Открывает выбранный сундук x раз",
         tr = "Seçilen sandığı x kez açar",
         es = "Abre el cofre seleccionado x veces",
@@ -721,7 +751,7 @@ return {
     },
     ["Select Potions"] = {
         en = "Select Potions",
-        ar = "اختر الجرعات",
+        ar = "اختار الجرعات",
         ru = "Выберите зелья",
         tr = "İksir seç",
         es = "Selecciona pociones",
@@ -731,7 +761,7 @@ return {
     },
     ["Potion Amount"] = {
         en = "Potion Amount",
-        ar = "عدد الجرعات",
+        ar = "كم جرعة",
         ru = "Количество зелий",
         tr = "İksir miktarı",
         es = "Cantidad de pociones",
@@ -751,7 +781,7 @@ return {
     },
     ["Buy"] = {
         en = "Buy",
-        ar = "شراء",
+        ar = "اشتري",
         ru = "Купить",
         tr = "Satın al",
         es = "Comprar",
@@ -761,7 +791,7 @@ return {
     },
     ["Buys selected potions with the amount"] = {
         en = "Buys selected potions with the amount",
-        ar = "يشتري الجرعات المحددة بالكمية المختارة",
+        ar = "يشتري الجرعات اللي انت محددها بالكمية.",
         ru = "Покупает выбранные зелья в указанном количестве",
         tr = "Seçilen iksirleri belirtilen miktarda satın alır",
         es = "Compra las pociones seleccionadas con la cantidad",
@@ -781,7 +811,7 @@ return {
     },
     ["Reset Character"] = {
         en = "Reset Character",
-        ar = "إعادة تعيين الشخصية",
+        ar = "أعد الشخصية",
         ru = "Сбросить персонажа",
         tr = "Karakteri sıfırla",
         es = "Reiniciar personaje",
@@ -791,7 +821,7 @@ return {
     },
     ["Rejoin"] = {
         en = "Rejoin",
-        ar = "إعادة الانضمام",
+        ar = "ادخل تاني",
         ru = "Перезайти",
         tr = "Tekrar katıl",
         es = "Reingresar",
@@ -801,11 +831,11 @@ return {
     },
     ["Destroy UI"] = {
         en = "Destroy UI",
-        ar = "حذف الواجهة",
+        ar = "اقفل الواجهة",
         ru = "Удалить UI",
-        tr = "UI'yı sil",
+        tr = "UI'yi sil",
         es = "Eliminar interfaz",
-        fr = "Détruire l’interface",
+        fr = "Détruire l'interface",
         de = "UI zerstören",
         pt = "Destruir UI"
     }

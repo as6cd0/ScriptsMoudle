@@ -91,7 +91,7 @@ return {
     },
     ["Key"] = {
         en = "Key",
-        ar = "الكود",
+        ar = "المفتاح",
         ru = "Ключ",
         tr = "Anahtar",
         es = "Clave",
@@ -121,7 +121,7 @@ return {
     },
     ["Enter Key"] = {
         en = "Enter Key",
-        ar = "حط الكود",
+        ar = "حط المفتاح",
         ru = "Введите ключ",
         tr = "Anahtarı gir",
         es = "Ingresa la clave",
@@ -131,7 +131,7 @@ return {
     },
     ["Get Key"] = {
         en = "Get Key",
-        ar = "اجيب الكود",
+        ar = "اجيب المفتاح",
         ru = "Получить ключ",
         tr = "Anahtar al",
         es = "Obtener clave",
@@ -151,7 +151,7 @@ return {
     },
     ["Key link copied"] = {
         en = "Key link copied",
-        ar = "لينك الكود اتنسخ",
+        ar = "لينك المفتاح اتنسخ",
         ru = "Ссылка на ключ скопирована",
         tr = "Anahtar bağlantısı kopyalandı",
         es = "Enlace de clave copiado",
@@ -171,7 +171,7 @@ return {
     },
     ["Verify Key"] = {
         en = "Verify Key",
-        ar = "تأكيد الكود",
+        ar = "تأكيد المفتاح",
         ru = "Проверить ключ",
         tr = "Anahtarı doğrula",
         es = "Verificar clave",
@@ -181,7 +181,7 @@ return {
     },
     ["Enter key first"] = {
         en = "Enter key first",
-        ar = "حط الكود الأول يا حج.",
+        ar = "حط المفتاح الأول يا حج.",
         ru = "Сначала введите ключ",
         tr = "Önce anahtarı gir",
         es = "Ingresa la clave primero",
@@ -201,7 +201,7 @@ return {
     },
     ["✅ Key Valid"] = {
         en = "✅ Key Valid",
-        ar = "✅ الكود شغال كويس",
+        ar = "✅ المفتاح شغال كويس",
         ru = "✅ Ключ действителен",
         tr = "✅ Anahtar geçerli",
         es = "✅ Clave válida",
@@ -231,7 +231,7 @@ return {
     },
     ["❌ Invalid Key"] = {
         en = "❌ Invalid Key",
-        ar = "❌ الكود ده مش شغال",
+        ar = "❌ المفتاح ده مش شغال",
         ru = "❌ Неверный ключ",
         tr = "❌ Geçersiz anahtar",
         es = "❌ Clave inválida",
@@ -251,7 +251,7 @@ return {
     },
     ["Saved Key Invalid"] = {
         en = "Saved Key Invalid",
-        ar = "الكود اللي محفوظ ده باطل",
+        ar = "المفتاح اللي محفوظ ده باطل",
         ru = "Сохранённый ключ недействителен",
         tr = "Kayıtlı anahtar geçersiz",
         es = "La clave guardada no es válida",

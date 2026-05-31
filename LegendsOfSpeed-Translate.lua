@@ -9,6 +9,16 @@ return {
         de = "Sprache Einstellen",
         pt = "Definir Idioma"
     },
+    ["Language"] = {
+        en = "Language",
+        ar = "اللغة",
+        ru = "Языك",
+        tr = "Dil",
+        es = "Idioma",
+        fr = "Langue",
+        de = "Sprache",
+        pt = "Idioma"
+    },
     ["Info"] = {
         en = "Info",
         ar = "معلومات",

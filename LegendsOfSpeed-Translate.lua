@@ -12,7 +12,7 @@ return {
     ["Language"] = {
         en = "Language",
         ar = "اللغة",
-        ru = "Языك",
+        ru = "Язык",
         tr = "Dil",
         es = "Idioma",
         fr = "Langue",

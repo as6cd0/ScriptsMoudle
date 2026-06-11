@@ -1128,5 +1128,5 @@ return {
         ["pt"] = "por SP Hub",
         ["ru"] = "от SP Hub",
         ["tr"] = "SP Hub tarafından",
-    },
+    }
 }

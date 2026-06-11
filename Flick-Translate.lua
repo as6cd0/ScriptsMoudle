@@ -1,4 +1,4 @@
-local Translations = {
+return {
     ["This will take some sec for loading"] = {
         ["en"] = "This will take some sec for loading",
         ["ar"] = "التحميل هيحتاج كام ثانية",

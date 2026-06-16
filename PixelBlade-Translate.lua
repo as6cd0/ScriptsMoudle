@@ -838,5 +838,95 @@ return {
         fr = "Détruire l'Interface",
         de = "UI Zerstören",
         pt = "Destruir UI"
+    },
+    ["Auto Upgrade Swords"] = {
+        en = "Auto Upgrade Swords",
+        ar = "طور السيوف تلقائي",
+        ru = "Auto Upgrade Swords",
+        tr = "Auto Upgrade Swords",
+        es = "Auto Upgrade Swords",
+        fr = "Auto Upgrade Swords",
+        de = "Auto Upgrade Swords",
+        pt = "Auto Upgrade Swords"
+    },
+    ["Automatically upgrades all swords that need upgrades (runs in background)"] = {
+        en = "Automatically upgrades all swords that need upgrades (runs in background)",
+        ar = "هيطورلك كل السيوف اللي محتاجة تطوير في الخلفية من غير ما تصدع نفسك!",
+        ru = "Automatically upgrades all swords that need upgrades (runs in background)",
+        tr = "Automatically upgrades all swords that need upgrades (runs in background)",
+        es = "Automatically upgrades all swords that need upgrades (runs in background)",
+        fr = "Automatically upgrades all swords that need upgrades (runs in background)",
+        de = "Automatically upgrades all swords that need upgrades (runs in background)",
+        pt = "Automatically upgrades all swords that need upgrades (runs in background)"
+    },
+    ["Auto Upgrade Armors"] = {
+        en = "Auto Upgrade Armors",
+        ar = "طور الدروع تلقائي",
+        ru = "Auto Upgrade Armors",
+        tr = "Auto Upgrade Armors",
+        es = "Auto Upgrade Armors",
+        fr = "Auto Upgrade Armors",
+        de = "Auto Upgrade Armors",
+        pt = "Auto Upgrade Armors"
+    },
+    ["Automatically upgrades all armors that need upgrades (runs in background)"] = {
+        en = "Automatically upgrades all armors that need upgrades (runs in background)",
+        ar = "هيطورلك كل الدروع اللي عليها العين في الخلفية وعيش يا بطل!",
+        ru = "Automatically upgrades all armors that need upgrades (runs in background)",
+        tr = "Automatically upgrades all armors that need upgrades (runs in background)",
+        es = "Automatically upgrades all armors that need upgrades (runs in background)",
+        fr = "Automatically upgrades all armors that need upgrades (runs in background)",
+        de = "Automatically upgrades all armors that need upgrades (runs in background)",
+        pt = "Automatically upgrades all armors that need upgrades (runs in background)"
+    },
+    ["Auto Upgrade Skills"] = {
+        en = "Auto Upgrade Skills",
+        ar = "تطوير المهارات للمكس تلقائي",
+        ru = "Auto Upgrade Skills",
+        tr = "Auto Upgrade Skills",
+        es = "Auto Upgrade Skills",
+        fr = "Auto Upgrade Skills",
+        de = "Auto Upgrade Skills",
+        pt = "Auto Upgrade Skills"
+    },
+    ["Automatically upgrades skills to MAX level when the selection menu appears upon leveling up (Premium Only)."] = {
+        en = "Automatically upgrades skills to MAX level when the selection menu appears upon leveling up (Premium Only).",
+        ar = "هيطورلك كل مهاراتك للمكس أول ما تظهر شاشة التلفيل، للناس البريميوم وبس يا رايق!",
+        ru = "Automatically upgrades skills to MAX level when the selection menu appears upon leveling up (Premium Only).",
+        tr = "Automatically upgrades skills to MAX level when the selection menu appears upon leveling up (Premium Only).",
+        es = "Automatically upgrades skills to MAX level when the selection menu appears upon leveling up (Premium Only).",
+        fr = "Automatically upgrades skills to MAX level when the selection menu appears upon leveling up (Premium Only).",
+        de = "Automatically upgrades skills to MAX level when the selection menu appears upon leveling up (Premium Only).",
+        pt = "Automatically upgrades skills to MAX level when the selection menu appears upon leveling up (Premium Only)."
+    },
+    ["NoClip"] = {
+        en = "NoClip",
+        ar = "عدي من الحيطة (NoClip)",
+        ru = "NoClip",
+        tr = "NoClip",
+        es = "NoClip",
+        fr = "NoClip",
+        de = "NoClip",
+        pt = "NoClip"
+    },
+    ["FPS Boost"] = {
+        en = "FPS Boost",
+        ar = "تسريع اللعبة (FPS Boost)",
+        ru = "FPS Boost",
+        tr = "FPS Boost",
+        es = "FPS Boost",
+        fr = "FPS Boost",
+        de = "FPS Boost",
+        pt = "FPS Boost"
+    },
+    ["Boosts your frame rate by cleaning graphics cache and disabling unnecessary visual effects."] = {
+        en = "Boosts your frame rate by cleaning graphics cache and disabling unnecessary visual effects.",
+        ar = "هيزودلك فريمات اللعبة ويشيل اللاج عن طريق تنضيف الكاش وإلغاء التأثيرات الزيادة!",
+        ru = "Boosts your frame rate by cleaning graphics cache and disabling unnecessary visual effects.",
+        tr = "Boosts your frame rate by cleaning graphics cache and disabling unnecessary visual effects.",
+        es = "Boosts your frame rate by cleaning graphics cache and disabling unnecessary visual effects.",
+        fr = "Boosts your frame rate by cleaning graphics cache and disabling unnecessary visual effects.",
+        de = "Boosts your frame rate by cleaning graphics cache and disabling unnecessary visual effects.",
+        pt = "Boosts your frame rate by cleaning graphics cache and disabling unnecessary visual effects."
     }
 }

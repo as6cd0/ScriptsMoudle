@@ -928,5 +928,15 @@ return {
         fr = "Boosts your frame rate by cleaning graphics cache and disabling unnecessary visual effects.",
         de = "Boosts your frame rate by cleaning graphics cache and disabling unnecessary visual effects.",
         pt = "Boosts your frame rate by cleaning graphics cache and disabling unnecessary visual effects."
+    },
+    ["Performance"] = {
+        en = "Performance",
+        ar = "الأداء",
+        ru = "Performance",
+        tr = "Performance",
+        es = "Performance",
+        fr = "Performance",
+        de = "Performance",
+        pt = "Performance"
     }
 }

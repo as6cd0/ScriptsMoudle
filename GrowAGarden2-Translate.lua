@@ -1078,5 +1078,55 @@ return {
         ["fr"] = "YouTube Channel",
         ["de"] = "YouTube Channel",
         ["pt"] = "YouTube Channel"
+    },
+    ["Seeds Stock in Shop"] = {
+        ["en"] = "Seeds Stock in Shop",
+        ["ar"] = "مخزون البذور في المتجر",
+        ["ru"] = "Seeds Stock in Shop",
+        ["tr"] = "Seeds Stock in Shop",
+        ["es"] = "Seeds Stock in Shop",
+        ["fr"] = "Seeds Stock in Shop",
+        ["de"] = "Seeds Stock in Shop",
+        ["pt"] = "Seeds Stock in Shop"
+    },
+    ["Gears Stock in Shop"] = {
+        ["en"] = "Gears Stock in Shop",
+        ["ar"] = "مخزون الأدوات في المتجر",
+        ["ru"] = "Gears Stock in Shop",
+        ["tr"] = "Gears Stock in Shop",
+        ["es"] = "Gears Stock in Shop",
+        ["fr"] = "Gears Stock in Shop",
+        ["de"] = "Gears Stock in Shop",
+        ["pt"] = "Gears Stock in Shop"
+    },
+    ["Loading stock..."] = {
+        ["en"] = "Loading stock...",
+        ["ar"] = "جاري تحميل المخزون...",
+        ["ru"] = "Loading stock...",
+        ["tr"] = "Loading stock...",
+        ["es"] = "Loading stock...",
+        ["fr"] = "Loading stock...",
+        ["de"] = "Loading stock...",
+        ["pt"] = "Loading stock..."
+    },
+    ["🎁 <font color=\<font color=\Status"] = {
+        ["en"] = "🎁 <font color=\<font color=\Status",
+        ["ar"] = "الحالة",
+        ["ru"] = "🎁 <font color=\<font color=\Status",
+        ["tr"] = "🎁 <font color=\<font color=\Status",
+        ["es"] = "🎁 <font color=\<font color=\Status",
+        ["fr"] = "🎁 <font color=\<font color=\Status",
+        ["de"] = "🎁 <font color=\<font color=\Status",
+        ["pt"] = "🎁 <font color=\<font color=\Status"
+    },
+    ["Waiting..."] = {
+        ["en"] = "Waiting...",
+        ["ar"] = "في الانتظار...",
+        ["ru"] = "Waiting...",
+        ["tr"] = "Waiting...",
+        ["es"] = "Waiting...",
+        ["fr"] = "Waiting...",
+        ["de"] = "Waiting...",
+        ["pt"] = "Waiting..."
     }
 }

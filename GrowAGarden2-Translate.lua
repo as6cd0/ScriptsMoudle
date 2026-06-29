@@ -1109,15 +1109,15 @@ return {
         ["de"] = "Loading stock...",
         ["pt"] = "Loading stock..."
     },
-    ["🎁 <font color=\<font color=\Status"] = {
-        ["en"] = "🎁 <font color=\<font color=\Status",
+    ["Status"] = {
+        ["en"] = "Status",
         ["ar"] = "الحالة",
-        ["ru"] = "🎁 <font color=\<font color=\Status",
-        ["tr"] = "🎁 <font color=\<font color=\Status",
-        ["es"] = "🎁 <font color=\<font color=\Status",
-        ["fr"] = "🎁 <font color=\<font color=\Status",
-        ["de"] = "🎁 <font color=\<font color=\Status",
-        ["pt"] = "🎁 <font color=\<font color=\Status"
+        ["ru"] = "Status",
+        ["tr"] = "Status",
+        ["es"] = "Status",
+        ["fr"] = "Status",
+        ["de"] = "Status",
+        ["pt"] = "Status"
     },
     ["Waiting..."] = {
         ["en"] = "Waiting...",
@@ -1128,5 +1128,165 @@ return {
         ["fr"] = "Waiting...",
         ["de"] = "Waiting...",
         ["pt"] = "Waiting..."
+    },
+    ["🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>"] = {
+        ["en"] = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>",
+        ["ar"] = "🎁 <font color=\"#ff8c00\">احصل على 3 أيام بريميوم مجاناً!</font>",
+        ["ru"] = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>",
+        ["tr"] = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>",
+        ["es"] = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>",
+        ["fr"] = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>",
+        ["de"] = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>",
+        ["pt"] = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>"
+    },
+    ["<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>"] = {
+        ["en"] = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>",
+        ["ar"] = "<font color=\"#ffffff\">عشان تستلمها، ادخل على </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">، اعمل حساب واربطه بالديسكورد، وهتاخد المفتاح </font><font color=\"#ff8c00\"><b>ببلاش!</b></font>",
+        ["ru"] = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>",
+        ["tr"] = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>",
+        ["es"] = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>",
+        ["fr"] = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>",
+        ["de"] = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>",
+        ["pt"] = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>"
+    },
+    ["Key Active"] = {
+        ["en"] = "Key Active",
+        ["ar"] = "المفتاح نشط",
+        ["ru"] = "Key Active",
+        ["tr"] = "Key Active",
+        ["es"] = "Key Active",
+        ["fr"] = "Key Active",
+        ["de"] = "Key Active",
+        ["pt"] = "Key Active"
+    },
+    ["Expires"] = {
+        ["en"] = "Expires",
+        ["ar"] = "تاريخ الانتهاء",
+        ["ru"] = "Expires",
+        ["tr"] = "Expires",
+        ["es"] = "Expires",
+        ["fr"] = "Expires",
+        ["de"] = "Expires",
+        ["pt"] = "Expires"
+    },
+    ["Time Left"] = {
+        ["en"] = "Time Left",
+        ["ar"] = "الوقت المتبقي",
+        ["ru"] = "Time Left",
+        ["tr"] = "Time Left",
+        ["es"] = "Time Left",
+        ["fr"] = "Time Left",
+        ["de"] = "Time Left",
+        ["pt"] = "Time Left"
+    },
+    ["Expired"] = {
+        ["en"] = "Expired",
+        ["ar"] = "منتهي",
+        ["ru"] = "Expired",
+        ["tr"] = "Expired",
+        ["es"] = "Expired",
+        ["fr"] = "Expired",
+        ["de"] = "Expired",
+        ["pt"] = "Expired"
+    },
+    ["Enter key first"] = {
+        ["en"] = "Enter key first",
+        ["ar"] = "أدخل المفتاح أولاً",
+        ["ru"] = "Enter key first",
+        ["tr"] = "Enter key first",
+        ["es"] = "Enter key first",
+        ["fr"] = "Enter key first",
+        ["de"] = "Enter key first",
+        ["pt"] = "Enter key first"
+    },
+    ["Checking..."] = {
+        ["en"] = "Checking...",
+        ["ar"] = "جاري التحقق...",
+        ["ru"] = "Checking...",
+        ["tr"] = "Checking...",
+        ["es"] = "Checking...",
+        ["fr"] = "Checking...",
+        ["de"] = "Checking...",
+        ["pt"] = "Checking..."
+    },
+    ["✅ Key Valid"] = {
+        ["en"] = "✅ Key Valid",
+        ["ar"] = "✅ المفتاح صالح",
+        ["ru"] = "✅ Key Valid",
+        ["tr"] = "✅ Key Valid",
+        ["es"] = "✅ Key Valid",
+        ["fr"] = "✅ Key Valid",
+        ["de"] = "✅ Key Valid",
+        ["pt"] = "✅ Key Valid"
+    },
+    ["❌ Invalid Key"] = {
+        ["en"] = "❌ Invalid Key",
+        ["ar"] = "❌ المفتاح غير صالح",
+        ["ru"] = "❌ Invalid Key",
+        ["tr"] = "❌ Invalid Key",
+        ["es"] = "❌ Invalid Key",
+        ["fr"] = "❌ Invalid Key",
+        ["de"] = "❌ Invalid Key",
+        ["pt"] = "❌ Invalid Key"
+    },
+    ["✅ Auto Login"] = {
+        ["en"] = "✅ Auto Login",
+        ["ar"] = "✅ دخول تلقائي",
+        ["ru"] = "✅ Auto Login",
+        ["tr"] = "✅ Auto Login",
+        ["es"] = "✅ Auto Login",
+        ["fr"] = "✅ Auto Login",
+        ["de"] = "✅ Auto Login",
+        ["pt"] = "✅ Auto Login"
+    },
+    ["Saved Key Invalid"] = {
+        ["en"] = "Saved Key Invalid",
+        ["ar"] = "المفتاح المحفوظ غير صالح",
+        ["ru"] = "Saved Key Invalid",
+        ["tr"] = "Saved Key Invalid",
+        ["es"] = "Saved Key Invalid",
+        ["fr"] = "Saved Key Invalid",
+        ["de"] = "Saved Key Invalid",
+        ["pt"] = "Saved Key Invalid"
+    },
+    ["d"] = {
+        ["en"] = "d",
+        ["ar"] = "ي",
+        ["ru"] = "d",
+        ["tr"] = "d",
+        ["es"] = "d",
+        ["fr"] = "d",
+        ["de"] = "d",
+        ["pt"] = "d"
+    },
+    ["h"] = {
+        ["en"] = "h",
+        ["ar"] = "س",
+        ["ru"] = "h",
+        ["tr"] = "h",
+        ["es"] = "h",
+        ["fr"] = "h",
+        ["de"] = "h",
+        ["pt"] = "h"
+    },
+    ["m"] = {
+        ["en"] = "m",
+        ["ar"] = "د",
+        ["ru"] = "m",
+        ["tr"] = "m",
+        ["es"] = "m",
+        ["fr"] = "m",
+        ["de"] = "m",
+        ["pt"] = "m"
+    },
+    ["s"] = {
+        ["en"] = "s",
+        ["ar"] = "ث",
+        ["ru"] = "s",
+        ["tr"] = "s",
+        ["es"] = "s",
+        ["fr"] = "s",
+        ["de"] = "s",
+        ["pt"] = "s"
     }
 }

@@ -1829,5 +1829,15 @@ return {
         ["fr"] = "Notifications de réassort de la boutique",
         ["de"] = "Shop-Auffüllungsbenachrichtigungen",
         ["pt"] = "Notificações de reposição da loja"
+    },
+    ["Join our community for updates, announcements, and key claims!"] = {
+        ["en"] = "Join our community for updates, announcements, and key claims!",
+        ["ar"] = "انضم إلى مجتمعنا للحصول على التحديثات، الإعلانات، والحصول على المفاتيح!",
+        ["ru"] = "Присоединяйтесь к нашему сообществу для обновлений, объявлений и получения ключей!",
+        ["tr"] = "Güncellemeler, duyurular ve anahtar talepleri için topluluğumuza katılın!",
+        ["es"] = "¡Únete a nuestra comunidad para actualizaciones, anuncios y reclamación de claves!",
+        ["fr"] = "Rejoignez notre communauté pour les mises à jour, annonces et réclamations de clés !",
+        ["de"] = "Treten Sie unserer Community für Updates, Ankündigungen und Key-Ansprüche bei!",
+        ["pt"] = "Junte-se à nossa comunidade para atualizações, anúncios e resgate de chaves!"
     }
 }

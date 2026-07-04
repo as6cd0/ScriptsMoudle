@@ -9,7 +9,6 @@ return {
         ["de"] = "Sendemenge",
         ["pt"] = "Quantidade a enviar"
     },
-
     ["Add Note"] = {
         ["en"] = "Add Note",
         ["ar"] = "إضافة ملاحظة",
@@ -20,7 +19,6 @@ return {
         ["de"] = "Notiz hinzufügen",
         ["pt"] = "Adicionar nota"
     },
-
     ["Mailbox Note"] = {
         ["en"] = "Mailbox Note",
         ["ar"] = "ملاحظة البريد",
@@ -31,7 +29,6 @@ return {
         ["de"] = "Mailbox-Notiz",
         ["pt"] = "Nota da caixa de correio"
     },
-
     ["Number of Emails in Inbox"] = {
         ["en"] = "Number of Emails in Inbox",
         ["ar"] = "عدد الرسائل الموجودة لديك",
@@ -42,7 +39,6 @@ return {
         ["de"] = "Anzahl der E-Mails im Posteingang",
         ["pt"] = "Número de e-mails na caixa de entrada"
     },
-
     ["Number of Sends Made"] = {
         ["en"] = "Number of Sends Made",
         ["ar"] = "عدد الإرسالات التي قمت بها",
@@ -53,7 +49,6 @@ return {
         ["de"] = "Anzahl der Sendungen",
         ["pt"] = "Número de envios feitos"
     },
-
     ["Select Seed to Send"] = {
         ["en"] = "Select Seed to Send",
         ["ar"] = "اختر البذور للإرسال",
@@ -64,7 +59,6 @@ return {
         ["de"] = "Samen zum Senden auswählen",
         ["pt"] = "Selecionar semente para enviar"
     },
-
     ["Current Seeds"] = {
         ["en"] = "Current Seeds",
         ["ar"] = "البذور الحالية",
@@ -75,7 +69,6 @@ return {
         ["de"] = "Aktuelle Samen",
         ["pt"] = "Sementes atuais"
     },
-
     ["Auto Send Seeds"] = {
         ["en"] = "Auto Send Seeds",
         ["ar"] = "إرسال البذور تلقائياً",
@@ -86,7 +79,6 @@ return {
         ["de"] = "Samen automatisch senden",
         ["pt"] = "Enviar sementes automaticamente"
     },
-
     ["Auto Receive Mails"] = {
         ["en"] = "Auto Receive Mails",
         ["ar"] = "تلقي البريد تلقائياً",
@@ -97,7 +89,6 @@ return {
         ["de"] = "Mails automatisch empfangen",
         ["pt"] = "Receber e-mails automaticamente"
     },
-
     ["Target Username"] = {
         ["en"] = "Target Username",
         ["ar"] = "اسم المستخدم المستهدف",
@@ -108,7 +99,6 @@ return {
         ["de"] = "Ziel-Benutzername",
         ["pt"] = "Nome de usuário alvo"
     },
-
     ["Mailbox"] = {
         ["en"] = "Mailbox",
         ["ar"] = "البريد",
@@ -119,7 +109,6 @@ return {
         ["de"] = "Mailbox",
         ["pt"] = "Caixa de correio"
     },
-
     ["Amount to Tame"] = {
         ["en"] = "Amount to Tame",
         ["ar"] = "عدد الحيوانات للترويض",
@@ -1320,25 +1309,25 @@ return {
         ["de"] = "Warten...",
         ["pt"] = "Aguardando..."
     },
-    ["🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>"] = {
-        ["en"] = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>",
-        ["ar"] = "🎁 <font color=\"#ff8c00\">احصل على 3 أيام بريميوم مجاناً!</font>",
-        ["ru"] = "🎁 <font color=\"#ff8c00\">Получите 3 дня Premium бесплатно!</font>",
-        ["tr"] = "🎁 <font color=\"#ff8c00\">3 Gün ÜCRETSİZ Premium Al!</font>",
-        ["es"] = "🎁 <font color=\"#ff8c00\">¡Consigue 3 días de Premium GRATIS!</font>",
-        ["fr"] = "🎁 <font color=\"#ff8c00\">Obtiens 3 jours de Premium GRATUITS !</font>",
-        ["de"] = "🎁 <font color=\"#ff8c00\">Erhalte 3 Tage Premium KOSTENLOS!</font>",
-        ["pt"] = "🎁 <font color=\"#ff8c00\">Ganhe 3 dias de Premium GRÁTIS!</font>"
+    ['🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>'] = {
+        ["en"] = '🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>',
+        ["ar"] = '🎁 <font color="#ff8c00">احصل على 3 أيام بريميوم مجاناً!</font>',
+        ["ru"] = '🎁 <font color="#ff8c00">Получите 3 дня Premium бесплатно!</font>',
+        ["tr"] = '🎁 <font color="#ff8c00">3 Gün ÜCRETSİZ Premium Al!</font>',
+        ["es"] = '🎁 <font color="#ff8c00">¡Consigue 3 días de Premium GRATIS!</font>',
+        ["fr"] = '🎁 <font color="#ff8c00">Obtiens 3 jours de Premium GRATUITS !</font>',
+        ["de"] = '🎁 <font color="#ff8c00">Erhalte 3 Tage Premium KOSTENLOS!</font>',
+        ["pt"] = '🎁 <font color="#ff8c00">Ganhe 3 dias de Premium GRÁTIS!</font>'
     },
-    ["<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>"] = {
-        ["en"] = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>",
-        ["ar"] = "<font color=\"#ffffff\">عشان تستلمها، ادخل على </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">، اعمل حساب واربطه بالديسكورد، وهتاخد المفتاح </font><font color=\"#ff8c00\"><b>ببلاش!</b></font>",
-        ["ru"] = "<font color=\"#ffffff\">Чтобы получить, перейдите на </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, создайте аккаунт и привяжите его к Discord, и вы получите ключ </font><font color=\"#ff8c00\"><b>бесплатно!</b></font>",
-        ["tr"] = "<font color=\"#ffffff\">Almak için </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\"> adresini ziyaret et, hesap oluştur ve Discord’a bağla; anahtarı </font><font color=\"#ff8c00\"><b>ücretsiz!</b></font><font color=\"#ffffff\"> alacaksın</font>",
-        ["es"] = "<font color=\"#ffffff\">Para reclamarlo, visita </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, crea una cuenta y vincúlala a Discord, y recibirás la clave </font><font color=\"#ff8c00\"><b>gratis!</b></font>",
-        ["fr"] = "<font color=\"#ffffff\">Pour l’obtenir, visite </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, crée un compte et lie-le à Discord, puis tu recevras la clé </font><font color=\"#ff8c00\"><b>gratuitement !</b></font>",
-        ["de"] = "<font color=\"#ffffff\">Um es zu erhalten, besuche </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, erstelle ein Konto und verknüpfe es mit Discord, dann erhältst du den Schlüssel </font><font color=\"#ff8c00\"><b>kostenlos!</b></font>",
-        ["pt"] = "<font color=\"#ffffff\">Para resgatar, acesse </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, crie uma conta e vincule ao Discord; você receberá a chave </font><font color=\"#ff8c00\"><b>de graça!</b></font>"
+    ['<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>'] = {
+        ["en"] = '<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>',
+        ["ar"] = '<font color="#ffffff">عشان تستلمها، ادخل على </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">، اعمل حساب واربطه بالديسكورد، وهتاخد المفتاح </font><font color="#ff8c00"><b>ببلاش!</b></font>',
+        ["ru"] = '<font color="#ffffff">Чтобы получить, перейдите на </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, создайте аккаунт и привяжите его к Discord, и вы получите ключ </font><font color="#ff8c00"><b>бесплатно!</b></font>',
+        ["tr"] = '<font color="#ffffff">Almak için </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff"> adresini ziyaret et, hesap oluştur ve Discord’a bağla; anahtarı </font><font color="#ff8c00"><b>ücretsiz!</b></font><font color="#ffffff"> alacaksın</font>',
+        ["es"] = '<font color="#ffffff">Para reclamarlo, visita </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, crea una cuenta y vincúlala a Discord, y recibirás la clave </font><font color="#ff8c00"><b>gratis!</b></font>',
+        ["fr"] = '<font color="#ffffff">Pour l’obtenir, visite </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, crée un compte et lie-le à Discord, puis tu recevras la clé </font><font color="#ff8c00"><b>gratuitement !</b></font>',
+        ["de"] = '<font color="#ffffff">Um es zu erhalten, besuche </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, erstelle ein Konto und verknüpfe es mit Discord, dann erhältst du den Schlüssel </font><font color="#ff8c00"><b>kostenlos!</b></font>',
+        ["pt"] = '<font color="#ffffff">Para resgatar, acesse </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, crie uma conta e vincule ao Discord; você receberá a chave </font><font color="#ff8c00"><b>de graça!</b></font>'
     },
     ["Key Active"] = {
         ["en"] = "Key Active",

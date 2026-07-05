@@ -2059,15 +2059,15 @@ return {
         ["de"] = "Sound Stoppen",
         ["pt"] = "Parar Som"
     },
-    ["This not full a version of v1.55 you will get bugs (i think)"] = {
-        ["en"] = "This not full a version of v1.55 you will get bugs (i think)",
-        ["ar"] = "ده مش النسخة الكاملة من تحديث v1.55 هتقابلك مشاكل في السكربت (اعتقد)",
-        ["ru"] = "Это не полная версия обновления v1.55, у вас могут возникнуть проблемы со скриптом (я думаю)",
-        ["tr"] = "Bu v1.55 sürümünün tamamı değil, hatalarla karşılaşacaksınız (sanırım)",
-        ["es"] = "Esta no es la versión completa de v1.55, obtendrás errores (creo)",
-        ["fr"] = "Ce n'est pas la version complète de v1.55, vous rencontrerez des bugs (je pense)",
-        ["de"] = "Dies ist nicht die vollständige Version von v1.55, Sie werden Fehler erhalten (denke ich)",
-        ["pt"] = "Esta não é a versão completa do v1.55, você terá bugs (acho)"
+    ["This not full a version of v1.5 you will get bugs (i think)"] = {
+        ["en"] = "This not full a version of v1.5 you will get bugs (i think)",
+        ["ar"] = "ده مش النسخة الكاملة من تحديث v1.5 هتقابلك مشاكل في السكربت (اعتقد)",
+        ["ru"] = "Это не полная версия обновления v1.5, у вас могут возникнуть проблемы со скриптом (я думаю)",
+        ["tr"] = "Bu v1.5 sürümünün tamamı değil, hatalarla karşılaşacaksınız (sanırım)",
+        ["es"] = "Esta no es la versión completa de v1.5, obtendrás errores (creo)",
+        ["fr"] = "Ce n'est pas la version complète de v1.5, vous rencontrerez des bugs (je pense)",
+        ["de"] = "Dies ist nicht die vollständige Version von v1.5, Sie werden Fehler erhalten (denke ich)",
+        ["pt"] = "Esta não é a versão completa do v1.5, você terá bugs (acho)"
     },
     ["Multi Audio"] = {
         ["en"] = "Multi Audio",
@@ -2968,5 +2968,313 @@ return {
         ["fr"] = "Connexion automatique",
         ["de"] = "Automatischer Login",
         ["pt"] = "Login automático"
+    },
+    ["Fov"] = {
+        ["en"] = "Fov",
+        ["ar"] = "Fov",
+        ["ru"] = "Fov",
+        ["pt"] = "Fov",
+        ["es"] = "Fov"
+    },
+    ["Performance"] = {
+        ["en"] = "Performance",
+        ["ar"] = "الأداء (Performance)",
+        ["ru"] = "Performance",
+        ["pt"] = "Performance",
+        ["es"] = "Performance"
+    },
+    ["No humanoid found"] = {
+        ["en"] = "No humanoid found",
+        ["ar"] = "No humanoid found",
+        ["ru"] = "No humanoid found",
+        ["pt"] = "No humanoid found",
+        ["es"] = "No humanoid found"
+    },
+    ["Expired"] = {
+        ["en"] = "Expired",
+        ["ar"] = "Expired",
+        ["ru"] = "Expired",
+        ["pt"] = "Expired",
+        ["es"] = "Expired"
+    },
+    ["Bang"] = {
+        ["en"] = "Bang",
+        ["ar"] = "Bang",
+        ["ru"] = "Bang",
+        ["pt"] = "Bang",
+        ["es"] = "Bang"
+    },
+    ["✅ Key Valid"] = {
+        ["en"] = "✅ Key Valid",
+        ["ar"] = "✅ Key Valid",
+        ["ru"] = "✅ Key Valid",
+        ["pt"] = "✅ Key Valid",
+        ["es"] = "✅ Key Valid"
+    },
+    ["Smooth Plastic World"] = {
+        ["en"] = "Smooth Plastic World",
+        ["ar"] = "عالم بلاستيك ناعم",
+        ["ru"] = "Smooth Plastic World",
+        ["pt"] = "Smooth Plastic World",
+        ["es"] = "Smooth Plastic World"
+    },
+    ["FPS Booster"] = {
+        ["en"] = "FPS Booster",
+        ["ar"] = "FPS Booster",
+        ["ru"] = "FPS Booster",
+        ["pt"] = "FPS Booster",
+        ["es"] = "FPS Booster"
+    },
+    ["Current vehicle has been destroyed!"] = {
+        ["en"] = "Current vehicle has been destroyed!",
+        ["ar"] = "Current vehicle has been destroyed!",
+        ["ru"] = "Current vehicle has been destroyed!",
+        ["pt"] = "Current vehicle has been destroyed!",
+        ["es"] = "Current vehicle has been destroyed!"
+    },
+    ["Failed to play emote: "] = {
+        ["en"] = "Failed to play emote: ",
+        ["ar"] = "Failed to play emote: ",
+        ["ru"] = "Failed to play emote: ",
+        ["pt"] = "Failed to play emote: ",
+        ["es"] = "Failed to play emote: "
+    },
+    ["No HumanoidRootPart found"] = {
+        ["en"] = "No HumanoidRootPart found",
+        ["ar"] = "No HumanoidRootPart found",
+        ["ru"] = "No HumanoidRootPart found",
+        ["pt"] = "No HumanoidRootPart found",
+        ["es"] = "No HumanoidRootPart found"
+    },
+    ["Join our community for updates, announcements, and key claims!"] = {
+        ["en"] = "Join our community for updates, announcements, and key claims!",
+        ["ar"] = "Join our community for updates, announcements, and key claims!",
+        ["ru"] = "Join our community for updates, announcements, and key claims!",
+        ["pt"] = "Join our community for updates, announcements, and key claims!",
+        ["es"] = "Join our community for updates, announcements, and key claims!"
+    },
+    ["Cannot find vehicle"] = {
+        ["en"] = "Cannot find vehicle",
+        ["ar"] = "Cannot find vehicle",
+        ["ru"] = "Cannot find vehicle",
+        ["pt"] = "Cannot find vehicle",
+        ["es"] = "Cannot find vehicle"
+    },
+    ["Starting to equip items..."] = {
+        ["en"] = "Starting to equip items...",
+        ["ar"] = "Starting to equip items...",
+        ["ru"] = "Starting to equip items...",
+        ["pt"] = "Starting to equip items...",
+        ["es"] = "Starting to equip items..."
+    },
+    ["Removing old accessories..."] = {
+        ["en"] = "Removing old accessories...",
+        ["ar"] = "Removing old accessories...",
+        ["ru"] = "Removing old accessories...",
+        ["pt"] = "Removing old accessories...",
+        ["es"] = "Removing old accessories..."
+    },
+    ["Key Active"] = {
+        ["en"] = "Key Active",
+        ["ar"] = "Key Active",
+        ["ru"] = "Key Active",
+        ["pt"] = "Key Active",
+        ["es"] = "Key Active"
+    },
+    ["Destroying current vehicle..."] = {
+        ["en"] = "Destroying current vehicle...",
+        ["ar"] = "Destroying current vehicle...",
+        ["ru"] = "Destroying current vehicle...",
+        ["pt"] = "Destroying current vehicle...",
+        ["es"] = "Destroying current vehicle..."
+    },
+    ["d"] = {
+        ["en"] = "d",
+        ["ar"] = "d",
+        ["ru"] = "d",
+        ["pt"] = "d",
+        ["es"] = "d"
+    },
+    ["No character found"] = {
+        ["en"] = "No character found",
+        ["ar"] = "No character found",
+        ["ru"] = "No character found",
+        ["pt"] = "No character found",
+        ["es"] = "No character found"
+    },
+    ["Bang 3"] = {
+        ["en"] = "Bang 3",
+        ["ar"] = "Bang 3",
+        ["ru"] = "Bang 3",
+        ["pt"] = "Bang 3",
+        ["es"] = "Bang 3"
+    },
+    ["18+"] = {
+        ["en"] = "18+",
+        ["ar"] = "18+",
+        ["ru"] = "18+",
+        ["pt"] = "18+",
+        ["es"] = "18+"
+    },
+    ["Face Bang 3"] = {
+        ["en"] = "Face Bang 3",
+        ["ar"] = "Face Bang 3",
+        ["ru"] = "Face Bang 3",
+        ["pt"] = "Face Bang 3",
+        ["es"] = "Face Bang 3"
+    },
+    ["Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol"] = {
+        ["en"] = "Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol",
+        ["ar"] = "انضم للديسكورد لتحصل على مفتاح مجاني وتلغي الإعلانات! زر موقع www.sphub.lol",
+        ["ru"] = "Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol",
+        ["pt"] = "Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol",
+        ["es"] = "Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol"
+    },
+    ["s"] = {
+        ["en"] = "s",
+        ["ar"] = "s",
+        ["ru"] = "s",
+        ["pt"] = "s",
+        ["es"] = "s"
+    },
+    ['🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>'] = {
+        ["en"] = '🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>',
+        ["ar"] = '🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>',
+        ["ru"] = '🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>',
+        ["pt"] = '🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>',
+        ["es"] = '🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>'
+    },
+    ["Player " .. tostring(name) .. " is seated on this vehicle"] = {
+        ["en"] = "Player " .. tostring(name) .. " is seated on this vehicle",
+        ["ar"] = "Player " .. tostring(name) .. " is seated on this vehicle",
+        ["ru"] = "Player " .. tostring(name) .. " is seated on this vehicle",
+        ["pt"] = "Player " .. tostring(name) .. " is seated on this vehicle",
+        ["es"] = "Player " .. tostring(name) .. " is seated on this vehicle"
+    },
+    ["Deactivated"] = {
+        ["en"] = "Deactivated",
+        ["ar"] = "Deactivated",
+        ["ru"] = "Deactivated",
+        ["pt"] = "Deactivated",
+        ["es"] = "Deactivated"
+    },
+    ["Deactivate Key"] = {
+        ["en"] = "Deactivate Key",
+        ["ar"] = "Deactivate Key",
+        ["ru"] = "Deactivate Key",
+        ["pt"] = "Deactivate Key",
+        ["es"] = "Deactivate Key"
+    },
+    ["Key Deactivated"] = {
+        ["en"] = "Key Deactivated",
+        ["ar"] = "Key Deactivated",
+        ["ru"] = "Key Deactivated",
+        ["pt"] = "Key Deactivated",
+        ["es"] = "Key Deactivated"
+    },
+    ["✅ Auto Login"] = {
+        ["en"] = "✅ Auto Login",
+        ["ar"] = "✅ Auto Login",
+        ["ru"] = "✅ Auto Login",
+        ["pt"] = "✅ Auto Login",
+        ["es"] = "✅ Auto Login"
+    },
+    ["You are not sitting on a valid vehicle seat"] = {
+        ["en"] = "You are not sitting on a valid vehicle seat",
+        ["ar"] = "You are not sitting on a valid vehicle seat",
+        ["ru"] = "You are not sitting on a valid vehicle seat",
+        ["pt"] = "You are not sitting on a valid vehicle seat",
+        ["es"] = "You are not sitting on a valid vehicle seat"
+    },
+    ["No Cars Found"] = {
+        ["en"] = "No Cars Found",
+        ["ar"] = "No Cars Found",
+        ["ru"] = "No Cars Found",
+        ["pt"] = "No Cars Found",
+        ["es"] = "No Cars Found"
+    },
+    ["Expires"] = {
+        ["en"] = "Expires",
+        ["ar"] = "Expires",
+        ["ru"] = "Expires",
+        ["pt"] = "Expires",
+        ["es"] = "Expires"
+    },
+    ["Car Destruction"] = {
+        ["en"] = "Car Destruction",
+        ["ar"] = "Car Destruction",
+        ["ru"] = "Car Destruction",
+        ["pt"] = "Car Destruction",
+        ["es"] = "Car Destruction"
+    },
+    ["h"] = {
+        ["en"] = "h",
+        ["ar"] = "h",
+        ["ru"] = "h",
+        ["pt"] = "h",
+        ["es"] = "h"
+    },
+    ["Disable Shadows & Fog"] = {
+        ["en"] = "Disable Shadows & Fog",
+        ["ar"] = "إغلاق الظلال والضباب",
+        ["ru"] = "Disable Shadows & Fog",
+        ["pt"] = "Disable Shadows & Fog",
+        ["es"] = "Disable Shadows & Fog"
+    },
+    ["m"] = {
+        ["en"] = "m",
+        ["ar"] = "m",
+        ["ru"] = "m",
+        ["pt"] = "m",
+        ["es"] = "m"
+    },
+    ['<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>'] = {
+        ["en"] = '<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>',
+        ["ar"] = '<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>',
+        ["ru"] = '<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>',
+        ["pt"] = '<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>',
+        ["es"] = '<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>'
+    },
+    ["Premium deactivated and key cleared"] = {
+        ["en"] = "Premium deactivated and key cleared",
+        ["ar"] = "Premium deactivated and key cleared",
+        ["ru"] = "Premium deactivated and key cleared",
+        ["pt"] = "Premium deactivated and key cleared",
+        ["es"] = "Premium deactivated and key cleared"
+    },
+    ["Time Left"] = {
+        ["en"] = "Time Left",
+        ["ar"] = "Time Left",
+        ["ru"] = "Time Left",
+        ["pt"] = "Time Left",
+        ["es"] = "Time Left"
+    },
+    ["Free Cam"] = {
+        ["en"] = "Free Cam",
+        ["ar"] = "Free Cam",
+        ["ru"] = "Free Cam",
+        ["pt"] = "Free Cam",
+        ["es"] = "Free Cam"
+    },
+    ["Vehicle Occupied"] = {
+        ["en"] = "Vehicle Occupied",
+        ["ar"] = "Vehicle Occupied",
+        ["ru"] = "Vehicle Occupied",
+        ["pt"] = "Vehicle Occupied",
+        ["es"] = "Vehicle Occupied"
+    },
+    ["You are not sitting on any vehicle"] = {
+        ["en"] = "You are not sitting on any vehicle",
+        ["ar"] = "You are not sitting on any vehicle",
+        ["ru"] = "You are not sitting on any vehicle",
+        ["pt"] = "You are not sitting on any vehicle",
+        ["es"] = "You are not sitting on any vehicle"
+    },
+    ["Vehicles folder not found"] = {
+        ["en"] = "Vehicles folder not found",
+        ["ar"] = "Vehicles folder not found",
+        ["ru"] = "Vehicles folder not found",
+        ["pt"] = "Vehicles folder not found",
+        ["es"] = "Vehicles folder not found"
     }
 }

@@ -31,7 +31,7 @@ return {
     },
     ["Play Custom Emote"] = {
         ["en"] = "Play Custom Emote",
-        ["ar"] = "تشغيل الرقصة المخصص",
+        ["ar"] = "تشغيل الرقصة المخصصة",
         ["ru"] = "Воспроизвести свою эмоцию",
         ["tr"] = "Özel İfadeyi Oynat",
         ["es"] = "Reproducir Emoticono Personalizado",
@@ -51,7 +51,7 @@ return {
     },
     ["Invalid Emote ID"] = {
         ["en"] = "Invalid Emote ID",
-        ["ar"] = "معرف الإيموجي غير صالح",
+        ["ar"] = "معرف الرقصة غير صالح",
         ["ru"] = "Неверный ID эмоции",
         ["tr"] = "Geçersiz İfade ID",
         ["es"] = "ID de Emoticono Inválido",
@@ -81,7 +81,7 @@ return {
     },
     ["Failed to play emote:"] = {
         ["en"] = "Failed to play emote:",
-        ["ar"] = "فشل في تشغيل الرقصه:",
+        ["ar"] = "فشل تشغيل الرقصة:",
         ["ru"] = "Не удалось воспроизвести эмоцию:",
         ["tr"] = "İfade oynatılamadı:",
         ["es"] = "Error al reproducir emoticono:",
@@ -91,7 +91,7 @@ return {
     },
     ["Play Selected Emote"] = {
         ["en"] = "Play Selected Emote",
-        ["ar"] = "تشغيل الرقصة المحدده",
+        ["ar"] = "تشغيل الرقصة المحددة",
         ["ru"] = "Воспроизвести выбранную эмоцию",
         ["tr"] = "Seçili İfadeyi Oynat",
         ["es"] = "Reproducir Emoticono Seleccionado",
@@ -101,7 +101,7 @@ return {
     },
     ["No emote selected"] = {
         ["en"] = "No emote selected",
-        ["ar"] = "لم تتم اختيار رقصة",
+        ["ar"] = "لم يتم اختيار رقصة",
         ["ru"] = "Эмоция не выбрана",
         ["tr"] = "İfade seçilmedi",
         ["es"] = "Ningún emoticono seleccionado",
@@ -111,7 +111,7 @@ return {
     },
     ["Selected emote has no id"] = {
         ["en"] = "Selected emote has no id",
-        ["ar"] = "الرقصة المختارة لا تحتوي علي معرف",
+        ["ar"] = "الرقصة المختارة لا تحتوي على معرف",
         ["ru"] = "Выбранная эмоция не имеет ID",
         ["tr"] = "Seçili ifadenin ID'si yok",
         ["es"] = "El emoticono seleccionado no tiene ID",
@@ -131,7 +131,7 @@ return {
     },
     ["Add Emote ID"] = {
         ["en"] = "Add Emote ID",
-        ["ar"] = "إضافة رقصه",
+        ["ar"] = "إضافة معرف رقصة",
         ["ru"] = "Добавить ID эмоции",
         ["tr"] = "İfade ID Ekle",
         ["es"] = "Agregar ID de Emoticono",
@@ -161,7 +161,7 @@ return {
     },
     ["Remove Selected Emote"] = {
         ["en"] = "Remove Selected Emote",
-        ["ar"] = "إزالة الرقصة المحدده",
+        ["ar"] = "إزالة الرقصة المحددة",
         ["ru"] = "Удалить выбранную эмоцию",
         ["tr"] = "Seçili İfadeyi Kaldır",
         ["es"] = "Eliminar Emoticono Seleccionado",
@@ -236,12 +236,12 @@ return {
         ["tr"] = "Hızlı öldürme",
         ["es"] = "Muerte rápida",
         ["fr"] = "Meurtre rapide",
-        ["de"] = "Schneller Kill",
-        ["pt"] = "Morte rápida"
+        ["de"] = "Schnelltöten",
+        ["pt"] = "Matar rápido"
     },
     ["Kill"] = {
         ["en"] = "Kill",
-        ["ar"] = "قتل",
+        ["ar"] = "القتل",
         ["ru"] = "Килл",
         ["tr"] = "Öldür",
         ["es"] = "Matar",
@@ -301,7 +301,7 @@ return {
     },
     ["Follow Player"] = {
         ["en"] = "Follow Player",
-        ["ar"] = "اتبع الاعب",
+        ["ar"] = "اتباع اللاعب",
         ["ru"] = "Следовать за игроком",
         ["tr"] = "Oyuncuyu Takip Et",
         ["es"] = "Seguir Jugador",
@@ -311,7 +311,7 @@ return {
     },
     ["Spectate Player"] = {
         ["en"] = "Spectate Player",
-        ["ar"] = "مراقبة الاعب",
+        ["ar"] = "مراقبة اللاعب",
         ["ru"] = "Наблюдать за игроком",
         ["tr"] = "Oyuncuyu İzle",
         ["es"] = "Observar Jugador",
@@ -341,7 +341,7 @@ return {
     },
     ["Auto Features"] = {
         ["en"] = "Auto Features",
-        ["ar"] = "المميزات التلقائيه",
+        ["ar"] = "المميزات التلقائية",
         ["ru"] = "Авто функции",
         ["tr"] = "Otomatik Özellikler",
         ["es"] = "Características Automáticas",
@@ -379,16 +379,6 @@ return {
         ["de"] = "Schnell-Kill Klick-Werkzeug",
         ["pt"] = "Ferramenta de Matar Rápido com Clique"
     },
-    ["Fast kill"] = {
-        ["en"] = "Fast kill",
-        ["ar"] = "قتل سريع",
-        ["ru"] = "Быстрый килл",
-        ["tr"] = "Hızlı öldürme",
-        ["es"] = "Muerte rápida",
-        ["fr"] = "Meurtre rapide",
-        ["de"] = "Schnelltöten",
-        ["pt"] = "Matar rápido"
-    },
     ["Select Kill Type"] = {
         ["en"] = "Select Kill Type",
         ["ar"] = "اختر نوع القتل",
@@ -401,7 +391,7 @@ return {
     },
     ["Catch player"] = {
         ["en"] = "Catch player",
-        ["ar"] = "امسك الاعب",
+        ["ar"] = "إمساك اللاعب",
         ["ru"] = "Поймать игрока",
         ["tr"] = "Oyuncuyu Yakala",
         ["es"] = "Atrapar Jugador",
@@ -411,7 +401,7 @@ return {
     },
     ["Catch And Kill Player"] = {
         ["en"] = "Catch And Kill Player",
-        ["ar"] = "امسك الاعب و اقتله",
+        ["ar"] = "إمساك اللاعب وقتله",
         ["ru"] = "Поймать и убить игрока",
         ["tr"] = "Oyuncuyu Yakala ve Öldür",
         ["es"] = "Atrapar y Matar Jugador",
@@ -421,8 +411,8 @@ return {
     },
     ["Disable Catch And Kill"] = {
         ["en"] = "Disable Catch And Kill",
-        ["ar"] = "تعطيل المسك و القتل",
-        ["ru"] = "Отключить ловлю и убийство", -- تم التصحيح: بدلاً من "Отключить мускулы и убить"
+        ["ar"] = "تعطيل الإمساك والقتل",
+        ["ru"] = "Отключить ловлю и убийство",
         ["tr"] = "Yakala ve Öldür'ü Devre Dışı Bırak",
         ["es"] = "Desactivar Atrapar y Matar",
         ["fr"] = "Désactiver Attraper et Tuer",
@@ -431,7 +421,7 @@ return {
     },
     ["More Features"] = {
         ["en"] = "More Features",
-        ["ar"] = "مميزات اضافيه",
+        ["ar"] = "مميزات إضافية",
         ["ru"] = "Больше функций",
         ["tr"] = "Daha Fazla Özellik",
         ["es"] = "Más Características",
@@ -471,7 +461,7 @@ return {
     },
     ["Player"] = {
         ["en"] = "Player",
-        ["ar"] = "الاعب",
+        ["ar"] = "اللاعب",
         ["ru"] = "Игрок",
         ["tr"] = "Oyuncu",
         ["es"] = "Jugador",
@@ -481,23 +471,13 @@ return {
     },
     ["Items"] = {
         ["en"] = "Items",
-        ["ar"] = "الاداوت",
+        ["ar"] = "الأدوات",
         ["ru"] = "Предметы",
         ["tr"] = "Eşyalar",
         ["es"] = "Objetos",
         ["fr"] = "Objets",
         ["de"] = "Gegenstände",
         ["pt"] = "Itens"
-    },
-    ["Kill"] = {
-        ["en"] = "Kill",
-        ["ar"] = "القتل",
-        ["ru"] = "Килл",
-        ["tr"] = "Öldür",
-        ["es"] = "Matar",
-        ["fr"] = "Tuer",
-        ["de"] = "Töten",
-        ["pt"] = "Matar"
     },
     ["Auto Kill"] = {
         ["en"] = "Auto Kill",
@@ -511,7 +491,7 @@ return {
     },
     ["Setting"] = {
         ["en"] = "Setting",
-        ["ar"] = "الاعدادات",
+        ["ar"] = "الإعدادات",
         ["ru"] = "Настройки",
         ["tr"] = "Ayarlar",
         ["es"] = "Configuración",
@@ -521,7 +501,7 @@ return {
     },
     ["Bring Player"] = {
         ["en"] = "Bring Player",
-        ["ar"] = "سحب الاعب",
+        ["ar"] = "سحب اللاعب",
         ["ru"] = "Телепортировать игрока",
         ["tr"] = "Oyuncuyu Getir",
         ["es"] = "Traer Jugador",
@@ -531,7 +511,7 @@ return {
     },
     ["Auto Kill Selected Player"] = {
         ["en"] = "Auto Kill Selected Player",
-        ["ar"] = "قتل الاعب المختار تلقائي",
+        ["ar"] = "قتل اللاعب المختار تلقائياً",
         ["ru"] = "Авто килл выбранного игрока",
         ["tr"] = "Seçilen Oyuncuyu Otomatik Öldür",
         ["es"] = "Matar Automáticamente al Jugador Seleccionado",
@@ -570,8 +550,8 @@ return {
         ["pt"] = "Mudar Biografia Automaticamente"
     },
     ["Rainbow Charcter Skin"] = {
-        ["en"] = "Rainbow Charcter Skin",
-        ["ar"] = "تلوين الشخصية",
+        ["en"] = "Rainbow Character Skin",
+        ["ar"] = "تلوين الشخصية بألوان قوس قزح",
         ["ru"] = "Радужный скин персонажа",
         ["tr"] = "Gökkuşağı Karakter Skini",
         ["es"] = "Piel de Personaje Arcoíris",
@@ -1719,16 +1699,6 @@ return {
         ["de"] = "Skin Auswählen",
         ["pt"] = "Selecionar Skin"
     },
-    ["Apply Skin"] = {
-        ["en"] = "Apply Skin",
-        ["ar"] = "تطبيق السكن",
-        ["ru"] = "Применить скин",
-        ["tr"] = "Skin Uygula",
-        ["es"] = "Aplicar Skin",
-        ["fr"] = "Appliquer le Skin",
-        ["de"] = "Skin Anwenden",
-        ["pt"] = "Aplicar Skin"
-    },
     ["Animations Run"] = {
         ["en"] = "Animations Run",
         ["ar"] = "حركات الجري",
@@ -1978,16 +1948,6 @@ return {
         ["fr"] = "Changer les Pantalons Automatiquement",
         ["de"] = "Automatisch Hosen Wechseln",
         ["pt"] = "Mudar Calças Automaticamente"
-    },
-    ["Select Player For Bang"] = {
-        ["en"] = "Select Player For Bang",
-        ["ar"] = "اختر لاعب للـ Bang",
-        ["ru"] = "Выбрать игрока для Bang",
-        ["tr"] = "Bang için Oyuncu Seç",
-        ["es"] = "Seleccionar Jugador para Bang",
-        ["fr"] = "Sélectionner un Joueur pour Bang",
-        ["de"] = "Spieler für Bang Auswählen",
-        ["pt"] = "Selecionar Jogador para Bang"
     },
     ["Music"] = {
         ["en"] = "Music",
@@ -2669,16 +2629,6 @@ return {
         ["de"] = "Es ist besser, deinen Avatar vor dem Kopieren zurückzusetzen",
         ["pt"] = "É melhor resetar o avatar antes de copiar"
     },
-    ["Error"] = {
-        ["en"] = "Error",
-        ["ar"] = "خطأ",
-        ["ru"] = "Ошибка",
-        ["tr"] = "Hata",
-        ["es"] = "Error",
-        ["fr"] = "Erreur",
-        ["de"] = "Fehler",
-        ["pt"] = "Erro"
-    },
     ["Please select a player first!"] = {
         ["en"] = "Please select a player first!",
         ["ar"] = "اختار لاعب الأول",
@@ -2971,310 +2921,442 @@ return {
     },
     ["Fov"] = {
         ["en"] = "Fov",
-        ["ar"] = "Fov",
-        ["ru"] = "Fov",
-        ["pt"] = "Fov",
-        ["es"] = "Fov"
+        ["ar"] = "مجال الرؤية",
+        ["ru"] = "Поле зрения",
+        ["tr"] = "Görüş Alanı",
+        ["es"] = "Campo de Visión",
+        ["fr"] = "Champ de vision",
+        ["de"] = "Sichtfeld",
+        ["pt"] = "Campo de Visão"
     },
     ["Performance"] = {
         ["en"] = "Performance",
-        ["ar"] = "الأداء (Performance)",
-        ["ru"] = "Performance",
-        ["pt"] = "Performance",
-        ["es"] = "Performance"
+        ["ar"] = "الأداء",
+        ["ru"] = "Производительность",
+        ["tr"] = "Performans",
+        ["es"] = "Rendimiento",
+        ["fr"] = "Performances",
+        ["de"] = "Leistung",
+        ["pt"] = "Desempenho"
     },
     ["No humanoid found"] = {
         ["en"] = "No humanoid found",
-        ["ar"] = "No humanoid found",
-        ["ru"] = "No humanoid found",
-        ["pt"] = "No humanoid found",
-        ["es"] = "No humanoid found"
+        ["ar"] = "لم يتم العثور على Humanoid",
+        ["ru"] = "Humanoid не найден",
+        ["tr"] = "Humanoid bulunamadı",
+        ["es"] = "No se encontró Humanoid",
+        ["fr"] = "Humanoid introuvable",
+        ["de"] = "Humanoid nicht gefunden",
+        ["pt"] = "Humanoid não encontrado"
     },
     ["Expired"] = {
         ["en"] = "Expired",
-        ["ar"] = "Expired",
-        ["ru"] = "Expired",
-        ["pt"] = "Expired",
-        ["es"] = "Expired"
+        ["ar"] = "منتهي",
+        ["ru"] = "Истекло",
+        ["tr"] = "Süresi doldu",
+        ["es"] = "Expirado",
+        ["fr"] = "Expiré",
+        ["de"] = "Abgelaufen",
+        ["pt"] = "Expirado"
     },
     ["Bang"] = {
         ["en"] = "Bang",
-        ["ar"] = "Bang",
-        ["ru"] = "Bang",
-        ["pt"] = "Bang",
-        ["es"] = "Bang"
+        ["ar"] = "بانج",
+        ["ru"] = "Бэнг",
+        ["tr"] = "Bang",
+        ["es"] = "Bang",
+        ["fr"] = "Bang",
+        ["de"] = "Bang",
+        ["pt"] = "Bang"
     },
     ["✅ Key Valid"] = {
         ["en"] = "✅ Key Valid",
-        ["ar"] = "✅ Key Valid",
-        ["ru"] = "✅ Key Valid",
-        ["pt"] = "✅ Key Valid",
-        ["es"] = "✅ Key Valid"
+        ["ar"] = "✅ المفتاح صالح",
+        ["ru"] = "✅ Ключ действителен",
+        ["tr"] = "✅ Anahtar geçerli",
+        ["es"] = "✅ Clave válida",
+        ["fr"] = "✅ Clé valide",
+        ["de"] = "✅ Key gültig",
+        ["pt"] = "✅ Chave válida"
     },
     ["Smooth Plastic World"] = {
         ["en"] = "Smooth Plastic World",
         ["ar"] = "عالم بلاستيك ناعم",
-        ["ru"] = "Smooth Plastic World",
-        ["pt"] = "Smooth Plastic World",
-        ["es"] = "Smooth Plastic World"
+        ["ru"] = "Гладкий пластиковый мир",
+        ["tr"] = "Pürüzsüz Plastik Dünya",
+        ["es"] = "Mundo de Plástico Suave",
+        ["fr"] = "Monde en plastique lisse",
+        ["de"] = "Glatte Plastik-Welt",
+        ["pt"] = "Mundo de Plástico Suave"
     },
     ["FPS Booster"] = {
         ["en"] = "FPS Booster",
-        ["ar"] = "FPS Booster",
-        ["ru"] = "FPS Booster",
-        ["pt"] = "FPS Booster",
-        ["es"] = "FPS Booster"
+        ["ar"] = "مُحسّن الفريمات",
+        ["ru"] = "Ускоритель FPS",
+        ["tr"] = "FPS Artırıcı",
+        ["es"] = "Optimizador de FPS",
+        ["fr"] = "Boost FPS",
+        ["de"] = "FPS-Boost",
+        ["pt"] = "Otimizador de FPS"
     },
     ["Current vehicle has been destroyed!"] = {
         ["en"] = "Current vehicle has been destroyed!",
-        ["ar"] = "Current vehicle has been destroyed!",
-        ["ru"] = "Current vehicle has been destroyed!",
-        ["pt"] = "Current vehicle has been destroyed!",
-        ["es"] = "Current vehicle has been destroyed!"
+        ["ar"] = "تم تدمير المركبة الحالية!",
+        ["ru"] = "Текущий транспорт уничтожен!",
+        ["tr"] = "Mevcut araç yok edildi!",
+        ["es"] = "¡El vehículo actual ha sido destruido!",
+        ["fr"] = "Le véhicule actuel a été détruit !",
+        ["de"] = "Das aktuelle Fahrzeug wurde zerstört!",
+        ["pt"] = "O veículo atual foi destruído!"
     },
     ["Failed to play emote: "] = {
         ["en"] = "Failed to play emote: ",
-        ["ar"] = "Failed to play emote: ",
-        ["ru"] = "Failed to play emote: ",
-        ["pt"] = "Failed to play emote: ",
-        ["es"] = "Failed to play emote: "
+        ["ar"] = "فشل تشغيل الرقصة: ",
+        ["ru"] = "Не удалось воспроизвести эмоцию: ",
+        ["tr"] = "İfade oynatılamadı: ",
+        ["es"] = "Error al reproducir el emote: ",
+        ["fr"] = "Échec de la lecture de l’emote : ",
+        ["de"] = "Emote konnte nicht abgespielt werden: ",
+        ["pt"] = "Falha ao reproduzir o emote: "
     },
     ["No HumanoidRootPart found"] = {
         ["en"] = "No HumanoidRootPart found",
-        ["ar"] = "No HumanoidRootPart found",
-        ["ru"] = "No HumanoidRootPart found",
-        ["pt"] = "No HumanoidRootPart found",
-        ["es"] = "No HumanoidRootPart found"
+        ["ar"] = "لم يتم العثور على HumanoidRootPart",
+        ["ru"] = "HumanoidRootPart не найден",
+        ["tr"] = "HumanoidRootPart bulunamadı",
+        ["es"] = "No se encontró HumanoidRootPart",
+        ["fr"] = "HumanoidRootPart introuvable",
+        ["de"] = "HumanoidRootPart nicht gefunden",
+        ["pt"] = "HumanoidRootPart não encontrado"
     },
     ["Join our community for updates, announcements, and key claims!"] = {
         ["en"] = "Join our community for updates, announcements, and key claims!",
-        ["ar"] = "Join our community for updates, announcements, and key claims!",
-        ["ru"] = "Join our community for updates, announcements, and key claims!",
-        ["pt"] = "Join our community for updates, announcements, and key claims!",
-        ["es"] = "Join our community for updates, announcements, and key claims!"
+        ["ar"] = "انضم إلى مجتمعنا للحصول على التحديثات والإعلانات والمفاتيح!",
+        ["ru"] = "Присоединяйтесь к нашему сообществу для обновлений, объявлений и получения ключей!",
+        ["tr"] = "Güncellemeler, duyurular ve anahtar talepleri için topluluğumuza katılın!",
+        ["es"] = "¡Únete a nuestra comunidad para actualizaciones, anuncios y reclamación de claves!",
+        ["fr"] = "Rejoignez notre communauté pour les mises à jour, annonces et réclamations de clés !",
+        ["de"] = "Tritt unserer Community bei, um Updates, Ankündigungen und Keys zu erhalten!",
+        ["pt"] = "Junte-se à nossa comunidade para atualizações, anúncios e resgate de chaves!"
     },
     ["Cannot find vehicle"] = {
         ["en"] = "Cannot find vehicle",
-        ["ar"] = "Cannot find vehicle",
-        ["ru"] = "Cannot find vehicle",
-        ["pt"] = "Cannot find vehicle",
-        ["es"] = "Cannot find vehicle"
+        ["ar"] = "لا يمكن العثور على المركبة",
+        ["ru"] = "Не удалось найти транспорт",
+        ["tr"] = "Araç bulunamadı",
+        ["es"] = "No se puede encontrar el vehículo",
+        ["fr"] = "Impossible de trouver le véhicule",
+        ["de"] = "Fahrzeug nicht gefunden",
+        ["pt"] = "Não foi possível encontrar o veículo"
     },
     ["Starting to equip items..."] = {
         ["en"] = "Starting to equip items...",
-        ["ar"] = "Starting to equip items...",
-        ["ru"] = "Starting to equip items...",
-        ["pt"] = "Starting to equip items...",
-        ["es"] = "Starting to equip items..."
+        ["ar"] = "جارٍ تجهيز العناصر...",
+        ["ru"] = "Начинается экипировка предметов...",
+        ["tr"] = "Eşyalar kuşanılıyor...",
+        ["es"] = "Empezando a equipar objetos...",
+        ["fr"] = "Équipement des objets en cours...",
+        ["de"] = "Gegenstände werden ausgerüstet...",
+        ["pt"] = "Começando a equipar itens..."
     },
     ["Removing old accessories..."] = {
         ["en"] = "Removing old accessories...",
-        ["ar"] = "Removing old accessories...",
-        ["ru"] = "Removing old accessories...",
-        ["pt"] = "Removing old accessories...",
-        ["es"] = "Removing old accessories..."
+        ["ar"] = "جارٍ إزالة الإكسسوارات القديمة...",
+        ["ru"] = "Удаление старых аксессуаров...",
+        ["tr"] = "Eski aksesuarlar kaldırılıyor...",
+        ["es"] = "Eliminando accesorios antiguos...",
+        ["fr"] = "Suppression des anciens accessoires...",
+        ["de"] = "Alte Accessoires werden entfernt...",
+        ["pt"] = "Removendo acessórios antigos..."
     },
     ["Key Active"] = {
         ["en"] = "Key Active",
-        ["ar"] = "Key Active",
-        ["ru"] = "Key Active",
-        ["pt"] = "Key Active",
-        ["es"] = "Key Active"
+        ["ar"] = "المفتاح نشط",
+        ["ru"] = "Ключ активен",
+        ["tr"] = "Anahtar aktif",
+        ["es"] = "Clave activa",
+        ["fr"] = "Clé active",
+        ["de"] = "Key aktiv",
+        ["pt"] = "Chave ativa"
     },
     ["Destroying current vehicle..."] = {
         ["en"] = "Destroying current vehicle...",
-        ["ar"] = "Destroying current vehicle...",
-        ["ru"] = "Destroying current vehicle...",
-        ["pt"] = "Destroying current vehicle...",
-        ["es"] = "Destroying current vehicle..."
+        ["ar"] = "جارٍ تدمير المركبة الحالية...",
+        ["ru"] = "Уничтожение текущего транспорта...",
+        ["tr"] = "Mevcut araç yok ediliyor...",
+        ["es"] = "Destruyendo el vehículo actual...",
+        ["fr"] = "Destruction du véhicule actuel...",
+        ["de"] = "Aktuelles Fahrzeug wird zerstört...",
+        ["pt"] = "Destruindo o veículo atual..."
     },
     ["d"] = {
         ["en"] = "d",
-        ["ar"] = "d",
-        ["ru"] = "d",
-        ["pt"] = "d",
-        ["es"] = "d"
+        ["ar"] = "ي",
+        ["ru"] = "д",
+        ["tr"] = "g",
+        ["es"] = "d",
+        ["fr"] = "j",
+        ["de"] = "T",
+        ["pt"] = "d"
     },
     ["No character found"] = {
         ["en"] = "No character found",
-        ["ar"] = "No character found",
-        ["ru"] = "No character found",
-        ["pt"] = "No character found",
-        ["es"] = "No character found"
+        ["ar"] = "لم يتم العثور على الشخصية",
+        ["ru"] = "Персонаж не найден",
+        ["tr"] = "Karakter bulunamadı",
+        ["es"] = "No se encontró el personaje",
+        ["fr"] = "Personnage introuvable",
+        ["de"] = "Charakter nicht gefunden",
+        ["pt"] = "Personagem não encontrado"
     },
     ["Bang 3"] = {
         ["en"] = "Bang 3",
-        ["ar"] = "Bang 3",
-        ["ru"] = "Bang 3",
-        ["pt"] = "Bang 3",
-        ["es"] = "Bang 3"
+        ["ar"] = "بانج 3",
+        ["ru"] = "Бэнг 3",
+        ["tr"] = "Bang 3",
+        ["es"] = "Bang 3",
+        ["fr"] = "Bang 3",
+        ["de"] = "Bang 3",
+        ["pt"] = "Bang 3"
     },
     ["18+"] = {
         ["en"] = "18+",
         ["ar"] = "18+",
         ["ru"] = "18+",
-        ["pt"] = "18+",
-        ["es"] = "18+"
+        ["tr"] = "18+",
+        ["es"] = "18+",
+        ["fr"] = "18+",
+        ["de"] = "18+",
+        ["pt"] = "18+"
     },
     ["Face Bang 3"] = {
         ["en"] = "Face Bang 3",
-        ["ar"] = "Face Bang 3",
+        ["ar"] = "بانج الوجه 3",
         ["ru"] = "Face Bang 3",
-        ["pt"] = "Face Bang 3",
-        ["es"] = "Face Bang 3"
+        ["tr"] = "Face Bang 3",
+        ["es"] = "Face Bang 3",
+        ["fr"] = "Face Bang 3",
+        ["de"] = "Face Bang 3",
+        ["pt"] = "Face Bang 3"
     },
     ["Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol"] = {
         ["en"] = "Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol",
-        ["ar"] = "انضم للديسكورد لتحصل على مفتاح مجاني وتلغي الإعلانات! زر موقع www.sphub.lol",
-        ["ru"] = "Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol",
-        ["pt"] = "Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol",
-        ["es"] = "Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol"
+        ["ar"] = "انضم إلى ديسكورد للحصول على مفتاح مجاني وإيقاف الإعلانات! زر www.sphub.lol",
+        ["ru"] = "Вступите в наш Discord, чтобы получить БЕСПЛАТНЫЙ ключ и отключить рекламу! Посетите www.sphub.lol",
+        ["tr"] = "ÜCRETSİZ anahtarını almak ve reklamları kapatmak için Discord’umuza katıl! www.sphub.lol adresini ziyaret et",
+        ["es"] = "¡Únete a nuestro Discord para reclamar tu clave GRATIS y desactivar los anuncios! Visita www.sphub.lol",
+        ["fr"] = "Rejoins notre Discord pour obtenir ta clé GRATUITE et désactiver les publicités ! Visite www.sphub.lol",
+        ["de"] = "Tritt unserem Discord bei, um deinen KOSTENLOSEN Key zu erhalten und Werbung zu deaktivieren! Besuche www.sphub.lol",
+        ["pt"] = "Entre no nosso Discord para resgatar sua chave GRÁTIS e desativar anúncios! Visite www.sphub.lol"
     },
     ["s"] = {
         ["en"] = "s",
-        ["ar"] = "s",
-        ["ru"] = "s",
-        ["pt"] = "s",
-        ["es"] = "s"
-    },
-    ['🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>'] = {
-        ["en"] = '🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>',
-        ["ar"] = '🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>',
-        ["ru"] = '🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>',
-        ["pt"] = '🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>',
-        ["es"] = '🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>'
-    },
-    ["Player " .. tostring(name) .. " is seated on this vehicle"] = {
-        ["en"] = "Player " .. tostring(name) .. " is seated on this vehicle",
-        ["ar"] = "Player " .. tostring(name) .. " is seated on this vehicle",
-        ["ru"] = "Player " .. tostring(name) .. " is seated on this vehicle",
-        ["pt"] = "Player " .. tostring(name) .. " is seated on this vehicle",
-        ["es"] = "Player " .. tostring(name) .. " is seated on this vehicle"
+        ["ar"] = "ث",
+        ["ru"] = "с",
+        ["tr"] = "sn",
+        ["es"] = "s",
+        ["fr"] = "s",
+        ["de"] = "Sek.",
+        ["pt"] = "s"
     },
     ["Deactivated"] = {
         ["en"] = "Deactivated",
-        ["ar"] = "Deactivated",
-        ["ru"] = "Deactivated",
-        ["pt"] = "Deactivated",
-        ["es"] = "Deactivated"
+        ["ar"] = "تم إلغاء التفعيل",
+        ["ru"] = "Деактивировано",
+        ["tr"] = "Devre dışı bırakıldı",
+        ["es"] = "Desactivado",
+        ["fr"] = "Désactivé",
+        ["de"] = "Deaktiviert",
+        ["pt"] = "Desativado"
     },
     ["Deactivate Key"] = {
         ["en"] = "Deactivate Key",
-        ["ar"] = "Deactivate Key",
-        ["ru"] = "Deactivate Key",
-        ["pt"] = "Deactivate Key",
-        ["es"] = "Deactivate Key"
+        ["ar"] = "إلغاء تفعيل المفتاح",
+        ["ru"] = "Деактивировать ключ",
+        ["tr"] = "Anahtarı devre dışı bırak",
+        ["es"] = "Desactivar clave",
+        ["fr"] = "Désactiver la clé",
+        ["de"] = "Key deaktivieren",
+        ["pt"] = "Desativar chave"
     },
     ["Key Deactivated"] = {
         ["en"] = "Key Deactivated",
-        ["ar"] = "Key Deactivated",
-        ["ru"] = "Key Deactivated",
-        ["pt"] = "Key Deactivated",
-        ["es"] = "Key Deactivated"
+        ["ar"] = "تم إلغاء تفعيل المفتاح",
+        ["ru"] = "Ключ деактивирован",
+        ["tr"] = "Anahtar devre dışı bırakıldı",
+        ["es"] = "Clave desactivada",
+        ["fr"] = "Clé désactivée",
+        ["de"] = "Key deaktiviert",
+        ["pt"] = "Chave desativada"
     },
     ["✅ Auto Login"] = {
         ["en"] = "✅ Auto Login",
-        ["ar"] = "✅ Auto Login",
-        ["ru"] = "✅ Auto Login",
-        ["pt"] = "✅ Auto Login",
-        ["es"] = "✅ Auto Login"
+        ["ar"] = "✅ تسجيل دخول تلقائي",
+        ["ru"] = "✅ Автовход",
+        ["tr"] = "✅ Otomatik giriş",
+        ["es"] = "✅ Inicio automático",
+        ["fr"] = "✅ Connexion automatique",
+        ["de"] = "✅ Auto-Login",
+        ["pt"] = "✅ Login automático"
     },
     ["You are not sitting on a valid vehicle seat"] = {
         ["en"] = "You are not sitting on a valid vehicle seat",
-        ["ar"] = "You are not sitting on a valid vehicle seat",
-        ["ru"] = "You are not sitting on a valid vehicle seat",
-        ["pt"] = "You are not sitting on a valid vehicle seat",
-        ["es"] = "You are not sitting on a valid vehicle seat"
+        ["ar"] = "أنت لا تجلس على مقعد مركبة صالح",
+        ["ru"] = "Вы не сидите на подходящем сиденье транспорта",
+        ["tr"] = "Geçerli bir araç koltuğunda oturmuyorsunuz",
+        ["es"] = "No estás sentado en un asiento de vehículo válido",
+        ["fr"] = "Vous n’êtes pas assis sur un siège de véhicule valide",
+        ["de"] = "Du sitzt nicht auf einem gültigen Fahrzeugsitz",
+        ["pt"] = "Você não está sentado em um assento de veículo válido"
     },
     ["No Cars Found"] = {
         ["en"] = "No Cars Found",
-        ["ar"] = "No Cars Found",
-        ["ru"] = "No Cars Found",
-        ["pt"] = "No Cars Found",
-        ["es"] = "No Cars Found"
+        ["ar"] = "لم يتم العثور على سيارات",
+        ["ru"] = "Машины не найдены",
+        ["tr"] = "Araç bulunamadı",
+        ["es"] = "No se encontraron autos",
+        ["fr"] = "Aucune voiture trouvée",
+        ["de"] = "Keine Autos gefunden",
+        ["pt"] = "Nenhum carro encontrado"
     },
     ["Expires"] = {
         ["en"] = "Expires",
-        ["ar"] = "Expires",
-        ["ru"] = "Expires",
-        ["pt"] = "Expires",
-        ["es"] = "Expires"
+        ["ar"] = "ينتهي في",
+        ["ru"] = "Истекает",
+        ["tr"] = "Sona erer",
+        ["es"] = "Expira",
+        ["fr"] = "Expire",
+        ["de"] = "Läuft ab",
+        ["pt"] = "Expira"
     },
     ["Car Destruction"] = {
         ["en"] = "Car Destruction",
-        ["ar"] = "Car Destruction",
-        ["ru"] = "Car Destruction",
-        ["pt"] = "Car Destruction",
-        ["es"] = "Car Destruction"
+        ["ar"] = "تدمير السيارة",
+        ["ru"] = "Уничтожение машины",
+        ["tr"] = "Araç Yok Etme",
+        ["es"] = "Destrucción de auto",
+        ["fr"] = "Destruction de voiture",
+        ["de"] = "Autozerstörung",
+        ["pt"] = "Destruição de carro"
     },
     ["h"] = {
         ["en"] = "h",
-        ["ar"] = "h",
-        ["ru"] = "h",
-        ["pt"] = "h",
-        ["es"] = "h"
+        ["ar"] = "س",
+        ["ru"] = "ч",
+        ["tr"] = "sa",
+        ["es"] = "h",
+        ["fr"] = "h",
+        ["de"] = "Std.",
+        ["pt"] = "h"
     },
     ["Disable Shadows & Fog"] = {
         ["en"] = "Disable Shadows & Fog",
-        ["ar"] = "إغلاق الظلال والضباب",
-        ["ru"] = "Disable Shadows & Fog",
-        ["pt"] = "Disable Shadows & Fog",
-        ["es"] = "Disable Shadows & Fog"
+        ["ar"] = "تعطيل الظلال والضباب",
+        ["ru"] = "Отключить тени и туман",
+        ["tr"] = "Gölgeleri ve sisi kapat",
+        ["es"] = "Desactivar sombras y niebla",
+        ["fr"] = "Désactiver les ombres et le brouillard",
+        ["de"] = "Schatten und Nebel deaktivieren",
+        ["pt"] = "Desativar sombras e neblina"
     },
     ["m"] = {
         ["en"] = "m",
-        ["ar"] = "m",
-        ["ru"] = "m",
-        ["pt"] = "m",
-        ["es"] = "m"
-    },
-    ['<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>'] = {
-        ["en"] = '<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>',
-        ["ar"] = '<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>',
-        ["ru"] = '<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>',
-        ["pt"] = '<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>',
-        ["es"] = '<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>'
+        ["ar"] = "د",
+        ["ru"] = "м",
+        ["tr"] = "dk",
+        ["es"] = "min",
+        ["fr"] = "min",
+        ["de"] = "Min.",
+        ["pt"] = "min"
     },
     ["Premium deactivated and key cleared"] = {
         ["en"] = "Premium deactivated and key cleared",
-        ["ar"] = "Premium deactivated and key cleared",
-        ["ru"] = "Premium deactivated and key cleared",
-        ["pt"] = "Premium deactivated and key cleared",
-        ["es"] = "Premium deactivated and key cleared"
+        ["ar"] = "تم إلغاء البريميوم ومسح المفتاح",
+        ["ru"] = "Премиум отключен, ключ очищен",
+        ["tr"] = "Premium devre dışı bırakıldı ve anahtar temizlendi",
+        ["es"] = "Premium desactivado y clave borrada",
+        ["fr"] = "Premium désactivé et clé effacée",
+        ["de"] = "Premium deaktiviert und Key gelöscht",
+        ["pt"] = "Premium desativado e chave limpa"
     },
     ["Time Left"] = {
         ["en"] = "Time Left",
-        ["ar"] = "Time Left",
-        ["ru"] = "Time Left",
-        ["pt"] = "Time Left",
-        ["es"] = "Time Left"
+        ["ar"] = "الوقت المتبقي",
+        ["ru"] = "Осталось времени",
+        ["tr"] = "Kalan süre",
+        ["es"] = "Tiempo restante",
+        ["fr"] = "Temps restant",
+        ["de"] = "Verbleibende Zeit",
+        ["pt"] = "Tempo restante"
     },
     ["Free Cam"] = {
         ["en"] = "Free Cam",
-        ["ar"] = "Free Cam",
-        ["ru"] = "Free Cam",
-        ["pt"] = "Free Cam",
-        ["es"] = "Free Cam"
+        ["ar"] = "كاميرا حرة",
+        ["ru"] = "Свободная камера",
+        ["tr"] = "Serbest Kamera",
+        ["es"] = "Cámara libre",
+        ["fr"] = "Caméra libre",
+        ["de"] = "Freie Kamera",
+        ["pt"] = "Câmera livre"
     },
     ["Vehicle Occupied"] = {
         ["en"] = "Vehicle Occupied",
-        ["ar"] = "Vehicle Occupied",
-        ["ru"] = "Vehicle Occupied",
-        ["pt"] = "Vehicle Occupied",
-        ["es"] = "Vehicle Occupied"
+        ["ar"] = "المركبة مشغولة",
+        ["ru"] = "Транспорт занят",
+        ["tr"] = "Araç dolu",
+        ["es"] = "Vehículo ocupado",
+        ["fr"] = "Véhicule occupé",
+        ["de"] = "Fahrzeug besetzt",
+        ["pt"] = "Veículo ocupado"
     },
     ["You are not sitting on any vehicle"] = {
         ["en"] = "You are not sitting on any vehicle",
-        ["ar"] = "You are not sitting on any vehicle",
-        ["ru"] = "You are not sitting on any vehicle",
-        ["pt"] = "You are not sitting on any vehicle",
-        ["es"] = "You are not sitting on any vehicle"
+        ["ar"] = "أنت لا تجلس داخل أي مركبة",
+        ["ru"] = "Вы не сидите ни в каком транспорте",
+        ["tr"] = "Herhangi bir araçta oturmuyorsunuz",
+        ["es"] = "No estás sentado en ningún vehículo",
+        ["fr"] = "Vous n’êtes assis dans aucun véhicule",
+        ["de"] = "Du sitzt in keinem Fahrzeug",
+        ["pt"] = "Você não está sentado em nenhum veículo"
     },
     ["Vehicles folder not found"] = {
         ["en"] = "Vehicles folder not found",
-        ["ar"] = "Vehicles folder not found",
-        ["ru"] = "Vehicles folder not found",
-        ["pt"] = "Vehicles folder not found",
-        ["es"] = "Vehicles folder not found"
+        ["ar"] = "لم يتم العثور على مجلد المركبات",
+        ["ru"] = "Папка Vehicles не найдена",
+        ["tr"] = "Vehicles klasörü bulunamadı",
+        ["es"] = "No se encontró la carpeta Vehicles",
+        ["fr"] = "Dossier Vehicles introuvable",
+        ["de"] = "Vehicles-Ordner nicht gefunden",
+        ["pt"] = "Pasta Vehicles não encontrada"
+    },
+    ['🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>'] = {
+        ["en"] = '🎁 <font color="#ff8c00">Get 3 Days FREE Premium!</font>',
+        ["ar"] = '🎁 <font color="#ff8c00">احصل على 3 أيام بريميوم مجاناً!</font>',
+        ["ru"] = '🎁 <font color="#ff8c00">Получите 3 дня Premium бесплатно!</font>',
+        ["tr"] = '🎁 <font color="#ff8c00">3 Gün ÜCRETSİZ Premium Al!</font>',
+        ["es"] = '🎁 <font color="#ff8c00">¡Obtén 3 días de Premium GRATIS!</font>',
+        ["fr"] = '🎁 <font color="#ff8c00">Obtenez 3 jours de Premium GRATUITS !</font>',
+        ["de"] = '🎁 <font color="#ff8c00">Erhalte 3 Tage Premium KOSTENLOS!</font>',
+        ["pt"] = '🎁 <font color="#ff8c00">Ganhe 3 dias de Premium GRÁTIS!</font>'
+    },
+    ['<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>'] = {
+        ["en"] = '<font color="#ffffff">To claim it, visit </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, create an account and link it to Discord, and you’ll be given the key </font><font color="#ff8c00"><b>for free!</b></font>',
+        ["ar"] = '<font color="#ffffff">لاستلامها، ادخل على </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">، أنشئ حساباً واربطه بالديسكورد، وستحصل على المفتاح </font><font color="#ff8c00"><b>مجاناً!</b></font>',
+        ["ru"] = '<font color="#ffffff">Чтобы получить это, посетите </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, создайте аккаунт и привяжите его к Discord, и вы получите ключ </font><font color="#ff8c00"><b>бесплатно!</b></font>',
+        ["tr"] = '<font color="#ffffff">Almak için </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff"> adresini ziyaret edin, bir hesap oluşturup Discord’a bağlayın; anahtar size </font><font color="#ff8c00"><b>ücretsiz!</b></font><font color="#ffffff"> verilecektir</font>',
+        ["es"] = '<font color="#ffffff">Para reclamarlo, visita </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, crea una cuenta y vincúlala a Discord, y recibirás la clave </font><font color="#ff8c00"><b>gratis!</b></font>',
+        ["fr"] = '<font color="#ffffff">Pour le réclamer, visitez </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, créez un compte et liez-le à Discord, puis vous recevrez la clé </font><font color="#ff8c00"><b>gratuitement !</b></font>',
+        ["de"] = '<font color="#ffffff">Um es zu erhalten, besuche </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, erstelle ein Konto und verknüpfe es mit Discord, dann bekommst du den Key </font><font color="#ff8c00"><b>kostenlos!</b></font>',
+        ["pt"] = '<font color="#ffffff">Para resgatar, acesse </font><font color="#1e90ff"><b>www.sphub.lol</b></font><font color="#ffffff">, crie uma conta e vincule ao Discord, e você receberá a chave </font><font color="#ff8c00"><b>de graça!</b></font>'
+    },
+    ["Player "] = {
+        ["en"] = "Player ",
+        ["ar"] = "اللاعب ",
+        ["ru"] = "Игрок ",
+        ["tr"] = "Oyuncu ",
+        ["es"] = "Jugador ",
+        ["fr"] = "Joueur ",
+        ["de"] = "Spieler ",
+        ["pt"] = "Jogador "
     }
 }

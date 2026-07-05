@@ -1819,6 +1819,36 @@ return {
         ["de"] = "Shop-Auffüllungsbenachrichtigungen",
         ["pt"] = "Notificações de reposição da loja"
     },
+        ["This script is Keyless! However, some exclusive premium features require a key to unlock."] = {
+        ["en"] = "This script is Keyless! However, some exclusive premium features require a key to unlock.",
+        ["ar"] = "هذا السكريبت يعمل بدون مفتاح! لكن بعض مميزات البريميوم الحصرية تحتاج إلى مفتاح لفتحها.",
+        ["ru"] = "Этот скрипт работает без ключа! Однако для некоторых эксклюзивных премиум-функций требуется ключ.",
+        ["tr"] = "Bu script anahtarsız çalışır! Ancak bazı özel premium özelliklerin kilidini açmak için anahtar gerekir.",
+        ["es"] = "¡Este script no necesita clave! Sin embargo, algunas funciones premium exclusivas requieren una clave para desbloquearse.",
+        ["fr"] = "Ce script fonctionne sans clé ! Cependant, certaines fonctionnalités premium exclusives nécessitent une clé pour être débloquées.",
+        ["de"] = "Dieses Skript ist keyless! Einige exklusive Premium-Funktionen benötigen jedoch einen Schlüssel zum Freischalten.",
+        ["pt"] = "Este script não precisa de chave! No entanto, alguns recursos premium exclusivos exigem uma chave para serem desbloqueados."
+    },
+    ["Welcome to SP Hub! Enjoy your first session ad-free!"] = {
+        ["en"] = "Welcome to SP Hub! Enjoy your first session ad-free!",
+        ["ar"] = "مرحباً بك في SP Hub! استمتع بجلستك الأولى بدون إعلانات!",
+        ["ru"] = "Добро пожаловать в SP Hub! Наслаждайтесь первой сессией без рекламы!",
+        ["tr"] = "SP Hub'a hoş geldiniz! İlk oturumunuzun reklamsız keyfini çıkarın!",
+        ["es"] = "¡Bienvenido a SP Hub! ¡Disfruta tu primera sesión sin anuncios!",
+        ["fr"] = "Bienvenue sur SP Hub ! Profitez de votre première session sans publicité !",
+        ["de"] = "Willkommen bei SP Hub! Genieße deine erste Sitzung werbefrei!",
+        ["pt"] = "Bem-vindo ao SP Hub! Aproveite sua primeira sessão sem anúncios!"
+    },
+    ["🔑 Key System"] = {
+        ["en"] = "🔑 Key System",
+        ["ar"] = "🔑 نظام المفتاح",
+        ["ru"] = "🔑 Система ключа",
+        ["tr"] = "🔑 Anahtar Sistemi",
+        ["es"] = "🔑 Sistema de Clave",
+        ["fr"] = "🔑 Système de Clé",
+        ["de"] = "🔑 Schlüssel-System",
+        ["pt"] = "🔑 Sistema de Chave"
+    }
     ["Join our community for updates, announcements, and key claims!"] = {
         ["en"] = "Join our community for updates, announcements, and key claims!",
         ["ar"] = "انضم إلى مجتمعنا للحصول على التحديثات، الإعلانات، والحصول على المفاتيح!",

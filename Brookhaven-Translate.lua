@@ -3388,5 +3388,10 @@ return {
         ["fr"] = "🔑 Système de Clé",
         ["de"] = "🔑 Schlüssel-System",
         ["pt"] = "🔑 Sistema de Chave"
+    },
+    ["<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you'll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>"] = {
+        en = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you'll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>",
+        ar = "<font color=\"#ffffff\">للحصول عليها، قم بزيارة </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">، وأنشئ حساباً واربطه بالديسكورد، وسيتم إعطاؤك المفتاح </font><font color=\"#ff8c00\"><b>مجانًا!</b></font>",
+        ru = "<font color=\"#ffffff\">Чтобы получить его, посетите </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, создайте аккаунт и свяжите его с Discord, и вам дадут ключ </font><font color=\"#ff8c00\"><b>бесплатно!</b></font>",
     }
 }

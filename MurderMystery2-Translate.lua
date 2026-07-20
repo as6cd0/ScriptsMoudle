@@ -1500,8 +1500,7 @@ return {
         ["fr"] = "Aucune arme tombée",
         ["de"] = "Keine Waffe fallengelassen",
         ["pt"] = "Nenhuma arma caída"
-    }
-
+    },
     ["Link Behind The Murderer"] = {
         ["en"] = "Link Behind The Murderer",
         ["ar"] = "الالتصاق خلف القاتل",

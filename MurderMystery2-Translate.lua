@@ -7,7 +7,7 @@ return {
         ["es"] = "Información",
         ["fr"] = "Info",
         ["de"] = "Info",
-        ["pt"] = "Informações",
+        ["pt"] = "Informações"
     },
     ["Language"] = {
         ["en"] = "Language",
@@ -17,7 +17,7 @@ return {
         ["es"] = "Idioma",
         ["fr"] = "Language",
         ["de"] = "Language",
-        ["pt"] = "Idioma",
+        ["pt"] = "Idioma"
     },
     ["Main"] = {
         ["en"] = "Main",
@@ -27,7 +27,7 @@ return {
         ["es"] = "Principal",
         ["fr"] = "Main",
         ["de"] = "Main",
-        ["pt"] = "Principal",
+        ["pt"] = "Principal"
     },
     ["Player"] = {
         ["en"] = "Player",
@@ -37,7 +37,7 @@ return {
         ["es"] = "Jugador",
         ["fr"] = "Player",
         ["de"] = "Player",
-        ["pt"] = "Jogador",
+        ["pt"] = "Jogador"
     },
     ["Kill"] = {
         ["en"] = "Kill",
@@ -47,7 +47,7 @@ return {
         ["es"] = "Matar",
         ["fr"] = "Kill",
         ["de"] = "Kill",
-        ["pt"] = "Matar",
+        ["pt"] = "Matar"
     },
     ["ESP Toggles"] = {
         ["en"] = "ESP Toggles",
@@ -57,7 +57,7 @@ return {
         ["es"] = "Activar ESP",
         ["fr"] = "ESP Toggles",
         ["de"] = "ESP Toggles",
-        ["pt"] = "Ativar ESP",
+        ["pt"] = "Ativar ESP"
     },
     ["ESP Players"] = {
         ["en"] = "ESP Players",
@@ -67,7 +67,7 @@ return {
         ["es"] = "Jogadores ESP",
         ["fr"] = "ESP Players",
         ["de"] = "ESP Players",
-        ["pt"] = "Jogadores ESP",
+        ["pt"] = "Jogadores ESP"
     },
     ["ESP Dropped Gun"] = {
         ["en"] = "ESP Dropped Gun",
@@ -77,7 +77,7 @@ return {
         ["es"] = "ESP de arma caída",
         ["fr"] = "ESP Dropped Gun",
         ["de"] = "ESP Dropped Gun",
-        ["pt"] = "ESP de arma caída",
+        ["pt"] = "ESP de arma caída"
     },
     ["ESP Tracers"] = {
         ["en"] = "ESP Tracers",
@@ -87,7 +87,7 @@ return {
         ["es"] = "Tracer ESP",
         ["fr"] = "ESP Tracers",
         ["de"] = "ESP Tracers",
-        ["pt"] = "Tracer ESP",
+        ["pt"] = "Tracer ESP"
     },
     ["Sheriff"] = {
         ["en"] = "Sheriff",
@@ -97,7 +97,7 @@ return {
         ["es"] = "Sheriff",
         ["fr"] = "Sheriff",
         ["de"] = "Sheriff",
-        ["pt"] = "Xerife",
+        ["pt"] = "Xerife"
     },
     ["Aimbot on Murderer"] = {
         ["en"] = "Aimbot on Murderer",
@@ -107,7 +107,7 @@ return {
         ["es"] = "Aimbot en el asesino",
         ["fr"] = "Aimbot on Murderer",
         ["de"] = "Aimbot on Murderer",
-        ["pt"] = "Aimbot no assassino",
+        ["pt"] = "Aimbot no assassino"
     },
     ["Auto Grab Gun"] = {
         ["en"] = "Auto Grab Gun",
@@ -117,7 +117,7 @@ return {
         ["es"] = "Recoger arma automáticamente",
         ["fr"] = "Auto Grab Gun",
         ["de"] = "Auto Grab Gun",
-        ["pt"] = "Pegar arma automaticamente",
+        ["pt"] = "Pegar arma automaticamente"
     },
     ["Kill The Murder"] = {
         ["en"] = "Kill The Murder",
@@ -127,7 +127,7 @@ return {
         ["es"] = "Matar al asesino",
         ["fr"] = "Kill The Murder",
         ["de"] = "Kill The Murder",
-        ["pt"] = "Matar o assassino",
+        ["pt"] = "Matar o assassino"
     },
     ["Auto Kill All"] = {
         ["en"] = "Auto Kill All",
@@ -137,7 +137,7 @@ return {
         ["es"] = "Matar a Todos",
         ["fr"] = "Auto Kill All",
         ["de"] = "Auto Kill All",
-        ["pt"] = "Matar Todos",
+        ["pt"] = "Matar Todos"
     },
     ["Kill All"] = {
         ["en"] = "Kill All",
@@ -147,7 +147,7 @@ return {
         ["es"] = "Matar a Todos",
         ["fr"] = "Kill All",
         ["de"] = "Kill All",
-        ["pt"] = "Matar Todos",
+        ["pt"] = "Matar Todos"
     },
     ["Deactivated"] = {
         ["en"] = "Deactivated",
@@ -157,7 +157,7 @@ return {
         ["es"] = "Deactivated",
         ["fr"] = "Deactivated",
         ["de"] = "Deactivated",
-        ["pt"] = "Deactivated",
+        ["pt"] = "Deactivated"
     },
     ["Teleport to Selected Player"] = {
         ["en"] = "Teleport to Selected Player",
@@ -167,7 +167,7 @@ return {
         ["es"] = "Teleport to Selected Player",
         ["fr"] = "Teleport to Selected Player",
         ["de"] = "Teleport to Selected Player",
-        ["pt"] = "Teleport to Selected Player",
+        ["pt"] = "Teleport to Selected Player"
     },
     ["WalkSpeed"] = {
         ["en"] = "WalkSpeed",
@@ -177,7 +177,7 @@ return {
         ["es"] = "WalkSpeed",
         ["fr"] = "WalkSpeed",
         ["de"] = "WalkSpeed",
-        ["pt"] = "WalkSpeed",
+        ["pt"] = "WalkSpeed"
     },
     ["Auto Fling All"] = {
         ["en"] = "Auto Fling All",
@@ -187,7 +187,7 @@ return {
         ["es"] = "Auto Fling All",
         ["fr"] = "Auto Fling All",
         ["de"] = "Auto Fling All",
-        ["pt"] = "Auto Fling All",
+        ["pt"] = "Auto Fling All"
     },
     ["🔑 Key System"] = {
         ["en"] = "🔑 Key System",
@@ -197,7 +197,7 @@ return {
         ["es"] = "🔑 Key System",
         ["fr"] = "🔑 Key System",
         ["de"] = "🔑 Key System",
-        ["pt"] = "🔑 Key System",
+        ["pt"] = "🔑 Key System"
     },
     ["Waiting..."] = {
         ["en"] = "Waiting...",
@@ -207,7 +207,7 @@ return {
         ["es"] = "Waiting...",
         ["fr"] = "Waiting...",
         ["de"] = "Waiting...",
-        ["pt"] = "Waiting...",
+        ["pt"] = "Waiting..."
     },
     ["Sheriff ESP"] = {
         ["en"] = "Sheriff ESP",
@@ -217,7 +217,7 @@ return {
         ["es"] = "Sheriff ESP",
         ["fr"] = "Sheriff ESP",
         ["de"] = "Sheriff ESP",
-        ["pt"] = "Sheriff ESP",
+        ["pt"] = "Sheriff ESP"
     },
     ["Free Cam Speed (Mobile)"] = {
         ["en"] = "Free Cam Speed (Mobile)",
@@ -227,7 +227,7 @@ return {
         ["es"] = "Free Cam Speed (Mobile)",
         ["fr"] = "Free Cam Speed (Mobile)",
         ["de"] = "Free Cam Speed (Mobile)",
-        ["pt"] = "Free Cam Speed (Mobile)",
+        ["pt"] = "Free Cam Speed (Mobile)"
     },
     ["Teleported above active map!"] = {
         ["en"] = "Teleported above active map!",
@@ -237,7 +237,7 @@ return {
         ["es"] = "Teleported above active map!",
         ["fr"] = "Teleported above active map!",
         ["de"] = "Teleported above active map!",
-        ["pt"] = "Teleported above active map!",
+        ["pt"] = "Teleported above active map!"
     },
     ["This script is Keyless! However, some exclusive premium features require a key to unlock."] = {
         ["en"] = "This script is Keyless! However, some exclusive premium features require a key to unlock.",
@@ -247,7 +247,7 @@ return {
         ["es"] = "This script is Keyless! However, some exclusive premium features require a key to unlock.",
         ["fr"] = "This script is Keyless! However, some exclusive premium features require a key to unlock.",
         ["de"] = "This script is Keyless! However, some exclusive premium features require a key to unlock.",
-        ["pt"] = "This script is Keyless! However, some exclusive premium features require a key to unlock.",
+        ["pt"] = "This script is Keyless! However, some exclusive premium features require a key to unlock."
     },
     ["FPS Booster (Delete Textures)"] = {
         ["en"] = "FPS Booster (Delete Textures)",
@@ -257,7 +257,7 @@ return {
         ["es"] = "FPS Booster (Delete Textures)",
         ["fr"] = "FPS Booster (Delete Textures)",
         ["de"] = "FPS Booster (Delete Textures)",
-        ["pt"] = "FPS Booster (Delete Textures)",
+        ["pt"] = "FPS Booster (Delete Textures)"
     },
     ["Key"] = {
         ["en"] = "Key",
@@ -267,7 +267,7 @@ return {
         ["es"] = "Key",
         ["fr"] = "Key",
         ["de"] = "Key",
-        ["pt"] = "Key",
+        ["pt"] = "Key"
     },
     ["Checking..."] = {
         ["en"] = "Checking...",
@@ -277,7 +277,7 @@ return {
         ["es"] = "Checking...",
         ["fr"] = "Checking...",
         ["de"] = "Checking...",
-        ["pt"] = "Checking...",
+        ["pt"] = "Checking..."
     },
     ["Could not find spawn points in active map!"] = {
         ["en"] = "Could not find spawn points in active map!",
@@ -287,7 +287,7 @@ return {
         ["es"] = "Could not find spawn points in active map!",
         ["fr"] = "Could not find spawn points in active map!",
         ["de"] = "Could not find spawn points in active map!",
-        ["pt"] = "Could not find spawn points in active map!",
+        ["pt"] = "Could not find spawn points in active map!"
     },
     ["Success"] = {
         ["en"] = "Success",
@@ -297,7 +297,7 @@ return {
         ["es"] = "Success",
         ["fr"] = "Success",
         ["de"] = "Success",
-        ["pt"] = "Success",
+        ["pt"] = "Success"
     },
     ["Dropped Gun Alert"] = {
         ["en"] = "Dropped Gun Alert",
@@ -307,7 +307,7 @@ return {
         ["es"] = "Dropped Gun Alert",
         ["fr"] = "Dropped Gun Alert",
         ["de"] = "Dropped Gun Alert",
-        ["pt"] = "Dropped Gun Alert",
+        ["pt"] = "Dropped Gun Alert"
     },
     ["Show HitBox"] = {
         ["en"] = "Show HitBox",
@@ -317,7 +317,7 @@ return {
         ["es"] = "Show HitBox",
         ["fr"] = "Show HitBox",
         ["de"] = "Show HitBox",
-        ["pt"] = "Show HitBox",
+        ["pt"] = "Show HitBox"
     },
     ["Free Cam"] = {
         ["en"] = "Free Cam",
@@ -327,7 +327,7 @@ return {
         ["es"] = "Free Cam",
         ["fr"] = "Free Cam",
         ["de"] = "Free Cam",
-        ["pt"] = "Free Cam",
+        ["pt"] = "Free Cam"
     },
     ["Troll"] = {
         ["en"] = "Troll",
@@ -337,7 +337,7 @@ return {
         ["es"] = "Troll",
         ["fr"] = "Troll",
         ["de"] = "Troll",
-        ["pt"] = "Troll",
+        ["pt"] = "Troll"
     },
     ["Shadows disabled!"] = {
         ["en"] = "Shadows disabled!",
@@ -347,7 +347,7 @@ return {
         ["es"] = "Shadows disabled!",
         ["fr"] = "Shadows disabled!",
         ["de"] = "Shadows disabled!",
-        ["pt"] = "Shadows disabled!",
+        ["pt"] = "Shadows disabled!"
     },
     ["Teleport to Lobby"] = {
         ["en"] = "Teleport to Lobby",
@@ -357,7 +357,7 @@ return {
         ["es"] = "Teleport to Lobby",
         ["fr"] = "Teleport to Lobby",
         ["de"] = "Teleport to Lobby",
-        ["pt"] = "Teleport to Lobby",
+        ["pt"] = "Teleport to Lobby"
     },
     ["Murderer Tracer"] = {
         ["en"] = "Murderer Tracer",
@@ -367,7 +367,7 @@ return {
         ["es"] = "Murderer Tracer",
         ["fr"] = "Murderer Tracer",
         ["de"] = "Murderer Tracer",
-        ["pt"] = "Murderer Tracer",
+        ["pt"] = "Murderer Tracer"
     },
     ["Expires"] = {
         ["en"] = "Expires",
@@ -377,7 +377,7 @@ return {
         ["es"] = "Expires",
         ["fr"] = "Expires",
         ["de"] = "Expires",
-        ["pt"] = "Expires",
+        ["pt"] = "Expires"
     },
     ["Murderer ESP"] = {
         ["en"] = "Murderer ESP",
@@ -387,7 +387,7 @@ return {
         ["es"] = "Murderer ESP",
         ["fr"] = "Murderer ESP",
         ["de"] = "Murderer ESP",
-        ["pt"] = "Murderer ESP",
+        ["pt"] = "Murderer ESP"
     },
     ["Deactivate Key"] = {
         ["en"] = "Deactivate Key",
@@ -397,7 +397,7 @@ return {
         ["es"] = "Deactivate Key",
         ["fr"] = "Deactivate Key",
         ["de"] = "Deactivate Key",
-        ["pt"] = "Deactivate Key",
+        ["pt"] = "Deactivate Key"
     },
     ["YouTube Channel"] = {
         ["en"] = "YouTube Channel",
@@ -407,7 +407,7 @@ return {
         ["es"] = "YouTube Channel",
         ["fr"] = "YouTube Channel",
         ["de"] = "YouTube Channel",
-        ["pt"] = "YouTube Channel",
+        ["pt"] = "YouTube Channel"
     },
     ["Names ESP"] = {
         ["en"] = "Names ESP",
@@ -417,7 +417,7 @@ return {
         ["es"] = "Names ESP",
         ["fr"] = "Names ESP",
         ["de"] = "Names ESP",
-        ["pt"] = "Names ESP",
+        ["pt"] = "Names ESP"
     },
     ["Status"] = {
         ["en"] = "Status",
@@ -427,7 +427,7 @@ return {
         ["es"] = "Status",
         ["fr"] = "Status",
         ["de"] = "Status",
-        ["pt"] = "Status",
+        ["pt"] = "Status"
     },
     ["FE Invisibility"] = {
         ["en"] = "FE Invisibility",
@@ -437,7 +437,7 @@ return {
         ["es"] = "FE Invisibility",
         ["fr"] = "FE Invisibility",
         ["de"] = "FE Invisibility",
-        ["pt"] = "FE Invisibility",
+        ["pt"] = "FE Invisibility"
     },
     ["m"] = {
         ["en"] = "m",
@@ -447,7 +447,7 @@ return {
         ["es"] = "m",
         ["fr"] = "m",
         ["de"] = "m",
-        ["pt"] = "m",
+        ["pt"] = "m"
     },
     ["Saved from falling into the void!"] = {
         ["en"] = "Saved from falling into the void!",
@@ -457,7 +457,7 @@ return {
         ["es"] = "Saved from falling into the void!",
         ["fr"] = "Saved from falling into the void!",
         ["de"] = "Saved from falling into the void!",
-        ["pt"] = "Saved from falling into the void!",
+        ["pt"] = "Saved from falling into the void!"
     },
     ["Verify Key"] = {
         ["en"] = "Verify Key",
@@ -467,7 +467,7 @@ return {
         ["es"] = "Verify Key",
         ["fr"] = "Verify Key",
         ["de"] = "Verify Key",
-        ["pt"] = "Verify Key",
+        ["pt"] = "Verify Key"
     },
     ["Expired"] = {
         ["en"] = "Expired",
@@ -477,7 +477,7 @@ return {
         ["es"] = "Expired",
         ["fr"] = "Expired",
         ["de"] = "Expired",
-        ["pt"] = "Expired",
+        ["pt"] = "Expired"
     },
     ["Instant Grab Gun"] = {
         ["en"] = "Instant Grab Gun",
@@ -487,7 +487,7 @@ return {
         ["es"] = "Instant Grab Gun",
         ["fr"] = "Instant Grab Gun",
         ["de"] = "Instant Grab Gun",
-        ["pt"] = "Instant Grab Gun",
+        ["pt"] = "Instant Grab Gun"
     },
     ["✅ Key Valid"] = {
         ["en"] = "✅ Key Valid",
@@ -497,7 +497,7 @@ return {
         ["es"] = "✅ Key Valid",
         ["fr"] = "✅ Key Valid",
         ["de"] = "✅ Key Valid",
-        ["pt"] = "✅ Key Valid",
+        ["pt"] = "✅ Key Valid"
     },
     ["h"] = {
         ["en"] = "h",
@@ -507,7 +507,7 @@ return {
         ["es"] = "h",
         ["fr"] = "h",
         ["de"] = "h",
-        ["pt"] = "h",
+        ["pt"] = "h"
     },
     ["Select Player"] = {
         ["en"] = "Select Player",
@@ -517,7 +517,7 @@ return {
         ["es"] = "Select Player",
         ["fr"] = "Select Player",
         ["de"] = "Select Player",
-        ["pt"] = "Select Player",
+        ["pt"] = "Select Player"
     },
     ["Teleport to Safe Zone"] = {
         ["en"] = "Teleport to Safe Zone",
@@ -527,7 +527,7 @@ return {
         ["es"] = "Teleport to Safe Zone",
         ["fr"] = "Teleport to Safe Zone",
         ["de"] = "Teleport to Safe Zone",
-        ["pt"] = "Teleport to Safe Zone",
+        ["pt"] = "Teleport to Safe Zone"
     },
     ["Successfully pulled and eliminated all players!"] = {
         ["en"] = "Successfully pulled and eliminated all players!",
@@ -537,7 +537,7 @@ return {
         ["es"] = "Successfully pulled and eliminated all players!",
         ["fr"] = "Successfully pulled and eliminated all players!",
         ["de"] = "Successfully pulled and eliminated all players!",
-        ["pt"] = "Successfully pulled and eliminated all players!",
+        ["pt"] = "Successfully pulled and eliminated all players!"
     },
     ["World set to Smooth Plastic!"] = {
         ["en"] = "World set to Smooth Plastic!",
@@ -547,7 +547,7 @@ return {
         ["es"] = "World set to Smooth Plastic!",
         ["fr"] = "World set to Smooth Plastic!",
         ["de"] = "World set to Smooth Plastic!",
-        ["pt"] = "World set to Smooth Plastic!",
+        ["pt"] = "World set to Smooth Plastic!"
     },
     ["Enter Key"] = {
         ["en"] = "Enter Key",
@@ -557,7 +557,7 @@ return {
         ["es"] = "Enter Key",
         ["fr"] = "Enter Key",
         ["de"] = "Enter Key",
-        ["pt"] = "Enter Key",
+        ["pt"] = "Enter Key"
     },
     ["Server Utility"] = {
         ["en"] = "Server Utility",
@@ -567,7 +567,7 @@ return {
         ["es"] = "Server Utility",
         ["fr"] = "Server Utility",
         ["de"] = "Server Utility",
-        ["pt"] = "Server Utility",
+        ["pt"] = "Server Utility"
     },
     ["d"] = {
         ["en"] = "d",
@@ -577,7 +577,7 @@ return {
         ["es"] = "d",
         ["fr"] = "d",
         ["de"] = "d",
-        ["pt"] = "d",
+        ["pt"] = "d"
     },
     ["Noclip"] = {
         ["en"] = "Noclip",
@@ -587,7 +587,7 @@ return {
         ["es"] = "Noclip",
         ["fr"] = "Noclip",
         ["de"] = "Noclip",
-        ["pt"] = "Noclip",
+        ["pt"] = "Noclip"
     },
     ["Premium Activated"] = {
         ["en"] = "Premium Activated",
@@ -597,7 +597,7 @@ return {
         ["es"] = "Premium Activated",
         ["fr"] = "Premium Activated",
         ["de"] = "Premium Activated",
-        ["pt"] = "Premium Activated",
+        ["pt"] = "Premium Activated"
     },
     ["🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>"] = {
         ["en"] = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>",
@@ -607,7 +607,7 @@ return {
         ["es"] = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>",
         ["fr"] = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>",
         ["de"] = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>",
-        ["pt"] = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>",
+        ["pt"] = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>"
     },
     ["Teleport to Sheriff"] = {
         ["en"] = "Teleport to Sheriff",
@@ -617,7 +617,7 @@ return {
         ["es"] = "Teleport to Sheriff",
         ["fr"] = "Teleport to Sheriff",
         ["de"] = "Teleport to Sheriff",
-        ["pt"] = "Teleport to Sheriff",
+        ["pt"] = "Teleport to Sheriff"
     },
     ["Sheriff not found or not alive!"] = {
         ["en"] = "Sheriff not found or not alive!",
@@ -627,7 +627,7 @@ return {
         ["es"] = "Sheriff not found or not alive!",
         ["fr"] = "Sheriff not found or not alive!",
         ["de"] = "Sheriff not found or not alive!",
-        ["pt"] = "Sheriff not found or not alive!",
+        ["pt"] = "Sheriff not found or not alive!"
     },
     ["Telegram channel link copied to clipboard"] = {
         ["en"] = "Telegram channel link copied to clipboard",
@@ -637,7 +637,7 @@ return {
         ["es"] = "Telegram channel link copied to clipboard",
         ["fr"] = "Telegram channel link copied to clipboard",
         ["de"] = "Telegram channel link copied to clipboard",
-        ["pt"] = "Telegram channel link copied to clipboard",
+        ["pt"] = "Telegram channel link copied to clipboard"
     },
     ["Join our community for updates, announcements, and key claims!"] = {
         ["en"] = "Join our community for updates, announcements, and key claims!",
@@ -647,7 +647,7 @@ return {
         ["es"] = "Join our community for updates, announcements, and key claims!",
         ["fr"] = "Join our community for updates, announcements, and key claims!",
         ["de"] = "Join our community for updates, announcements, and key claims!",
-        ["pt"] = "Join our community for updates, announcements, and key claims!",
+        ["pt"] = "Join our community for updates, announcements, and key claims!"
     },
     ["Auto Kill"] = {
         ["en"] = "Auto Kill",
@@ -657,7 +657,7 @@ return {
         ["es"] = "Auto Kill",
         ["fr"] = "Auto Kill",
         ["de"] = "Auto Kill",
-        ["pt"] = "Auto Kill",
+        ["pt"] = "Auto Kill"
     },
     ["You need a Gun!"] = {
         ["en"] = "You need a Gun!",
@@ -667,7 +667,7 @@ return {
         ["es"] = "You need a Gun!",
         ["fr"] = "You need a Gun!",
         ["de"] = "You need a Gun!",
-        ["pt"] = "You need a Gun!",
+        ["pt"] = "You need a Gun!"
     },
     ["Performance"] = {
         ["en"] = "Performance",
@@ -677,7 +677,7 @@ return {
         ["es"] = "Performance",
         ["fr"] = "Performance",
         ["de"] = "Performance",
-        ["pt"] = "Performance",
+        ["pt"] = "Performance"
     },
     ["Textures deleted! FPS Boosted."] = {
         ["en"] = "Textures deleted! FPS Boosted.",
@@ -687,7 +687,7 @@ return {
         ["es"] = "Textures deleted! FPS Boosted.",
         ["fr"] = "Textures deleted! FPS Boosted.",
         ["de"] = "Textures deleted! FPS Boosted.",
-        ["pt"] = "Textures deleted! FPS Boosted.",
+        ["pt"] = "Textures deleted! FPS Boosted."
     },
     ["Disable Shadows & Fog"] = {
         ["en"] = "Disable Shadows & Fog",
@@ -697,7 +697,7 @@ return {
         ["es"] = "Disable Shadows & Fog",
         ["fr"] = "Disable Shadows & Fog",
         ["de"] = "Disable Shadows & Fog",
-        ["pt"] = "Disable Shadows & Fog",
+        ["pt"] = "Disable Shadows & Fog"
     },
     ["Mod"] = {
         ["en"] = "Mod",
@@ -707,7 +707,7 @@ return {
         ["es"] = "Mod",
         ["fr"] = "Mod",
         ["de"] = "Mod",
-        ["pt"] = "Mod",
+        ["pt"] = "Mod"
     },
     ["Faster Kill Murder Button"] = {
         ["en"] = "Faster Kill Murder Button",
@@ -717,7 +717,7 @@ return {
         ["es"] = "Faster Kill Murder Button",
         ["fr"] = "Faster Kill Murder Button",
         ["de"] = "Faster Kill Murder Button",
-        ["pt"] = "Faster Kill Murder Button",
+        ["pt"] = "Faster Kill Murder Button"
     },
     ["Player Jump Power"] = {
         ["en"] = "Player Jump Power",
@@ -727,7 +727,7 @@ return {
         ["es"] = "Player Jump Power",
         ["fr"] = "Player Jump Power",
         ["de"] = "Player Jump Power",
-        ["pt"] = "Player Jump Power",
+        ["pt"] = "Player Jump Power"
     },
     ["Fling Sheriff"] = {
         ["en"] = "Fling Sheriff",
@@ -737,7 +737,7 @@ return {
         ["es"] = "Fling Sheriff",
         ["fr"] = "Fling Sheriff",
         ["de"] = "Fling Sheriff",
-        ["pt"] = "Fling Sheriff",
+        ["pt"] = "Fling Sheriff"
     },
     ["YouTube channel link copied to clipboard"] = {
         ["en"] = "YouTube channel link copied to clipboard",
@@ -747,7 +747,7 @@ return {
         ["es"] = "YouTube channel link copied to clipboard",
         ["fr"] = "YouTube channel link copied to clipboard",
         ["de"] = "YouTube channel link copied to clipboard",
-        ["pt"] = "YouTube channel link copied to clipboard",
+        ["pt"] = "YouTube channel link copied to clipboard"
     },
     ["Auto Kill Murder Mode"] = {
         ["en"] = "Auto Kill Murder Mode",
@@ -757,7 +757,7 @@ return {
         ["es"] = "Auto Kill Murder Mode",
         ["fr"] = "Auto Kill Murder Mode",
         ["de"] = "Auto Kill Murder Mode",
-        ["pt"] = "Auto Kill Murder Mode",
+        ["pt"] = "Auto Kill Murder Mode"
     },
     ["Selected player not found or not alive!"] = {
         ["en"] = "Selected player not found or not alive!",
@@ -767,7 +767,7 @@ return {
         ["es"] = "Selected player not found or not alive!",
         ["fr"] = "Selected player not found or not alive!",
         ["de"] = "Selected player not found or not alive!",
-        ["pt"] = "Selected player not found or not alive!",
+        ["pt"] = "Selected player not found or not alive!"
     },
     ["Setting"] = {
         ["en"] = "Setting",
@@ -777,7 +777,7 @@ return {
         ["es"] = "Setting",
         ["fr"] = "Setting",
         ["de"] = "Setting",
-        ["pt"] = "Setting",
+        ["pt"] = "Setting"
     },
     ["Key Active"] = {
         ["en"] = "Key Active",
@@ -787,7 +787,7 @@ return {
         ["es"] = "Key Active",
         ["fr"] = "Key Active",
         ["de"] = "Key Active",
-        ["pt"] = "Key Active",
+        ["pt"] = "Key Active"
     },
     ["Error"] = {
         ["en"] = "Error",
@@ -797,7 +797,7 @@ return {
         ["es"] = "Error",
         ["fr"] = "Error",
         ["de"] = "Error",
-        ["pt"] = "Error",
+        ["pt"] = "Error"
     },
     ["Smooth Plastic World"] = {
         ["en"] = "Smooth Plastic World",
@@ -807,7 +807,7 @@ return {
         ["es"] = "Smooth Plastic World",
         ["fr"] = "Smooth Plastic World",
         ["de"] = "Smooth Plastic World",
-        ["pt"] = "Smooth Plastic World",
+        ["pt"] = "Smooth Plastic World"
     },
     ["Key Deactivated"] = {
         ["en"] = "Key Deactivated",
@@ -817,7 +817,7 @@ return {
         ["es"] = "Key Deactivated",
         ["fr"] = "Key Deactivated",
         ["de"] = "Key Deactivated",
-        ["pt"] = "Key Deactivated",
+        ["pt"] = "Key Deactivated"
     },
     ["Teleported to Active Map!"] = {
         ["en"] = "Teleported to Active Map!",
@@ -827,7 +827,7 @@ return {
         ["es"] = "Teleported to Active Map!",
         ["fr"] = "Teleported to Active Map!",
         ["de"] = "Teleported to Active Map!",
-        ["pt"] = "Teleported to Active Map!",
+        ["pt"] = "Teleported to Active Map!"
     },
     ["You need a Knife to use Kill All!"] = {
         ["en"] = "You need a Knife to use Kill All!",
@@ -837,7 +837,7 @@ return {
         ["es"] = "You need a Knife to use Kill All!",
         ["fr"] = "You need a Knife to use Kill All!",
         ["de"] = "You need a Knife to use Kill All!",
-        ["pt"] = "You need a Knife to use Kill All!",
+        ["pt"] = "You need a Knife to use Kill All!"
     },
     ["Fly Speed"] = {
         ["en"] = "Fly Speed",
@@ -847,7 +847,7 @@ return {
         ["es"] = "Fly Speed",
         ["fr"] = "Fly Speed",
         ["de"] = "Fly Speed",
-        ["pt"] = "Fly Speed",
+        ["pt"] = "Fly Speed"
     },
     ["Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol"] = {
         ["en"] = "Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol",
@@ -857,7 +857,7 @@ return {
         ["es"] = "Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol",
         ["fr"] = "Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol",
         ["de"] = "Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol",
-        ["pt"] = "Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol",
+        ["pt"] = "Join our Discord to claim your FREE key and disable ads! Visit www.sphub.lol"
     },
     ["Dropped Gun"] = {
         ["en"] = "Dropped Gun",
@@ -867,7 +867,7 @@ return {
         ["es"] = "Dropped Gun",
         ["fr"] = "Dropped Gun",
         ["de"] = "Dropped Gun",
-        ["pt"] = "Dropped Gun",
+        ["pt"] = "Dropped Gun"
     },
     ["Premium deactivated and key cleared"] = {
         ["en"] = "Premium deactivated and key cleared",
@@ -877,7 +877,7 @@ return {
         ["es"] = "Premium deactivated and key cleared",
         ["fr"] = "Premium deactivated and key cleared",
         ["de"] = "Premium deactivated and key cleared",
-        ["pt"] = "Premium deactivated and key cleared",
+        ["pt"] = "Premium deactivated and key cleared"
     },
     ["SP Hub Premium"] = {
         ["en"] = "SP Hub Premium",
@@ -887,7 +887,7 @@ return {
         ["es"] = "SP Hub Premium",
         ["fr"] = "SP Hub Premium",
         ["de"] = "SP Hub Premium",
-        ["pt"] = "SP Hub Premium",
+        ["pt"] = "SP Hub Premium"
     },
     ["Get Key"] = {
         ["en"] = "Get Key",
@@ -897,7 +897,7 @@ return {
         ["es"] = "Get Key",
         ["fr"] = "Get Key",
         ["de"] = "Get Key",
-        ["pt"] = "Get Key",
+        ["pt"] = "Get Key"
     },
     ["Sheriff Tracer"] = {
         ["en"] = "Sheriff Tracer",
@@ -907,7 +907,7 @@ return {
         ["es"] = "Sheriff Tracer",
         ["fr"] = "Sheriff Tracer",
         ["de"] = "Sheriff Tracer",
-        ["pt"] = "Sheriff Tracer",
+        ["pt"] = "Sheriff Tracer"
     },
     ["Fling Player"] = {
         ["en"] = "Fling Player",
@@ -917,7 +917,7 @@ return {
         ["es"] = "Fling Player",
         ["fr"] = "Fling Player",
         ["de"] = "Fling Player",
-        ["pt"] = "Fling Player",
+        ["pt"] = "Fling Player"
     },
     ["Protection"] = {
         ["en"] = "Protection",
@@ -927,7 +927,7 @@ return {
         ["es"] = "Protection",
         ["fr"] = "Protection",
         ["de"] = "Protection",
-        ["pt"] = "Protection",
+        ["pt"] = "Protection"
     },
     ["Player Teleport"] = {
         ["en"] = "Player Teleport",
@@ -937,7 +937,7 @@ return {
         ["es"] = "Player Teleport",
         ["fr"] = "Player Teleport",
         ["de"] = "Player Teleport",
-        ["pt"] = "Player Teleport",
+        ["pt"] = "Player Teleport"
     },
     ["You need a Knife to use Auto Kill!"] = {
         ["en"] = "You need a Knife to use Auto Kill!",
@@ -947,7 +947,7 @@ return {
         ["es"] = "You need a Knife to use Auto Kill!",
         ["fr"] = "You need a Knife to use Auto Kill!",
         ["de"] = "You need a Knife to use Auto Kill!",
-        ["pt"] = "You need a Knife to use Auto Kill!",
+        ["pt"] = "You need a Knife to use Auto Kill!"
     },
     ["<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>"] = {
         ["en"] = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>",
@@ -957,7 +957,7 @@ return {
         ["es"] = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>",
         ["fr"] = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>",
         ["de"] = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>",
-        ["pt"] = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>",
+        ["pt"] = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you’ll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>"
     },
     ["Auto Collect Coins"] = {
         ["en"] = "Auto Collect Coins",
@@ -967,7 +967,7 @@ return {
         ["es"] = "Auto Collect Coins",
         ["fr"] = "Auto Collect Coins",
         ["de"] = "Auto Collect Coins",
-        ["pt"] = "Auto Collect Coins",
+        ["pt"] = "Auto Collect Coins"
     },
     ["Coin Tween Speed"] = {
         ["en"] = "Coin Tween Speed",
@@ -977,7 +977,7 @@ return {
         ["es"] = "Coin Tween Speed",
         ["fr"] = "Coin Tween Speed",
         ["de"] = "Coin Tween Speed",
-        ["pt"] = "Coin Tween Speed",
+        ["pt"] = "Coin Tween Speed"
     },
     ["Fling Murderer"] = {
         ["en"] = "Fling Murderer",
@@ -987,7 +987,7 @@ return {
         ["es"] = "Fling Murderer",
         ["fr"] = "Fling Murderer",
         ["de"] = "Fling Murderer",
-        ["pt"] = "Fling Murderer",
+        ["pt"] = "Fling Murderer"
     },
     ["Fling Touch"] = {
         ["en"] = "Fling Touch",
@@ -997,7 +997,7 @@ return {
         ["es"] = "Fling Touch",
         ["fr"] = "Fling Touch",
         ["de"] = "Fling Touch",
-        ["pt"] = "Fling Touch",
+        ["pt"] = "Fling Touch"
     },
     ["Auto Kill All Mode"] = {
         ["en"] = "Auto Kill All Mode",
@@ -1007,7 +1007,7 @@ return {
         ["es"] = "Auto Kill All Mode",
         ["fr"] = "Auto Kill All Mode",
         ["de"] = "Auto Kill All Mode",
-        ["pt"] = "Auto Kill All Mode",
+        ["pt"] = "Auto Kill All Mode"
     },
     ["Fly"] = {
         ["en"] = "Fly",
@@ -1017,7 +1017,7 @@ return {
         ["es"] = "Fly",
         ["fr"] = "Fly",
         ["de"] = "Fly",
-        ["pt"] = "Fly",
+        ["pt"] = "Fly"
     },
     ["Anti Void"] = {
         ["en"] = "Anti Void",
@@ -1027,7 +1027,7 @@ return {
         ["es"] = "Anti Void",
         ["fr"] = "Anti Void",
         ["de"] = "Anti Void",
-        ["pt"] = "Anti Void",
+        ["pt"] = "Anti Void"
     },
     ["World materials restored!"] = {
         ["en"] = "World materials restored!",
@@ -1037,7 +1037,7 @@ return {
         ["es"] = "World materials restored!",
         ["fr"] = "World materials restored!",
         ["de"] = "World materials restored!",
-        ["pt"] = "World materials restored!",
+        ["pt"] = "World materials restored!"
     },
     ["SP Hub Channels"] = {
         ["en"] = "SP Hub Channels",
@@ -1047,7 +1047,7 @@ return {
         ["es"] = "SP Hub Channels",
         ["fr"] = "SP Hub Channels",
         ["de"] = "SP Hub Channels",
-        ["pt"] = "SP Hub Channels",
+        ["pt"] = "SP Hub Channels"
     },
     ["SP Hub"] = {
         ["en"] = "SP Hub",
@@ -1057,7 +1057,7 @@ return {
         ["es"] = "SP Hub",
         ["fr"] = "SP Hub",
         ["de"] = "SP Hub",
-        ["pt"] = "SP Hub",
+        ["pt"] = "SP Hub"
     },
     ["s"] = {
         ["en"] = "s",
@@ -1067,7 +1067,7 @@ return {
         ["es"] = "s",
         ["fr"] = "s",
         ["de"] = "s",
-        ["pt"] = "s",
+        ["pt"] = "s"
     },
     ["Discord Server"] = {
         ["en"] = "Discord Server",
@@ -1077,7 +1077,7 @@ return {
         ["es"] = "Discord Server",
         ["fr"] = "Discord Server",
         ["de"] = "Discord Server",
-        ["pt"] = "Discord Server",
+        ["pt"] = "Discord Server"
     },
     ["Welcome to SP Hub! Enjoy your first session ad-free!"] = {
         ["en"] = "Welcome to SP Hub! Enjoy your first session ad-free!",
@@ -1087,7 +1087,7 @@ return {
         ["es"] = "Welcome to SP Hub! Enjoy your first session ad-free!",
         ["fr"] = "Welcome to SP Hub! Enjoy your first session ad-free!",
         ["de"] = "Welcome to SP Hub! Enjoy your first session ad-free!",
-        ["pt"] = "Welcome to SP Hub! Enjoy your first session ad-free!",
+        ["pt"] = "Welcome to SP Hub! Enjoy your first session ad-free!"
     },
     ["Key link copied"] = {
         ["en"] = "Key link copied",
@@ -1097,7 +1097,7 @@ return {
         ["es"] = "Key link copied",
         ["fr"] = "Key link copied",
         ["de"] = "Key link copied",
-        ["pt"] = "Key link copied",
+        ["pt"] = "Key link copied"
     },
     ["No active game map found in workspace.Normal!"] = {
         ["en"] = "No active game map found in workspace.Normal!",
@@ -1107,7 +1107,7 @@ return {
         ["es"] = "No active game map found in workspace.Normal!",
         ["fr"] = "No active game map found in workspace.Normal!",
         ["de"] = "No active game map found in workspace.Normal!",
-        ["pt"] = "No active game map found in workspace.Normal!",
+        ["pt"] = "No active game map found in workspace.Normal!"
     },
     ["Teleports"] = {
         ["en"] = "Teleports",
@@ -1117,7 +1117,7 @@ return {
         ["es"] = "Teleports",
         ["fr"] = "Teleports",
         ["de"] = "Teleports",
-        ["pt"] = "Teleports",
+        ["pt"] = "Teleports"
     },
     ["JumpPower"] = {
         ["en"] = "JumpPower",
@@ -1127,7 +1127,7 @@ return {
         ["es"] = "JumpPower",
         ["fr"] = "JumpPower",
         ["de"] = "JumpPower",
-        ["pt"] = "JumpPower",
+        ["pt"] = "JumpPower"
     },
     ["No alternative servers found!"] = {
         ["en"] = "No alternative servers found!",
@@ -1137,7 +1137,7 @@ return {
         ["es"] = "No alternative servers found!",
         ["fr"] = "No alternative servers found!",
         ["de"] = "No alternative servers found!",
-        ["pt"] = "No alternative servers found!",
+        ["pt"] = "No alternative servers found!"
     },
     ["Server Hop"] = {
         ["en"] = "Server Hop",
@@ -1147,7 +1147,7 @@ return {
         ["es"] = "Server Hop",
         ["fr"] = "Server Hop",
         ["de"] = "Server Hop",
-        ["pt"] = "Server Hop",
+        ["pt"] = "Server Hop"
     },
     ["Murderer not found or not alive!"] = {
         ["en"] = "Murderer not found or not alive!",
@@ -1157,7 +1157,7 @@ return {
         ["es"] = "Murderer not found or not alive!",
         ["fr"] = "Murderer not found or not alive!",
         ["de"] = "Murderer not found or not alive!",
-        ["pt"] = "Murderer not found or not alive!",
+        ["pt"] = "Murderer not found or not alive!"
     },
     ["Autofarm"] = {
         ["en"] = "Autofarm",
@@ -1167,7 +1167,7 @@ return {
         ["es"] = "Autofarm",
         ["fr"] = "Autofarm",
         ["de"] = "Autofarm",
-        ["pt"] = "Autofarm",
+        ["pt"] = "Autofarm"
     },
     ["Telegram Channel"] = {
         ["en"] = "Telegram Channel",
@@ -1177,7 +1177,7 @@ return {
         ["es"] = "Telegram Channel",
         ["fr"] = "Telegram Channel",
         ["de"] = "Telegram Channel",
-        ["pt"] = "Telegram Channel",
+        ["pt"] = "Telegram Channel"
     },
     ["Your coin bag is full! Autofarm paused."] = {
         ["en"] = "Your coin bag is full! Autofarm paused.",
@@ -1187,7 +1187,7 @@ return {
         ["es"] = "Your coin bag is full! Autofarm paused.",
         ["fr"] = "Your coin bag is full! Autofarm paused.",
         ["de"] = "Your coin bag is full! Autofarm paused.",
-        ["pt"] = "Your coin bag is full! Autofarm paused.",
+        ["pt"] = "Your coin bag is full! Autofarm paused."
     },
     ["✅ Auto Login"] = {
         ["en"] = "✅ Auto Login",
@@ -1197,7 +1197,7 @@ return {
         ["es"] = "✅ Auto Login",
         ["fr"] = "✅ Auto Login",
         ["de"] = "✅ Auto Login",
-        ["pt"] = "✅ Auto Login",
+        ["pt"] = "✅ Auto Login"
     },
     ["Copied"] = {
         ["en"] = "Copied",
@@ -1207,7 +1207,7 @@ return {
         ["es"] = "Copied",
         ["fr"] = "Copied",
         ["de"] = "Copied",
-        ["pt"] = "Copied",
+        ["pt"] = "Copied"
     },
     ["Enter key first"] = {
         ["en"] = "Enter key first",
@@ -1217,7 +1217,7 @@ return {
         ["es"] = "Enter key first",
         ["fr"] = "Enter key first",
         ["de"] = "Enter key first",
-        ["pt"] = "Enter key first",
+        ["pt"] = "Enter key first"
     },
     ["A gun has dropped on the map!"] = {
         ["en"] = "A gun has dropped on the map!",
@@ -1227,7 +1227,7 @@ return {
         ["es"] = "A gun has dropped on the map!",
         ["fr"] = "A gun has dropped on the map!",
         ["de"] = "A gun has dropped on the map!",
-        ["pt"] = "A gun has dropped on the map!",
+        ["pt"] = "A gun has dropped on the map!"
     },
     ["Website URL copied to clipboard"] = {
         ["en"] = "Website URL copied to clipboard",
@@ -1237,7 +1237,7 @@ return {
         ["es"] = "Website URL copied to clipboard",
         ["fr"] = "Website URL copied to clipboard",
         ["de"] = "Website URL copied to clipboard",
-        ["pt"] = "Website URL copied to clipboard",
+        ["pt"] = "Website URL copied to clipboard"
     },
     ["Player Speed"] = {
         ["en"] = "Player Speed",
@@ -1247,7 +1247,7 @@ return {
         ["es"] = "Player Speed",
         ["fr"] = "Player Speed",
         ["de"] = "Player Speed",
-        ["pt"] = "Player Speed",
+        ["pt"] = "Player Speed"
     },
     ["Successfully eliminated all players safely!"] = {
         ["en"] = "Successfully eliminated all players safely!",
@@ -1257,7 +1257,7 @@ return {
         ["es"] = "Successfully eliminated all players safely!",
         ["fr"] = "Successfully eliminated all players safely!",
         ["de"] = "Successfully eliminated all players safely!",
-        ["pt"] = "Successfully eliminated all players safely!",
+        ["pt"] = "Successfully eliminated all players safely!"
     },
     ["Rejoin Server"] = {
         ["en"] = "Rejoin Server",
@@ -1267,7 +1267,7 @@ return {
         ["es"] = "Rejoin Server",
         ["fr"] = "Rejoin Server",
         ["de"] = "Rejoin Server",
-        ["pt"] = "Rejoin Server",
+        ["pt"] = "Rejoin Server"
     },
     ["Time Left"] = {
         ["en"] = "Time Left",
@@ -1277,7 +1277,7 @@ return {
         ["es"] = "Time Left",
         ["fr"] = "Time Left",
         ["de"] = "Time Left",
-        ["pt"] = "Time Left",
+        ["pt"] = "Time Left"
     },
     ["Auto Kill Murder"] = {
         ["en"] = "Auto Kill Murder",
@@ -1287,7 +1287,7 @@ return {
         ["es"] = "Auto Kill Murder",
         ["fr"] = "Auto Kill Murder",
         ["de"] = "Auto Kill Murder",
-        ["pt"] = "Auto Kill Murder",
+        ["pt"] = "Auto Kill Murder"
     },
     ["Anti Fling"] = {
         ["en"] = "Anti Fling",
@@ -1297,7 +1297,7 @@ return {
         ["es"] = "Anti Fling",
         ["fr"] = "Anti Fling",
         ["de"] = "Anti Fling",
-        ["pt"] = "Anti Fling",
+        ["pt"] = "Anti Fling"
     },
     ["Teleport to Murderer"] = {
         ["en"] = "Teleport to Murderer",
@@ -1307,7 +1307,7 @@ return {
         ["es"] = "Teleport to Murderer",
         ["fr"] = "Teleport to Murderer",
         ["de"] = "Teleport to Murderer",
-        ["pt"] = "Teleport to Murderer",
+        ["pt"] = "Teleport to Murderer"
     },
     ["Murderer"] = {
         ["en"] = "Murderer",
@@ -1317,7 +1317,7 @@ return {
         ["es"] = "Murderer",
         ["fr"] = "Murderer",
         ["de"] = "Murderer",
-        ["pt"] = "Murderer",
+        ["pt"] = "Murderer"
     },
     ["Fling Target Player"] = {
         ["en"] = "Fling Target Player",
@@ -1327,7 +1327,7 @@ return {
         ["es"] = "Fling Target Player",
         ["fr"] = "Fling Target Player",
         ["de"] = "Fling Target Player",
-        ["pt"] = "Fling Target Player",
+        ["pt"] = "Fling Target Player"
     },
     ["🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>"] = {
         en = "🎁 <font color=\"#ff8c00\">Get 3 Days FREE Premium!</font>",
@@ -1337,7 +1337,7 @@ return {
         es = "🎁 <font color=\"#ff8c00\">¡Obtén 3 días de Premium GRATIS!</font>",
         fr = "🎁 <font color=\"#ff8c00\">Obtenez 3 jours de Premium GRATUIT !</font>",
         de = "🎁 <font color=\"#ff8c00\">Erhalten Sie 3 Tage KOSTENLOSES Premium!</font>",
-        pt = "🎁 <font color=\"#ff8c00\">Ganhe 3 dias de Premium GRATUITO!</font>",
+        pt = "🎁 <font color=\"#ff8c00\">Ganhe 3 dias de Premium GRATUITO!</font>"
     },
     ["<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you'll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>"] = {
         en = "<font color=\"#ffffff\">To claim it, visit </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, create an account and link it to Discord, and you'll be given the key </font><font color=\"#ff8c00\"><b>for free!</b></font>",
@@ -1347,7 +1347,7 @@ return {
         es = "<font color=\"#ffffff\">Para reclamarlo, visite </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, cree una cuenta y vincúlela a Discord, y se le dará la clave </font><font color=\"#ff8c00\"><b>¡gratis!</b></font>",
         fr = "<font color=\"#ffffff\">Pour le réclamer, visitez </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, créez un compte et liez-le à Discord, et la clé vous sera donnée </font><font color=\"#ff8c00\"><b>gratuitement !</b></font>",
         de = "<font color=\"#ffffff\">Um es einzufordern, besuchen Sie </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, erstellen Sie ein Konto und verknüpfen Sie es mit Discord. Der Schlüssel wird Ihnen </font><font color=\"#ff8c00\"><b>kostenlos zur Verfügung gestellt!</b></font>",
-        pt = "<font color=\"#ffffff\">Para resgatá-lo, visite </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, crie uma conta e vincule-a ao Discord, e você receberá a chave </font><font color=\"#ff8c00\"><b>de graça!</b></font>",
+        pt = "<font color=\"#ffffff\">Para resgatá-lo, visite </font><font color=\"#1e90ff\"><b>www.sphub.lol</b></font><font color=\"#ffffff\">, crie uma conta e vincule-a ao Discord, e você receberá a chave </font><font color=\"#ff8c00\"><b>de graça!</b></font>"
     },
     ["Select ESP Players"] = {
         ["en"] = "Select ESP Players",
@@ -1357,7 +1357,7 @@ return {
         ["es"] = "Seleccionar jugadores ESP",
         ["fr"] = "Sélectionner les joueurs ESP",
         ["de"] = "ESP-Spieler auswählen",
-        ["pt"] = "Selecionar jogadores ESP",
+        ["pt"] = "Selecionar jogadores ESP"
     },
     ["Innocent"] = {
         ["en"] = "Innocent",
@@ -1367,7 +1367,7 @@ return {
         ["es"] = "Inocente",
         ["fr"] = "Innocent",
         ["de"] = "Unschuldig",
-        ["pt"] = "Inocente",
+        ["pt"] = "Inocente"
     },
     ["Select Tracers Players"] = {
         ["en"] = "Select Tracers Players",
@@ -1377,7 +1377,7 @@ return {
         ["es"] = "Seleccionar jugadores de trazadores",
         ["fr"] = "Sélectionner les traceurs de joueurs",
         ["de"] = "Tracer-Spieler auswählen",
-        ["pt"] = "Selecionar jogadores de traçadores",
+        ["pt"] = "Selecionar jogadores de traçadores"
     }
 ,
     ["Bring Everyone"] = {
@@ -1388,7 +1388,7 @@ return {
         ["es"] = "Traer a Todos",
         ["fr"] = "Amener Tout le Monde",
         ["de"] = "Alle Bringen",
-        ["pt"] = "Trazer Todos",
+        ["pt"] = "Trazer Todos"
     },
     ["Default Fov"] = {
         ["en"] = "Default FOV",
@@ -1398,7 +1398,7 @@ return {
         ["es"] = "FOV por Defecto",
         ["fr"] = "FOV par Défaut",
         ["de"] = "Standard-FOV",
-        ["pt"] = "FOV Padrão",
+        ["pt"] = "FOV Padrão"
     },
     ["ESP X-Ray"] = {
         ["en"] = "ESP X-Ray",
@@ -1408,7 +1408,7 @@ return {
         ["es"] = "ESP Rayos X",
         ["fr"] = "ESP X-Ray",
         ["de"] = "ESP X-Ray",
-        ["pt"] = "ESP Raio-X",
+        ["pt"] = "ESP Raio-X"
     },
     ["Fov Changer"] = {
         ["en"] = "FOV Changer",
@@ -1418,7 +1418,7 @@ return {
         ["es"] = "Cambiador de FOV",
         ["fr"] = "Modificateur de FOV",
         ["de"] = "FOV-Änderer",
-        ["pt"] = "Alterador de FOV",
+        ["pt"] = "Alterador de FOV"
     },
     ["Infinite Jump"] = {
         ["en"] = "Infinite Jump",
@@ -1428,7 +1428,7 @@ return {
         ["es"] = "Salto Infinito",
         ["fr"] = "Saut Infini",
         ["de"] = "Unendlicher Sprung",
-        ["pt"] = "Pulo Infinito",
+        ["pt"] = "Pulo Infinito"
     },
     ["Lifetime"] = {
         ["en"] = "Lifetime",
@@ -1438,7 +1438,7 @@ return {
         ["es"] = "De por Vida",
         ["fr"] = "À Vie",
         ["de"] = "Lebenslang",
-        ["pt"] = "Vitalício",
+        ["pt"] = "Vitalício"
     },
     ["Loop detected! Spawned rescue platform locally."] = {
         ["en"] = "Loop detected! Spawned rescue platform locally.",
@@ -1448,7 +1448,7 @@ return {
         ["es"] = "¡Bucle detectado! Plataforma de rescate generada localmente.",
         ["fr"] = "Boucle détectée ! Plateforme de sauvetage générée localement.",
         ["de"] = "Schleife erkannt! Rettungsplattform lokal generiert.",
-        ["pt"] = "Loop detectado! Plataforma de resgate criada localmente.",
+        ["pt"] = "Loop detectado! Plataforma de resgate criada localmente."
     },
     ["Shoot Only When Knife Equipped"] = {
         ["en"] = "Shoot Only When Knife Equipped",
@@ -1458,7 +1458,7 @@ return {
         ["es"] = "Disparar Solo con Cuchillo Equipado",
         ["fr"] = "Tirer Uniquement avec Couteau Équipé",
         ["de"] = "Nur Schießen wenn Messer ausgerüstet",
-        ["pt"] = "Atirar Apenas com Faca Equipada",
+        ["pt"] = "Atirar Apenas com Faca Equipada"
     },
     ["Super Lag Reducer"] = {
         ["en"] = "Super Lag Reducer",
@@ -1468,7 +1468,7 @@ return {
         ["es"] = "Súper Reductor de Lag",
         ["fr"] = "Super Réducteur de Lag",
         ["de"] = "Super-Lag-Reduzierer",
-        ["pt"] = "Super Redutor de Lag",
+        ["pt"] = "Super Redutor de Lag"
     },
     ["Super Lag Reducer Disabled! World restored."] = {
         ["en"] = "Super Lag Reducer Disabled! World restored.",
@@ -1478,7 +1478,7 @@ return {
         ["es"] = "¡Súper Reductor de Lag Desactivado! Mundo restaurado.",
         ["fr"] = "Super Réducteur de Lag Désactivé ! Monde restauré.",
         ["de"] = "Super-Lag-Reduzierer deaktiviert! Welt wiederhergestellt.",
-        ["pt"] = "Super Redutor de Lag Desativado! Mundo restaurado.",
+        ["pt"] = "Super Redutor de Lag Desativado! Mundo restaurado."
     },
     ["Super Lag Reducer Enabled! World optimized."] = {
         ["en"] = "Super Lag Reducer Enabled! World optimized.",
@@ -1488,7 +1488,7 @@ return {
         ["es"] = "¡Súper Reductor de Lag Activado! Mundo optimizado.",
         ["fr"] = "Super Réducteur de Lag Activé ! Monde optimisé.",
         ["de"] = "Super-Lag-Reduzierer aktiviert! Welt optimiert.",
-        ["pt"] = "Super Redutor de Lag Ativado! Mundo otimizado.",
+        ["pt"] = "Super Redutor de Lag Ativado! Mundo otimizado."
     }
 ,
     ["There no gun dropped"] = {
@@ -1499,7 +1499,7 @@ return {
         ["es"] = "No hay arma caída",
         ["fr"] = "Aucune arme tombée",
         ["de"] = "Keine Waffe fallengelassen",
-        ["pt"] = "Nenhuma arma caída",
+        ["pt"] = "Nenhuma arma caída"
     }
 
     ["Link Behind The Murderer"] = {
@@ -1510,7 +1510,7 @@ return {
         ["es"] = "Vincular detrás del asesino",
         ["fr"] = "Lier derrière el tueur",
         ["de"] = "Hinter dem Mörder verbinden",
-        ["pt"] = "Vincular atrás do assassino",
+        ["pt"] = "Vincular atrás do assassino"
     },
     ["Continuously attaches your character right behind the Murderer while facing forward naturally."] = {
         ["en"] = "Continuously attaches your character right behind the Murderer while facing forward naturally.",
@@ -1520,7 +1520,7 @@ return {
         ["es"] = "Mantiene tu personaje justo detrás del Asesino.",
         ["fr"] = "Attache continuellement votre personnage juste derrière le Tueur.",
         ["de"] = "Heftet deinen Charakter kontinuierlich direkt hinter den Mörder.",
-        ["pt"] = "Anexa continuamente seu personagem logo atrás do Assassino.",
+        ["pt"] = "Anexa continuamente seu personagem logo atrás do Assassino."
     },
     ["Smart HitBox"] = {
         ["en"] = "Smart HitBox",
@@ -1530,7 +1530,7 @@ return {
         ["es"] = "HitBox Inteligente",
         ["fr"] = "HitBox Intelligent",
         ["de"] = "Intelligenter HitBox",
-        ["pt"] = "HitBox Inteligente",
+        ["pt"] = "HitBox Inteligente"
     },
     ["Smart HitBox Info"] = {
         ["en"] = "Smart HitBox Info",
@@ -1540,7 +1540,7 @@ return {
         ["es"] = "Info de HitBox Inteligente",
         ["fr"] = "Infos HitBox Intelligent",
         ["de"] = "Intelligente HitBox-Info",
-        ["pt"] = "Info do HitBox Inteligente",
+        ["pt"] = "Info do HitBox Inteligente"
     },
     ["Automatically targets players based on your role: If Murderer -> targets Sheriff & Innocents. If Sheriff -> targets Murderer only."] = {
         ["en"] = "Automatically targets players based on your role: If Murderer -> targets Sheriff & Innocents. If Sheriff -> targets Murderer only.",
@@ -1550,7 +1550,7 @@ return {
         ["es"] = "Apunta automáticamente a jugadores según tu rol.",
         ["fr"] = "Cible automatiquement les joueurs selon votre rôle.",
         ["de"] = "Zielt automatisch auf Spieler basierend auf deiner Rolle.",
-        ["pt"] = "Mire automaticamente em jogadores com base na sua função.",
+        ["pt"] = "Mire automaticamente em jogadores com base na sua função."
     },
     ["Select HitBox Players"] = {
         ["en"] = "Select HitBox Players",
@@ -1560,7 +1560,7 @@ return {
         ["es"] = "Seleccionar jugadores para HitBox",
         ["fr"] = "Sélectionner joueurs pour HitBox",
         ["de"] = "HitBox-Spieler auswählen",
-        ["pt"] = "Selecionar jogadores para HitBox",
+        ["pt"] = "Selecionar jogadores para HitBox"
     },
     ["HitBox"] = {
         ["en"] = "HitBox",
@@ -1570,7 +1570,7 @@ return {
         ["es"] = "HitBox",
         ["fr"] = "HitBox",
         ["de"] = "HitBox",
-        ["pt"] = "HitBox",
+        ["pt"] = "HitBox"
     },
     ["HitBox Size"] = {
         ["en"] = "HitBox Size",
@@ -1580,7 +1580,7 @@ return {
         ["es"] = "Tamaño de HitBox",
         ["fr"] = "Taille du HitBox",
         ["de"] = "HitBox-Größe",
-        ["pt"] = "Tamanho do HitBox",
+        ["pt"] = "Tamanho do HitBox"
     },
     ["Reset Mobile Button Positions"] = {
         ["en"] = "Reset Mobile Button Positions",
@@ -1590,7 +1590,7 @@ return {
         ["es"] = "Restablecer botones móviles",
         ["fr"] = "Réinitialiser boutons mobiles",
         ["de"] = "Mobile Tastenpositionen zurücksetzen",
-        ["pt"] = "Redefinir botões móveis",
+        ["pt"] = "Redefinir botões móveis"
     },
     ["Mobile Buttons Size"] = {
         ["en"] = "Mobile Buttons Size",
@@ -1600,7 +1600,7 @@ return {
         ["es"] = "Tamaño de botones móviles",
         ["fr"] = "Taille boutons mobiles",
         ["de"] = "Größe mobiler Tasten",
-        ["pt"] = "Tamanho dos botões móveis",
+        ["pt"] = "Tamanho dos botões móveis"
     },
     ["Faster Grab Gun Button"] = {
         ["en"] = "Faster Grab Gun Button",
@@ -1610,7 +1610,7 @@ return {
         ["es"] = "Boton rápido para tomar arma",
         ["fr"] = "Bouton attraper arme rapide",
         ["de"] = "Schnellere Waffe-Aufnehmen-Taste",
-        ["pt"] = "Botão rápido de pegar arma",
+        ["pt"] = "Botão rápido de pegar arma"
     },
     ["Works for kill murder just"] = {
         ["en"] = "Works for kill murder just",
@@ -1620,7 +1620,7 @@ return {
         ["es"] = "Solo funciona para matar al asesino",
         ["fr"] = "Fonctionne uniquement pour tuer le tueur",
         ["de"] = "Funktioniert nur zum Töten des Mörders",
-        ["pt"] = "Funciona apenas para matar o assassino",
+        ["pt"] = "Funciona apenas para matar o assassino"
     },
     ["Smart Motion Aim"] = {
         ["en"] = "Smart Motion Aim",
@@ -1630,7 +1630,7 @@ return {
         ["es"] = "Apuntado Inteligente",
         ["fr"] = "Visée Intelligente",
         ["de"] = "Intelligentes Zielen",
-        ["pt"] = "Mira Inteligente",
+        ["pt"] = "Mira Inteligente"
     },
     ["Dynamically expands the invisible shot hitbox exactly where bullets are fired without showing any box growth."] = {
         ["en"] = "Dynamically expands the invisible shot hitbox exactly where bullets are fired without showing any box growth.",
@@ -1640,7 +1640,7 @@ return {
         ["es"] = "Expande dinámicamente el hitbox invisible del disparo.",
         ["fr"] = "Élargit dynamiquement la hitbox invisible du tir.",
         ["de"] = "Erweitert dynamisch die unsichtbare Schuss-Hitbox.",
-        ["pt"] = "Expande dinamicamente a hitbox invisível do tiro.",
+        ["pt"] = "Expande dinamicamente a hitbox invisível do tiro."
     },
     ["Motion Aim Visualizer"] = {
         ["en"] = "Motion Aim Visualizer",
@@ -1650,7 +1650,7 @@ return {
         ["es"] = "Visualizador de apuntado",
         ["fr"] = "Visualiseur de visée",
         ["de"] = "Ziel-Visualisierer",
-        ["pt"] = "Visualizador de mira",
+        ["pt"] = "Visualizador de mira"
     },
     ["Copy Motion Aim Logs"] = {
         ["en"] = "Copy Motion Aim Logs",
@@ -1660,7 +1660,7 @@ return {
         ["es"] = "Copiar registros de apuntado",
         ["fr"] = "Copier les journaux de visée",
         ["de"] = "Ziel-Protokolle kopieren",
-        ["pt"] = "Copiar logs de mira",
+        ["pt"] = "Copiar logs de mira"
     },
     ["Sheriff Utilities"] = {
         ["en"] = "Sheriff Utilities",
@@ -1670,7 +1670,7 @@ return {
         ["es"] = "Utilidades del sheriff",
         ["fr"] = "Utilitaires du sheriff",
         ["de"] = "Sheriff-Werkzeuge",
-        ["pt"] = "Utilitários do xerife",
+        ["pt"] = "Utilitários do xerife"
     },
     ["Kill Murderer"] = {
         ["en"] = "Kill Murderer",
@@ -1680,7 +1680,7 @@ return {
         ["es"] = "Matar al asesino",
         ["fr"] = "Tuer le tueur",
         ["de"] = "Mörder töten",
-        ["pt"] = "Matar o assassino",
+        ["pt"] = "Matar o assassino"
     },
     ["Murderer Automation"] = {
         ["en"] = "Murderer Automation",
@@ -1690,7 +1690,7 @@ return {
         ["es"] = "Automatización del asesino",
         ["fr"] = "Automatisation du tueur",
         ["de"] = "Mörder-Automatisierung",
-        ["pt"] = "Automação do assassino",
+        ["pt"] = "Automação do assassino"
     },
     ["Troll & Fling"] = {
         ["en"] = "Troll & Fling",
@@ -1700,7 +1700,7 @@ return {
         ["es"] = "Troll y Fling",
         ["fr"] = "Troll et Fling",
         ["de"] = "Troll & Fling",
-        ["pt"] = "Troll e Fling",
+        ["pt"] = "Troll e Fling"
     },
     ["Movement & Physics"] = {
         ["en"] = "Movement & Physics",
@@ -1710,7 +1710,7 @@ return {
         ["es"] = "Movimiento y física",
         ["fr"] = "Mouvement et physique",
         ["de"] = "Bewegung & Physik",
-        ["pt"] = "Movimento e física",
+        ["pt"] = "Movimento e física"
     },
     ["Camera & FOV"] = {
         ["en"] = "Camera & FOV",
@@ -1720,7 +1720,7 @@ return {
         ["es"] = "Cámara y FOV",
         ["fr"] = "Caméra et FOV",
         ["de"] = "Kamera & FOV",
-        ["pt"] = "Câmera e FOV",
+        ["pt"] = "Câmera e FOV"
     },
     ["Flight & Invisibility"] = {
         ["en"] = "Flight & Invisibility",
@@ -1730,7 +1730,7 @@ return {
         ["es"] = "Vuelo e invisibilidad",
         ["fr"] = "Vol et invisibilité",
         ["de"] = "Flug & Unsichtbarkeit",
-        ["pt"] = "Voo e invisibilidade",
+        ["pt"] = "Voo e invisibilidade"
     },
     ["ESP Traps"] = {
         ["en"] = "ESP Traps",
@@ -1740,7 +1740,7 @@ return {
         ["es"] = "ESP de trampas",
         ["fr"] = "ESP Pièges",
         ["de"] = "Fallen ESP",
-        ["pt"] = "ESP de armadilhas",
+        ["pt"] = "ESP de armadilhas"
     },
     ["Auto Equip Weapon"] = {
         ["en"] = "Auto Equip Weapon",
@@ -1750,7 +1750,7 @@ return {
         ["es"] = "Equipar arma automáticamente",
         ["fr"] = "Équiper arme auto",
         ["de"] = "Waffe automatisch ausrüsten",
-        ["pt"] = "Equipar arma auto",
+        ["pt"] = "Equipar arma auto"
     },
     ["Kill Aura"] = {
         ["en"] = "Kill Aura",
@@ -1760,7 +1760,7 @@ return {
         ["es"] = "Aura de muerte",
         ["fr"] = "Aura de meurtre",
         ["de"] = "Tötungsaura",
-        ["pt"] = "Aura de assassinato",
+        ["pt"] = "Aura de assassinato"
     },
     ["Kill Aura Range"] = {
         ["en"] = "Kill Aura Range",
@@ -1770,7 +1770,7 @@ return {
         ["es"] = "Rango de aura de muerte",
         ["fr"] = "Portée aura de meurtre",
         ["de"] = "Tötungsaura-Reichweite",
-        ["pt"] = "Alcance da aura",
+        ["pt"] = "Alcance da aura"
     },
     ["Show Aura Circle"] = {
         ["en"] = "Show Aura Circle",
@@ -1780,7 +1780,7 @@ return {
         ["es"] = "Mostrar círculo de aura",
         ["fr"] = "Afficher cercle d'aura",
         ["de"] = "Aura-Kreis anzeigen",
-        ["pt"] = "Mostrar círculo de aura",
+        ["pt"] = "Mostrar círculo de aura"
     },
     ["Trap"] = {
         ["en"] = "Trap",
@@ -1790,6 +1790,6 @@ return {
         ["es"] = "Trampa",
         ["fr"] = "Piège",
         ["de"] = "Falle",
-        ["pt"] = "Armadilha",
-    },
+        ["pt"] = "Armadilha"
+    }
 }

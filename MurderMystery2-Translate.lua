@@ -1791,5 +1791,5 @@ return {
         ["fr"] = "Piège",
         ["de"] = "Falle",
         ["pt"] = "Armadilha",
-    }
+    },
 }
